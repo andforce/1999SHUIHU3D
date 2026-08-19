@@ -1,3 +1,9 @@
 .DS_Store
 __pycache__/
 *.py[cod]
+node_modules/
+dist/
+coverage/
+public/generated/
+src/generated/catalog.json
+npm-debug.log*
