@@ -1,0 +1,10 @@
+Use case: stylized-concept
+Asset type: professional game/animation mount model sheet
+Input images: Image 1 is the sole primary visual evidence for the mount of character 002; Image 2 is the generated owner turnaround and scale/style anchor.
+Primary request: Create one complete landscape five-view model sheet of the exact same mount: 白色战马，金色额甲、黑色颈甲、蓝色胸穗与金色马具.
+Confirmed evidence to preserve: 身份与外形：长方脸、浓眉、目光威严；黑发大部被金色尖顶盔遮挡；浓黑长髭与及胸长须；高大健壮、骑将体型；服装：金红重甲、尖顶金盔、红披风、紫灰围巾与金色护腿；主配色：金、红、黑、紫灰、白；武器或标志装备：长柄金属兵器与红色战旗组合装备；坐骑：白色战马，金色额甲、黑色颈甲、蓝色胸穗与金色马具.
+Inferred restraint: 人物背部服装按正侧面同材质、同层级连续闭合，不新增徽章、纹样或第二套配件；被动作遮挡的左右肢体、鞋履和服装侧缝采用最克制、近似对称且易修改的补全；武器或标志装备的反面、薄侧面与被裁切末端采用无额外装饰的结构性补全；坐骑远侧四肢、尾部和被遮挡马具按可见体型与同类连接关系自然补全.
+Unknown and editable: 马匹远侧甲具、兵器完整头部和人物背甲被遮挡；原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知.
+Views/layout: arrange the same full-body mount as front, front three-quarter, true side, back three-quarter and true back with consistent height, anatomy, coat colors, markings, mane, tail and tack; all feet/hooves visible. Add one smaller owner-and-mount standing scale comparison and one small natural riding-contact reference. Show saddle, bridle, reins, armor, blanket, bags and ornaments only when visible in Image 1; do not invent missing tack.
+Style/medium: same bold black ink contours and late-1990s hand-painted cel/watercolor rendering as both references; clean production model sheet on plain warm light-gray background with even working light.
+Constraints: one mount identity across all views; accurate animal anatomy; consistent tack attachment and owner scale; complete and uncropped. No title, labels, arrows, measurements, text, watermark, scenery, extra mounts, extra riders, extra limbs, malformed hooves, duplicated tack, accidental mirroring or unsupported decoration.

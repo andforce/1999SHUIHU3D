@@ -1,0 +1,10 @@
+Use case: stylized-concept
+Asset type: professional game/animation standalone weapon or signature-equipment model sheet
+Input images: Image 1 is the original visual evidence for character 059; Image 2 is the generated character turnaround and scale/style anchor.
+Primary request: Create one clean landscape independent design sheet for this exact weapon or signature equipment: 细长银色佩剑与背负弓箭／箭囊.
+Confirmed evidence to preserve: 身份与外形：瓜子脸、细眉、神情沉静；黑色长发藏于金色珠花头盔与红披巾内；无胡须；修长健美、骑手体型；服装：红紫金女式札甲、红披风、紫色裙甲与金色护臂；主配色：红、紫、金、白、粉；武器或标志装备：细长银色佩剑与背负弓箭／箭囊；坐骑：红棕战马，白色长鬃、金红鞍具与花纹鞍垫.
+Inferred restraint: 人物背部服装按正侧面同材质、同层级连续闭合，不新增徽章、纹样或第二套配件；被动作遮挡的左右肢体、鞋履和服装侧缝采用最克制、近似对称且易修改的补全；武器或标志装备的反面、薄侧面与被裁切末端采用无额外装饰的结构性补全；坐骑远侧四肢、尾部和被遮挡马具按可见体型与同类连接关系自然补全.
+Unknown and editable: 佩剑刃形、马匹远侧鞍具和背甲不可见；原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知.
+Views/layout: show a large complete main face view, complete reverse view, true thinnest side profile, key construction details, natural grip/holding relationship, storage or body-attachment relationship when visible, and a small full-body silhouette of character 059 for accurate scale. If the specification contains multiple related items, arrange them as one readable arsenal/equipment sheet without shrinking key objects.
+Style/medium: same bold black ink contours and late-1990s hand-painted cel/watercolor rendering as both references; precise production drawing on plain warm light-gray background with even working light.
+Constraints: every orthographic depiction must represent the same object design, proportions, materials, colors, blade orientation, grip placement and attachment logic. Complete and uncropped. Do not add unseen tassels, emblems, writing, magical effects, mechanisms, extra blades, metal hooks or decoration. No title, labels, arrows, measurements, text, watermark, scenery, unrelated weapons, duplicated components, fused hands, extra limbs, or cropping.

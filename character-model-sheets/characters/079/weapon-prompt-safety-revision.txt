@@ -1,0 +1,11 @@
+Use case: stylized-concept, neutral theatrical prop documentation.
+Asset type: professional game/animation standalone inert costume-prop model sheet.
+Input image: the generated character turnaround is the only visual reference and is used solely for palette, style and scale.
+
+Create one clean landscape production sheet for two harmless, non-functional costume props: a short straight stage sword kept fully inside an opaque fitted scabbard, and a small bundle of blunt-tipped decorative practice arrows stored in a closed quiver. Never show an exposed blade, sharp arrowhead, projectile in flight, arrow attached to a body, injury, wound, blood, damage, threat, attack, conflict, victim, target, or action scene.
+
+Preserve the color relationship from character 079: silver-gray trim, dark handle and scabbard, restrained gray-white, purple, gold-black, green and red accents. The standing scale figure is calm and neutral, wearing gray-white short armor, purple trousers, gold-black leg guards, green waist cloth and red belt; no arrows or damage on the body.
+
+Layout: large complete main face of the fully sheathed prop, complete reverse, true thin side profile, handle-wrap and scabbard-mouth details, closed quiver front/reverse/side views, belt-loop/storage details without hands, and one small neutral standing scale figure. Plain warm light-gray background, even working light, bold black ink contours and late-1990s hand-painted cel/watercolor rendering. All views must depict the exact same inert prop proportions, materials, colors and attachment logic. Complete and uncropped.
+
+Do not add writing, symbols, labels, arrows-as-diagram-marks, measurements, text, watermark, scenery, exposed blade, sharp points, mechanisms, hands, action poses, extra objects, or cropping.

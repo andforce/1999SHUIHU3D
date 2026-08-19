@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "id": "044",
+  "name": "",
+  "source": "/Users/dywang/Desktop/1999年小浣熊水浒/044.png",
+  "status": "generated",
+  "evidence": {
+    "confirmed": [
+      "身份与外形：清秀方脸、神情沉稳；黑色卷发以蓝色头带束住；无清晰胡须；高挑健壮。",
+      "服装：深浅蓝交叠长袍、绿色袖口护具、绿色飘带与紫色球形配饰。",
+      "主配色：深蓝、浅蓝、绿、紫。"
+    ],
+    "inferred": [
+      "人物背部服装按正侧面同材质、同层级连续闭合，不新增徽章、纹样或第二套配件。",
+      "被动作遮挡的左右肢体、鞋履和服装侧缝采用最克制、近似对称且易修改的补全。"
+    ],
+    "unknown": [
+      "球形配饰用途、袍服背面和鞋履受水流遮挡",
+      "原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知。"
+    ]
+  },
+  "character": {
+    "identity": {
+      "gender_presentation": "男性",
+      "apparent_age": "青年",
+      "face": "清秀方脸、神情沉稳",
+      "hair": "黑色卷发以蓝色头带束住",
+      "facial_hair": "无清晰胡须",
+      "body_type": "高挑健壮",
+      "body_proportions": "保持原图人物独有的高矮、胖瘦和头身比例，不为批量整齐而统一体型"
+    },
+    "costume_layers": [
+      "深浅蓝交叠长袍",
+      "绿色袖口护具",
+      "绿色飘带与紫色球形配饰"
+    ],
+    "palette": [
+      "深蓝",
+      "浅蓝",
+      "绿",
+      "紫"
+    ],
+    "materials": [
+      "织物按原图褶皱与厚薄表现",
+      "金属、皮革、毛皮或木材仅在原图可见时保留相应质感"
+    ],
+    "patterns_and_symbols": [
+      "只保留原图清楚可见的纹样、甲片分格和装饰位置，不生成文字或新徽记"
+    ],
+    "left_right_asymmetry": [
+      "紫色球形配饰和绿色飘带位置保持一致"
+    ],
+    "must_preserve": [
+      "清秀方脸、神情沉稳",
+      "黑色卷发以蓝色头带束住",
+      "高挑健壮",
+      "深浅蓝交叠长袍、绿色袖口护具、绿色飘带与紫色球形配饰",
+      "深蓝、浅蓝、绿、紫"
+    ]
+  },
+  "entities": {
+    "weapon": {
+      "presence": "absent",
+      "items": [],
+      "notes": [
+        "原图未见需要独立拆分的武器或标志装备。"
+      ]
+    },
+    "mount": {
+      "presence": "absent",
+      "items": [],
+      "notes": [
+        "原图未见需要独立拆分的坐骑。"
+      ]
+    },
+    "pet": {
+      "presence": "absent",
+      "items": [],
+      "notes": [
+        "原图未见需要独立拆分的宠物。"
+      ]
+    }
+  },
+  "generation": {
+    "views": [
+      "front",
+      "front-three-quarter",
+      "side",
+      "back-three-quarter",
+      "back"
+    ],
+    "pose": "neutral model-sheet pose with arms slightly separated",
+    "background": "plain warm light gray neutral",
+    "notes": [
+      "沿用 001、072、108 已批准基准的暖浅灰画布、强黑墨线、1990 年代手绘赛璐璐与水彩着色。",
+      "人物五视图中不手持大型独立武器，避免遮挡服装；握持、收纳与比例放入实体表。",
+      "五个视角必须同高、同脚底基线、同一身份，且纯侧面与纯背面结构清晰。"
+    ]
+  },
+  "review": {
+    "approved_by": "",
+    "approved_at": "",
+    "notes": [
+      "已完成批量生成与 QA 联系表巡检，等待用户逐角色批准。"
+    ]
+  }
+}

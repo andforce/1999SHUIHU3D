@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: professional game/animation character five-view model sheet
+Input image: Image 1 is the sole primary visual evidence for adult character 033. Preserve the same adult male identity, long angular face, sharp brows, slight confident smile, black long hair tied behind, athletic body proportions, yellow wide trousers, green waist skirt and belt, blue wrist wraps, green lower-leg wraps, and late-1990s ink/cel/watercolor style.
+
+Safety-driven inferred costume revision: replace the exposed upper torso with a fully opaque, high-neck, short-sleeve dark teal martial tunic that completely covers chest, abdomen, back and shoulders. The tunic is plain, functional and non-sheer, with no cutouts. Remove all blood, wounds, scars, gore and injury cues. Present a neutral non-sexual production stance.
+
+Create exactly five full-body views arranged left to right: front, front three-quarter, true side profile, back three-quarter, true back. Identical height, head/body ratio and baselines; equal spacing; arms slightly away from torso; hands relaxed; all feet visible. Maintain the same tunic, yellow trousers, green waist layers, blue wrist wraps and green leg wraps in every view. Back construction should be plain and conservative with no new emblem.
+
+Style: bold black ink contours, late-1990s hand-painted cel shading and watercolor coloring, faithful to the source character's era. Plain warm light-gray background and even working light. No weapon, blood, injury, exposed torso, nudity, suggestive pose, title, labels, letters, watermark, scenery, effects, extra people, extra animals, extra limbs, accidental mirroring or cropping.

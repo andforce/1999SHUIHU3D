@@ -1,0 +1,11 @@
+Use case: stylized-concept, neutral museum prop documentation.
+Asset type: professional game/animation standalone signature-equipment model sheet.
+Input images: Image 1 is the original visual evidence for character 010; Image 2 is the generated turnaround used only as a color and scale anchor.
+
+Create one clean landscape archival prop sheet for two inert historical costume accessories: a sealed bamboo cylinder and a short sheathed costume sidearm. Treat both as harmless, non-functional museum display objects. Keep the short object fully inside its opaque scabbard in every view; do not expose a blade or point. No person, hands, gripping, wearing, action pose, conflict, injury, threat, target, damage, blood, or narrative scene.
+
+Preserve confirmed evidence: yellow, deep red, purple, brown and black late-1990s hand-painted cel/watercolor palette; simple bamboo cylinder; compact waist-hung scabbard. Unknown reverse sides and hidden fasteners must use restrained, undecorated structural completion.
+
+Layout: large complete main face view, complete reverse view, true thin side profile, scabbard mouth and cord/loop construction details, bamboo end-cap details, and a neutral ruler-free scale comparison using the two objects side by side. Plain warm light-gray background, even working light, bold black ink contours. Every orthographic depiction must represent the same object proportions, materials, colors and attachment logic. Complete and uncropped.
+
+Do not add writing, symbols, labels, arrows, measurements, text, watermark, scenery, extra objects, exposed sharp edges, mechanisms, magical effects, hands, people, or cropping.

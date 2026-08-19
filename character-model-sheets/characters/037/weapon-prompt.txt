@@ -1,0 +1,10 @@
+Use case: stylized-concept
+Asset type: professional game/animation standalone weapon or signature-equipment model sheet
+Input images: Image 1 is the original visual evidence for character 037; Image 2 is the generated character turnaround and scale/style anchor.
+Primary request: Create one clean landscape independent design sheet for this exact weapon or signature equipment: 背负的双直剑，黑色剑鞘与银色柄首.
+Confirmed evidence to preserve: 身份与外形：长方脸、浓眉、神情深沉；黑发短束并向后梳；黑色短髭与尖短胡；高挑结实；服装：蓝色交领长袍、绿色无袖外褂、红白领缘、深色宽裤；主配色：蓝、绿、红、白、黑；武器或标志装备：背负的双直剑，黑色剑鞘与银色柄首.
+Inferred restraint: 人物背部服装按正侧面同材质、同层级连续闭合，不新增徽章、纹样或第二套配件；被动作遮挡的左右肢体、鞋履和服装侧缝采用最克制、近似对称且易修改的补全；武器或标志装备的反面、薄侧面与被裁切末端采用无额外装饰的结构性补全.
+Unknown and editable: 双剑完整刃形、背带和外褂背面不可见；原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知.
+Views/layout: show a large complete main face view, complete reverse view, true thinnest side profile, key construction details, natural grip/holding relationship, storage or body-attachment relationship when visible, and a small full-body silhouette of character 037 for accurate scale. If the specification contains multiple related items, arrange them as one readable arsenal/equipment sheet without shrinking key objects.
+Style/medium: same bold black ink contours and late-1990s hand-painted cel/watercolor rendering as both references; precise production drawing on plain warm light-gray background with even working light.
+Constraints: every orthographic depiction must represent the same object design, proportions, materials, colors, blade orientation, grip placement and attachment logic. Complete and uncropped. Do not add unseen tassels, emblems, writing, magical effects, mechanisms, extra blades, metal hooks or decoration. No title, labels, arrows, measurements, text, watermark, scenery, unrelated weapons, duplicated components, fused hands, extra limbs, or cropping.

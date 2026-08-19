@@ -1,0 +1,2385 @@
+{
+  "schema_version": 1,
+  "source_dir": "/Users/dywang/Desktop/1999年小浣熊水浒",
+  "project_dir": "/Users/dywang/Desktop/1999年小浣熊水浒/character-model-sheets",
+  "updated_at": "2026-08-18T18:05:34.950248+00:00",
+  "character_count": 108,
+  "characters": [
+    {
+      "id": "001",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/001.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "61ba16c9b0bcc12fd814e256f3348d115dee61c11ed499f9a61fae267a1ec010",
+      "status": "approved",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/001/character-spec.json",
+        "character_turnaround": "characters/001/character-turnaround.png",
+        "weapon_sheet": "characters/001/weapon-sheet.png",
+        "mount_sheet": "characters/001/mount-sheet.png",
+        "pet_sheet": "characters/001/pet-sheet.png",
+        "review_notes": "characters/001/review-notes.md"
+      }
+    },
+    {
+      "id": "002",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/002.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "c24bbb7b8d2124fab230873d29c815f4805b5c38ea049f0731943c2a85bc28d9",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "present",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/002/character-spec.json",
+        "character_turnaround": "characters/002/character-turnaround.png",
+        "weapon_sheet": "characters/002/weapon-sheet.png",
+        "mount_sheet": "characters/002/mount-sheet.png",
+        "pet_sheet": "characters/002/pet-sheet.png",
+        "review_notes": "characters/002/review-notes.md"
+      }
+    },
+    {
+      "id": "003",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/003.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "c4f33717d1ed4d73f45f76e4c6f079d6a6d3b80b6bc99e65a158f7c93d012706",
+      "status": "generated",
+      "entities": {
+        "weapon": "absent",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/003/character-spec.json",
+        "character_turnaround": "characters/003/character-turnaround.png",
+        "weapon_sheet": "characters/003/weapon-sheet.png",
+        "mount_sheet": "characters/003/mount-sheet.png",
+        "pet_sheet": "characters/003/pet-sheet.png",
+        "review_notes": "characters/003/review-notes.md"
+      }
+    },
+    {
+      "id": "004",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/004.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "c851442652eeb772a863634975158335a5990539368f5f43811b8c51ee0c4f9c",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/004/character-spec.json",
+        "character_turnaround": "characters/004/character-turnaround.png",
+        "weapon_sheet": "characters/004/weapon-sheet.png",
+        "mount_sheet": "characters/004/mount-sheet.png",
+        "pet_sheet": "characters/004/pet-sheet.png",
+        "review_notes": "characters/004/review-notes.md"
+      }
+    },
+    {
+      "id": "005",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/005.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "2e535d88ca07e15e2aee856c080e7f416610a02e6dfb0ab6a6147683fbaf9f2d",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "present",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/005/character-spec.json",
+        "character_turnaround": "characters/005/character-turnaround.png",
+        "weapon_sheet": "characters/005/weapon-sheet.png",
+        "mount_sheet": "characters/005/mount-sheet.png",
+        "pet_sheet": "characters/005/pet-sheet.png",
+        "review_notes": "characters/005/review-notes.md"
+      }
+    },
+    {
+      "id": "006",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/006.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "41fec32c96f7f1630efbb4e4138d29d34c53a879f87af558282f01f65af11751",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/006/character-spec.json",
+        "character_turnaround": "characters/006/character-turnaround.png",
+        "weapon_sheet": "characters/006/weapon-sheet.png",
+        "mount_sheet": "characters/006/mount-sheet.png",
+        "pet_sheet": "characters/006/pet-sheet.png",
+        "review_notes": "characters/006/review-notes.md"
+      }
+    },
+    {
+      "id": "007",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/007.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "82451a654b11a1903d7fb2ec56319343d48493ddff41ff50d039bd265bdcfaac",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "present",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/007/character-spec.json",
+        "character_turnaround": "characters/007/character-turnaround.png",
+        "weapon_sheet": "characters/007/weapon-sheet.png",
+        "mount_sheet": "characters/007/mount-sheet.png",
+        "pet_sheet": "characters/007/pet-sheet.png",
+        "review_notes": "characters/007/review-notes.md"
+      }
+    },
+    {
+      "id": "008",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/008.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "e9fac91e3b88e6d6dfed34943e702294ac7985634e7a96cede5505ba407cde26",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/008/character-spec.json",
+        "character_turnaround": "characters/008/character-turnaround.png",
+        "weapon_sheet": "characters/008/weapon-sheet.png",
+        "mount_sheet": "characters/008/mount-sheet.png",
+        "pet_sheet": "characters/008/pet-sheet.png",
+        "review_notes": "characters/008/review-notes.md"
+      }
+    },
+    {
+      "id": "009",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/009.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "e2add5cb7cc9d30e742157860a015863a7498ee7af1f7bfaac427bf7acb4a586",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "present",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/009/character-spec.json",
+        "character_turnaround": "characters/009/character-turnaround.png",
+        "weapon_sheet": "characters/009/weapon-sheet.png",
+        "mount_sheet": "characters/009/mount-sheet.png",
+        "pet_sheet": "characters/009/pet-sheet.png",
+        "review_notes": "characters/009/review-notes.md"
+      }
+    },
+    {
+      "id": "010",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/010.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "433bb26553554a6f7e163e3db4f5d2f7018aa64ce4eb7d8e98aaef406604405c",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/010/character-spec.json",
+        "character_turnaround": "characters/010/character-turnaround.png",
+        "weapon_sheet": "characters/010/weapon-sheet.png",
+        "mount_sheet": "characters/010/mount-sheet.png",
+        "pet_sheet": "characters/010/pet-sheet.png",
+        "review_notes": "characters/010/review-notes.md"
+      }
+    },
+    {
+      "id": "011",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/011.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "345e7c842912958b61aeaca27b56162e5d526385abcf7a7f16248e315af10e56",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/011/character-spec.json",
+        "character_turnaround": "characters/011/character-turnaround.png",
+        "weapon_sheet": "characters/011/weapon-sheet.png",
+        "mount_sheet": "characters/011/mount-sheet.png",
+        "pet_sheet": "characters/011/pet-sheet.png",
+        "review_notes": "characters/011/review-notes.md"
+      }
+    },
+    {
+      "id": "012",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/012.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "9113a34c127fb8dff8b48843fea82ee95a559970683b2981c479749aa98d01cb",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/012/character-spec.json",
+        "character_turnaround": "characters/012/character-turnaround.png",
+        "weapon_sheet": "characters/012/weapon-sheet.png",
+        "mount_sheet": "characters/012/mount-sheet.png",
+        "pet_sheet": "characters/012/pet-sheet.png",
+        "review_notes": "characters/012/review-notes.md"
+      }
+    },
+    {
+      "id": "013",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/013.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "bccd79187c6681e3b293f0a481442e2b77d68b27053c58bb97563134f3f8e664",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/013/character-spec.json",
+        "character_turnaround": "characters/013/character-turnaround.png",
+        "weapon_sheet": "characters/013/weapon-sheet.png",
+        "mount_sheet": "characters/013/mount-sheet.png",
+        "pet_sheet": "characters/013/pet-sheet.png",
+        "review_notes": "characters/013/review-notes.md"
+      }
+    },
+    {
+      "id": "014",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/014.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "6c66b1e7f24c15aaea8b2ded281e92e517a545b15db17e8805cac2c79c77dda6",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/014/character-spec.json",
+        "character_turnaround": "characters/014/character-turnaround.png",
+        "weapon_sheet": "characters/014/weapon-sheet.png",
+        "mount_sheet": "characters/014/mount-sheet.png",
+        "pet_sheet": "characters/014/pet-sheet.png",
+        "review_notes": "characters/014/review-notes.md"
+      }
+    },
+    {
+      "id": "015",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/015.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "839060933e1a4d9528d278cb5776c6810d2941cf0bdff48bc0411327ea26bd40",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/015/character-spec.json",
+        "character_turnaround": "characters/015/character-turnaround.png",
+        "weapon_sheet": "characters/015/weapon-sheet.png",
+        "mount_sheet": "characters/015/mount-sheet.png",
+        "pet_sheet": "characters/015/pet-sheet.png",
+        "review_notes": "characters/015/review-notes.md"
+      }
+    },
+    {
+      "id": "016",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/016.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "657e0e54d4c1488abe8496e80b007b6d9a0b33703d785d2e5066d999de75dc92",
+      "status": "generated",
+      "entities": {
+        "weapon": "absent",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/016/character-spec.json",
+        "character_turnaround": "characters/016/character-turnaround.png",
+        "weapon_sheet": "characters/016/weapon-sheet.png",
+        "mount_sheet": "characters/016/mount-sheet.png",
+        "pet_sheet": "characters/016/pet-sheet.png",
+        "review_notes": "characters/016/review-notes.md"
+      }
+    },
+    {
+      "id": "017",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/017.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "c1fb07d9a542a87291aca7267e3d1c8c9dd0c08ee80cbfaacf4fd1764db31284",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/017/character-spec.json",
+        "character_turnaround": "characters/017/character-turnaround.png",
+        "weapon_sheet": "characters/017/weapon-sheet.png",
+        "mount_sheet": "characters/017/mount-sheet.png",
+        "pet_sheet": "characters/017/pet-sheet.png",
+        "review_notes": "characters/017/review-notes.md"
+      }
+    },
+    {
+      "id": "018",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/018.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "c8ab98ec97ba00379be4cfccf1a7651c5bcb55a751d88afc2c240843d3ca2772",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "present",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/018/character-spec.json",
+        "character_turnaround": "characters/018/character-turnaround.png",
+        "weapon_sheet": "characters/018/weapon-sheet.png",
+        "mount_sheet": "characters/018/mount-sheet.png",
+        "pet_sheet": "characters/018/pet-sheet.png",
+        "review_notes": "characters/018/review-notes.md"
+      }
+    },
+    {
+      "id": "019",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/019.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "d78bc06089b7ca2fee748333465b07fe91a3f414edaf701218ccee6170b0d524",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "present",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/019/character-spec.json",
+        "character_turnaround": "characters/019/character-turnaround.png",
+        "weapon_sheet": "characters/019/weapon-sheet.png",
+        "mount_sheet": "characters/019/mount-sheet.png",
+        "pet_sheet": "characters/019/pet-sheet.png",
+        "review_notes": "characters/019/review-notes.md"
+      }
+    },
+    {
+      "id": "020",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/020.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "4295857d27f51cf690dab9fa9a82d3d20a902ba612d379ebb62a02831cac6881",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/020/character-spec.json",
+        "character_turnaround": "characters/020/character-turnaround.png",
+        "weapon_sheet": "characters/020/weapon-sheet.png",
+        "mount_sheet": "characters/020/mount-sheet.png",
+        "pet_sheet": "characters/020/pet-sheet.png",
+        "review_notes": "characters/020/review-notes.md"
+      }
+    },
+    {
+      "id": "021",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/021.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "930b258cf08cdb2ee05e48d437d418fdccba505829bac954be2169d02ce2b743",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/021/character-spec.json",
+        "character_turnaround": "characters/021/character-turnaround.png",
+        "weapon_sheet": "characters/021/weapon-sheet.png",
+        "mount_sheet": "characters/021/mount-sheet.png",
+        "pet_sheet": "characters/021/pet-sheet.png",
+        "review_notes": "characters/021/review-notes.md"
+      }
+    },
+    {
+      "id": "022",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/022.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "e257db20864f2b64118e2e8d4922bebf4dde9fbc87b1b37ec6ac30afdd61f1cc",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/022/character-spec.json",
+        "character_turnaround": "characters/022/character-turnaround.png",
+        "weapon_sheet": "characters/022/weapon-sheet.png",
+        "mount_sheet": "characters/022/mount-sheet.png",
+        "pet_sheet": "characters/022/pet-sheet.png",
+        "review_notes": "characters/022/review-notes.md"
+      }
+    },
+    {
+      "id": "023",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/023.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "274348595a89dabdb4f891cba6361449401e4cc361a261408b30f99eb7477180",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/023/character-spec.json",
+        "character_turnaround": "characters/023/character-turnaround.png",
+        "weapon_sheet": "characters/023/weapon-sheet.png",
+        "mount_sheet": "characters/023/mount-sheet.png",
+        "pet_sheet": "characters/023/pet-sheet.png",
+        "review_notes": "characters/023/review-notes.md"
+      }
+    },
+    {
+      "id": "024",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/024.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "9c148512e692e250feaedcf19120a544cd650d0b209a6c6a18344d2f99165580",
+      "status": "generated",
+      "entities": {
+        "weapon": "absent",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/024/character-spec.json",
+        "character_turnaround": "characters/024/character-turnaround.png",
+        "weapon_sheet": "characters/024/weapon-sheet.png",
+        "mount_sheet": "characters/024/mount-sheet.png",
+        "pet_sheet": "characters/024/pet-sheet.png",
+        "review_notes": "characters/024/review-notes.md"
+      }
+    },
+    {
+      "id": "025",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/025.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "81133aaac7107bc36fecd62d08a913350f994141d65d8a2f472d8f4bfec53b8c",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/025/character-spec.json",
+        "character_turnaround": "characters/025/character-turnaround.png",
+        "weapon_sheet": "characters/025/weapon-sheet.png",
+        "mount_sheet": "characters/025/mount-sheet.png",
+        "pet_sheet": "characters/025/pet-sheet.png",
+        "review_notes": "characters/025/review-notes.md"
+      }
+    },
+    {
+      "id": "026",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/026.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "8c743fd1006016a9e9d4cf486ebd09cc219320d060f3bb98e98f7b9e6e201730",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/026/character-spec.json",
+        "character_turnaround": "characters/026/character-turnaround.png",
+        "weapon_sheet": "characters/026/weapon-sheet.png",
+        "mount_sheet": "characters/026/mount-sheet.png",
+        "pet_sheet": "characters/026/pet-sheet.png",
+        "review_notes": "characters/026/review-notes.md"
+      }
+    },
+    {
+      "id": "027",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/027.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "7d551e257cc466c670a696db87fcf4084baf9eb97a8d19b9f13cf55c5e84a0bf",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/027/character-spec.json",
+        "character_turnaround": "characters/027/character-turnaround.png",
+        "weapon_sheet": "characters/027/weapon-sheet.png",
+        "mount_sheet": "characters/027/mount-sheet.png",
+        "pet_sheet": "characters/027/pet-sheet.png",
+        "review_notes": "characters/027/review-notes.md"
+      }
+    },
+    {
+      "id": "028",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/028.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "c3e71d134540d186b8c5f5c9e9c084cd997710b0a833be66e84f994a4a1f8477",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/028/character-spec.json",
+        "character_turnaround": "characters/028/character-turnaround.png",
+        "weapon_sheet": "characters/028/weapon-sheet.png",
+        "mount_sheet": "characters/028/mount-sheet.png",
+        "pet_sheet": "characters/028/pet-sheet.png",
+        "review_notes": "characters/028/review-notes.md"
+      }
+    },
+    {
+      "id": "029",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/029.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "f7fb434b9ae6d8d95791d5e5375aba1d987863e448b7a2c0a835e3ee5aefe5ee",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/029/character-spec.json",
+        "character_turnaround": "characters/029/character-turnaround.png",
+        "weapon_sheet": "characters/029/weapon-sheet.png",
+        "mount_sheet": "characters/029/mount-sheet.png",
+        "pet_sheet": "characters/029/pet-sheet.png",
+        "review_notes": "characters/029/review-notes.md"
+      }
+    },
+    {
+      "id": "030",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/030.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "ee371863487261d6b519e0ef6dc5a32e88f928aa546d1d1c7a1eeb4fda5f751b",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/030/character-spec.json",
+        "character_turnaround": "characters/030/character-turnaround.png",
+        "weapon_sheet": "characters/030/weapon-sheet.png",
+        "mount_sheet": "characters/030/mount-sheet.png",
+        "pet_sheet": "characters/030/pet-sheet.png",
+        "review_notes": "characters/030/review-notes.md"
+      }
+    },
+    {
+      "id": "031",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/031.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "9d24a960b4a212fbb5dfd58bc58c3ceb814b3c8aa85483ffd0bfb67b441cc520",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/031/character-spec.json",
+        "character_turnaround": "characters/031/character-turnaround.png",
+        "weapon_sheet": "characters/031/weapon-sheet.png",
+        "mount_sheet": "characters/031/mount-sheet.png",
+        "pet_sheet": "characters/031/pet-sheet.png",
+        "review_notes": "characters/031/review-notes.md"
+      }
+    },
+    {
+      "id": "032",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/032.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "3910e4d81b5b605a78d2a396bf3ecccb7f040a3ae83dbbeb87f3ed07fef0311e",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/032/character-spec.json",
+        "character_turnaround": "characters/032/character-turnaround.png",
+        "weapon_sheet": "characters/032/weapon-sheet.png",
+        "mount_sheet": "characters/032/mount-sheet.png",
+        "pet_sheet": "characters/032/pet-sheet.png",
+        "review_notes": "characters/032/review-notes.md"
+      }
+    },
+    {
+      "id": "033",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/033.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "067c6e42a550a04ae150c4b817412f92ed1253a16aa1d7ce0b2781e65bc178bb",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/033/character-spec.json",
+        "character_turnaround": "characters/033/character-turnaround.png",
+        "weapon_sheet": "characters/033/weapon-sheet.png",
+        "mount_sheet": "characters/033/mount-sheet.png",
+        "pet_sheet": "characters/033/pet-sheet.png",
+        "review_notes": "characters/033/review-notes.md"
+      }
+    },
+    {
+      "id": "034",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/034.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "aca2f133d9aea990f1650dbc81fa3b71cca6e0c9f2c8d1c36d50580d87811b0b",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/034/character-spec.json",
+        "character_turnaround": "characters/034/character-turnaround.png",
+        "weapon_sheet": "characters/034/weapon-sheet.png",
+        "mount_sheet": "characters/034/mount-sheet.png",
+        "pet_sheet": "characters/034/pet-sheet.png",
+        "review_notes": "characters/034/review-notes.md"
+      }
+    },
+    {
+      "id": "035",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/035.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "a6d830a82ad0f411e2638bfe91024dfe101631ae91bd52abde01e927f548fe16",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/035/character-spec.json",
+        "character_turnaround": "characters/035/character-turnaround.png",
+        "weapon_sheet": "characters/035/weapon-sheet.png",
+        "mount_sheet": "characters/035/mount-sheet.png",
+        "pet_sheet": "characters/035/pet-sheet.png",
+        "review_notes": "characters/035/review-notes.md"
+      }
+    },
+    {
+      "id": "036",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/036.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "8376c436534513ff8cf1ca229022b3df7a4486cee1a1f55f66a356ebc36653f3",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/036/character-spec.json",
+        "character_turnaround": "characters/036/character-turnaround.png",
+        "weapon_sheet": "characters/036/weapon-sheet.png",
+        "mount_sheet": "characters/036/mount-sheet.png",
+        "pet_sheet": "characters/036/pet-sheet.png",
+        "review_notes": "characters/036/review-notes.md"
+      }
+    },
+    {
+      "id": "037",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/037.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "379d1126ccd6a6f98b2d63d91f7ba028ea56275703e01be9f25534268312fecf",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/037/character-spec.json",
+        "character_turnaround": "characters/037/character-turnaround.png",
+        "weapon_sheet": "characters/037/weapon-sheet.png",
+        "mount_sheet": "characters/037/mount-sheet.png",
+        "pet_sheet": "characters/037/pet-sheet.png",
+        "review_notes": "characters/037/review-notes.md"
+      }
+    },
+    {
+      "id": "038",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/038.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "fd4d4fa16ce79f7845a63ec686d9afad01602aa5a76b8d3c483e0fb04bdc040d",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/038/character-spec.json",
+        "character_turnaround": "characters/038/character-turnaround.png",
+        "weapon_sheet": "characters/038/weapon-sheet.png",
+        "mount_sheet": "characters/038/mount-sheet.png",
+        "pet_sheet": "characters/038/pet-sheet.png",
+        "review_notes": "characters/038/review-notes.md"
+      }
+    },
+    {
+      "id": "039",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/039.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "d2662888e0467d0934c4dab157bc065d31334175cd8dad792ab7cc0ee57333a2",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "present",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/039/character-spec.json",
+        "character_turnaround": "characters/039/character-turnaround.png",
+        "weapon_sheet": "characters/039/weapon-sheet.png",
+        "mount_sheet": "characters/039/mount-sheet.png",
+        "pet_sheet": "characters/039/pet-sheet.png",
+        "review_notes": "characters/039/review-notes.md"
+      }
+    },
+    {
+      "id": "040",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/040.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "598435be6016ec73cea5b897e0251a00f2a2a8368bd358de1ecd225082d15af8",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "present",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/040/character-spec.json",
+        "character_turnaround": "characters/040/character-turnaround.png",
+        "weapon_sheet": "characters/040/weapon-sheet.png",
+        "mount_sheet": "characters/040/mount-sheet.png",
+        "pet_sheet": "characters/040/pet-sheet.png",
+        "review_notes": "characters/040/review-notes.md"
+      }
+    },
+    {
+      "id": "041",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/041.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "b074758f921b7e9167427cdd025fcc52317739dd1e13a3a33b7df17c117d808e",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "present",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/041/character-spec.json",
+        "character_turnaround": "characters/041/character-turnaround.png",
+        "weapon_sheet": "characters/041/weapon-sheet.png",
+        "mount_sheet": "characters/041/mount-sheet.png",
+        "pet_sheet": "characters/041/pet-sheet.png",
+        "review_notes": "characters/041/review-notes.md"
+      }
+    },
+    {
+      "id": "042",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/042.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "b4df9566549a1160ece856b5855c832991781063de33f66e9b7964ceedd5b403",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "present",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/042/character-spec.json",
+        "character_turnaround": "characters/042/character-turnaround.png",
+        "weapon_sheet": "characters/042/weapon-sheet.png",
+        "mount_sheet": "characters/042/mount-sheet.png",
+        "pet_sheet": "characters/042/pet-sheet.png",
+        "review_notes": "characters/042/review-notes.md"
+      }
+    },
+    {
+      "id": "043",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/043.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "5216964670823ff5fb748dfb97ba547265e36df8c95b1c76ce20161160077349",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/043/character-spec.json",
+        "character_turnaround": "characters/043/character-turnaround.png",
+        "weapon_sheet": "characters/043/weapon-sheet.png",
+        "mount_sheet": "characters/043/mount-sheet.png",
+        "pet_sheet": "characters/043/pet-sheet.png",
+        "review_notes": "characters/043/review-notes.md"
+      }
+    },
+    {
+      "id": "044",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/044.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "fd14c6a03ee272717c011ed368ff78087c60dfbf92190e8f3d225729e57e3540",
+      "status": "generated",
+      "entities": {
+        "weapon": "absent",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/044/character-spec.json",
+        "character_turnaround": "characters/044/character-turnaround.png",
+        "weapon_sheet": "characters/044/weapon-sheet.png",
+        "mount_sheet": "characters/044/mount-sheet.png",
+        "pet_sheet": "characters/044/pet-sheet.png",
+        "review_notes": "characters/044/review-notes.md"
+      }
+    },
+    {
+      "id": "045",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/045.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "969b786378f458ee9e1e2860d1909bfa82b31c4cadffb541fcf43b37e8839f41",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/045/character-spec.json",
+        "character_turnaround": "characters/045/character-turnaround.png",
+        "weapon_sheet": "characters/045/weapon-sheet.png",
+        "mount_sheet": "characters/045/mount-sheet.png",
+        "pet_sheet": "characters/045/pet-sheet.png",
+        "review_notes": "characters/045/review-notes.md"
+      }
+    },
+    {
+      "id": "046",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/046.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "eddd0f91c5a4b46f7422dd1b27946b4ce7661633ebb614f1afacdcd1a42b7084",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/046/character-spec.json",
+        "character_turnaround": "characters/046/character-turnaround.png",
+        "weapon_sheet": "characters/046/weapon-sheet.png",
+        "mount_sheet": "characters/046/mount-sheet.png",
+        "pet_sheet": "characters/046/pet-sheet.png",
+        "review_notes": "characters/046/review-notes.md"
+      }
+    },
+    {
+      "id": "047",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/047.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "7298b1f6df74b61a848a06f08b9b11812449ffc6861d63120a8fb0c865c99ac2",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/047/character-spec.json",
+        "character_turnaround": "characters/047/character-turnaround.png",
+        "weapon_sheet": "characters/047/weapon-sheet.png",
+        "mount_sheet": "characters/047/mount-sheet.png",
+        "pet_sheet": "characters/047/pet-sheet.png",
+        "review_notes": "characters/047/review-notes.md"
+      }
+    },
+    {
+      "id": "048",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/048.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "4d41e6207007a92b1b0d01654487a17230edf864d1e79e1ad905c93836675964",
+      "status": "generated",
+      "entities": {
+        "weapon": "absent",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/048/character-spec.json",
+        "character_turnaround": "characters/048/character-turnaround.png",
+        "weapon_sheet": "characters/048/weapon-sheet.png",
+        "mount_sheet": "characters/048/mount-sheet.png",
+        "pet_sheet": "characters/048/pet-sheet.png",
+        "review_notes": "characters/048/review-notes.md"
+      }
+    },
+    {
+      "id": "049",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/049.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "81dad5eb575f3b8e44c57c4242b578d1ddf295d222bb5a7ff37ed89495efc58b",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/049/character-spec.json",
+        "character_turnaround": "characters/049/character-turnaround.png",
+        "weapon_sheet": "characters/049/weapon-sheet.png",
+        "mount_sheet": "characters/049/mount-sheet.png",
+        "pet_sheet": "characters/049/pet-sheet.png",
+        "review_notes": "characters/049/review-notes.md"
+      }
+    },
+    {
+      "id": "050",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/050.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "6b1d2385d3771dc973920cbc17b43e4f911ad4fcbd0cec23684e3cc0831f872f",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/050/character-spec.json",
+        "character_turnaround": "characters/050/character-turnaround.png",
+        "weapon_sheet": "characters/050/weapon-sheet.png",
+        "mount_sheet": "characters/050/mount-sheet.png",
+        "pet_sheet": "characters/050/pet-sheet.png",
+        "review_notes": "characters/050/review-notes.md"
+      }
+    },
+    {
+      "id": "051",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/051.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "a4bc00ddba63a1d94c5d7a410ea8cfa19858234384c462c9a30eee94e0494b5f",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/051/character-spec.json",
+        "character_turnaround": "characters/051/character-turnaround.png",
+        "weapon_sheet": "characters/051/weapon-sheet.png",
+        "mount_sheet": "characters/051/mount-sheet.png",
+        "pet_sheet": "characters/051/pet-sheet.png",
+        "review_notes": "characters/051/review-notes.md"
+      }
+    },
+    {
+      "id": "052",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/052.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "d378533e230519490c28edbb6665c403d7ca616205b1876daef47301bc7e96c7",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/052/character-spec.json",
+        "character_turnaround": "characters/052/character-turnaround.png",
+        "weapon_sheet": "characters/052/weapon-sheet.png",
+        "mount_sheet": "characters/052/mount-sheet.png",
+        "pet_sheet": "characters/052/pet-sheet.png",
+        "review_notes": "characters/052/review-notes.md"
+      }
+    },
+    {
+      "id": "053",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/053.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "84c9da0bdfe2b045e7ac26cdd13824c2dbc1ab5e61f7210c23138730d2877d9e",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/053/character-spec.json",
+        "character_turnaround": "characters/053/character-turnaround.png",
+        "weapon_sheet": "characters/053/weapon-sheet.png",
+        "mount_sheet": "characters/053/mount-sheet.png",
+        "pet_sheet": "characters/053/pet-sheet.png",
+        "review_notes": "characters/053/review-notes.md"
+      }
+    },
+    {
+      "id": "054",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/054.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "27abc74e4cdd4efc16a0ff2c542653fb53328157a8e4a8571d24fb7eaf547527",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "present",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/054/character-spec.json",
+        "character_turnaround": "characters/054/character-turnaround.png",
+        "weapon_sheet": "characters/054/weapon-sheet.png",
+        "mount_sheet": "characters/054/mount-sheet.png",
+        "pet_sheet": "characters/054/pet-sheet.png",
+        "review_notes": "characters/054/review-notes.md"
+      }
+    },
+    {
+      "id": "055",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/055.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "dfeb8d3cab7799308739701a3c3d98966689bb4d1923c819457893c40483fe57",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "present",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/055/character-spec.json",
+        "character_turnaround": "characters/055/character-turnaround.png",
+        "weapon_sheet": "characters/055/weapon-sheet.png",
+        "mount_sheet": "characters/055/mount-sheet.png",
+        "pet_sheet": "characters/055/pet-sheet.png",
+        "review_notes": "characters/055/review-notes.md"
+      }
+    },
+    {
+      "id": "056",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/056.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "c241f99fcce601da57fbf07eced7a640957d7551ec97eff2cabc4efc4171720a",
+      "status": "generated",
+      "entities": {
+        "weapon": "absent",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/056/character-spec.json",
+        "character_turnaround": "characters/056/character-turnaround.png",
+        "weapon_sheet": "characters/056/weapon-sheet.png",
+        "mount_sheet": "characters/056/mount-sheet.png",
+        "pet_sheet": "characters/056/pet-sheet.png",
+        "review_notes": "characters/056/review-notes.md"
+      }
+    },
+    {
+      "id": "057",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/057.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "be4feecae057759eb0e7b7261c13d1edbb486b7b0a45cc3c6fdc6f665f94dddb",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/057/character-spec.json",
+        "character_turnaround": "characters/057/character-turnaround.png",
+        "weapon_sheet": "characters/057/weapon-sheet.png",
+        "mount_sheet": "characters/057/mount-sheet.png",
+        "pet_sheet": "characters/057/pet-sheet.png",
+        "review_notes": "characters/057/review-notes.md"
+      }
+    },
+    {
+      "id": "058",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/058.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "833b314a0b50a8b7d2430553ce27dae7b9203534245dbea2d472f193c46a9e25",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/058/character-spec.json",
+        "character_turnaround": "characters/058/character-turnaround.png",
+        "weapon_sheet": "characters/058/weapon-sheet.png",
+        "mount_sheet": "characters/058/mount-sheet.png",
+        "pet_sheet": "characters/058/pet-sheet.png",
+        "review_notes": "characters/058/review-notes.md"
+      }
+    },
+    {
+      "id": "059",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/059.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "bc7f1bdaf88c15859621ee63a713ce9964ddc780a581b6a7e86f6213d4ef63a6",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "present",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/059/character-spec.json",
+        "character_turnaround": "characters/059/character-turnaround.png",
+        "weapon_sheet": "characters/059/weapon-sheet.png",
+        "mount_sheet": "characters/059/mount-sheet.png",
+        "pet_sheet": "characters/059/pet-sheet.png",
+        "review_notes": "characters/059/review-notes.md"
+      }
+    },
+    {
+      "id": "060",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/060.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "b8480ec84d26822a4f8b11855daf174a484078d4eca453f2bbefb47d50570b86",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/060/character-spec.json",
+        "character_turnaround": "characters/060/character-turnaround.png",
+        "weapon_sheet": "characters/060/weapon-sheet.png",
+        "mount_sheet": "characters/060/mount-sheet.png",
+        "pet_sheet": "characters/060/pet-sheet.png",
+        "review_notes": "characters/060/review-notes.md"
+      }
+    },
+    {
+      "id": "061",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/061.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "30d108d8a0818eb8c1ac4cb26bbedd4f50cdd57da2be5c30641aac8868957822",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/061/character-spec.json",
+        "character_turnaround": "characters/061/character-turnaround.png",
+        "weapon_sheet": "characters/061/weapon-sheet.png",
+        "mount_sheet": "characters/061/mount-sheet.png",
+        "pet_sheet": "characters/061/pet-sheet.png",
+        "review_notes": "characters/061/review-notes.md"
+      }
+    },
+    {
+      "id": "062",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/062.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "440e72cdddc1b27e4918fd4bc36390e4830996b81363c668ff174a44b46795f4",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/062/character-spec.json",
+        "character_turnaround": "characters/062/character-turnaround.png",
+        "weapon_sheet": "characters/062/weapon-sheet.png",
+        "mount_sheet": "characters/062/mount-sheet.png",
+        "pet_sheet": "characters/062/pet-sheet.png",
+        "review_notes": "characters/062/review-notes.md"
+      }
+    },
+    {
+      "id": "063",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/063.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "55fd10fa59ff083683ccc9426d4a8d1ecee0b2352744bb6c90f7d7be70b55455",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/063/character-spec.json",
+        "character_turnaround": "characters/063/character-turnaround.png",
+        "weapon_sheet": "characters/063/weapon-sheet.png",
+        "mount_sheet": "characters/063/mount-sheet.png",
+        "pet_sheet": "characters/063/pet-sheet.png",
+        "review_notes": "characters/063/review-notes.md"
+      }
+    },
+    {
+      "id": "064",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/064.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "46bf05de9875202495188b473dcdd756486e32548814068443bcf57b89351faa",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/064/character-spec.json",
+        "character_turnaround": "characters/064/character-turnaround.png",
+        "weapon_sheet": "characters/064/weapon-sheet.png",
+        "mount_sheet": "characters/064/mount-sheet.png",
+        "pet_sheet": "characters/064/pet-sheet.png",
+        "review_notes": "characters/064/review-notes.md"
+      }
+    },
+    {
+      "id": "065",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/065.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "e76a5fcfb6bdd62e3f28ff413a57180864467ae3d1dc3e9fc9dcf6ed342ebb6f",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/065/character-spec.json",
+        "character_turnaround": "characters/065/character-turnaround.png",
+        "weapon_sheet": "characters/065/weapon-sheet.png",
+        "mount_sheet": "characters/065/mount-sheet.png",
+        "pet_sheet": "characters/065/pet-sheet.png",
+        "review_notes": "characters/065/review-notes.md"
+      }
+    },
+    {
+      "id": "066",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/066.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "a646722f1e933e26948037ff72f441013375ddbebc43dc3305712c1de2caed2f",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/066/character-spec.json",
+        "character_turnaround": "characters/066/character-turnaround.png",
+        "weapon_sheet": "characters/066/weapon-sheet.png",
+        "mount_sheet": "characters/066/mount-sheet.png",
+        "pet_sheet": "characters/066/pet-sheet.png",
+        "review_notes": "characters/066/review-notes.md"
+      }
+    },
+    {
+      "id": "067",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/067.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "23566ac90b5ed710f8cdfd68621af7858dea5e799435170a9c8b68c5a89e6dd1",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/067/character-spec.json",
+        "character_turnaround": "characters/067/character-turnaround.png",
+        "weapon_sheet": "characters/067/weapon-sheet.png",
+        "mount_sheet": "characters/067/mount-sheet.png",
+        "pet_sheet": "characters/067/pet-sheet.png",
+        "review_notes": "characters/067/review-notes.md"
+      }
+    },
+    {
+      "id": "068",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/068.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "38dfbb099a66fbd1ed0d786861a7ed6f150f5ad1c41faa0b54804cf7832a330f",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/068/character-spec.json",
+        "character_turnaround": "characters/068/character-turnaround.png",
+        "weapon_sheet": "characters/068/weapon-sheet.png",
+        "mount_sheet": "characters/068/mount-sheet.png",
+        "pet_sheet": "characters/068/pet-sheet.png",
+        "review_notes": "characters/068/review-notes.md"
+      }
+    },
+    {
+      "id": "069",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/069.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "addf7a3a49e8bb38d0c6e8018e0346f524750666be6343e9e99a9d50dad58792",
+      "status": "generated",
+      "entities": {
+        "weapon": "absent",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/069/character-spec.json",
+        "character_turnaround": "characters/069/character-turnaround.png",
+        "weapon_sheet": "characters/069/weapon-sheet.png",
+        "mount_sheet": "characters/069/mount-sheet.png",
+        "pet_sheet": "characters/069/pet-sheet.png",
+        "review_notes": "characters/069/review-notes.md"
+      }
+    },
+    {
+      "id": "070",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/070.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "efcb9c4729eded6dd2aa8dfdb4a6cecd5e6b498c95b38ce93e85fa8b44dfc817",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/070/character-spec.json",
+        "character_turnaround": "characters/070/character-turnaround.png",
+        "weapon_sheet": "characters/070/weapon-sheet.png",
+        "mount_sheet": "characters/070/mount-sheet.png",
+        "pet_sheet": "characters/070/pet-sheet.png",
+        "review_notes": "characters/070/review-notes.md"
+      }
+    },
+    {
+      "id": "071",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/071.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "ccad6b7fc52aa484e96594ff51f0405f43b899b83819a2107c7f53e00c76998c",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/071/character-spec.json",
+        "character_turnaround": "characters/071/character-turnaround.png",
+        "weapon_sheet": "characters/071/weapon-sheet.png",
+        "mount_sheet": "characters/071/mount-sheet.png",
+        "pet_sheet": "characters/071/pet-sheet.png",
+        "review_notes": "characters/071/review-notes.md"
+      }
+    },
+    {
+      "id": "072",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/072.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "575a968644e2fdced2ec915c380e6dd7be24c8ced3affb564ef7cadc78279be8",
+      "status": "approved",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/072/character-spec.json",
+        "character_turnaround": "characters/072/character-turnaround.png",
+        "weapon_sheet": "characters/072/weapon-sheet.png",
+        "mount_sheet": "characters/072/mount-sheet.png",
+        "pet_sheet": "characters/072/pet-sheet.png",
+        "review_notes": "characters/072/review-notes.md"
+      }
+    },
+    {
+      "id": "073",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/073.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "1fa41f1107a083b4c13eaf8af859e1323a1ad05d8b4a57c183b013c8c8b1ade6",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/073/character-spec.json",
+        "character_turnaround": "characters/073/character-turnaround.png",
+        "weapon_sheet": "characters/073/weapon-sheet.png",
+        "mount_sheet": "characters/073/mount-sheet.png",
+        "pet_sheet": "characters/073/pet-sheet.png",
+        "review_notes": "characters/073/review-notes.md"
+      }
+    },
+    {
+      "id": "074",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/074.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "ad975d1d4621167b062186f72389e015375c54d6b4027db69bc6fe281ff1884c",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/074/character-spec.json",
+        "character_turnaround": "characters/074/character-turnaround.png",
+        "weapon_sheet": "characters/074/weapon-sheet.png",
+        "mount_sheet": "characters/074/mount-sheet.png",
+        "pet_sheet": "characters/074/pet-sheet.png",
+        "review_notes": "characters/074/review-notes.md"
+      }
+    },
+    {
+      "id": "075",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/075.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "0fca5d63fdf8bf77149ee3e83c47073fabf995d5c22bc47488d2e32889a3a620",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/075/character-spec.json",
+        "character_turnaround": "characters/075/character-turnaround.png",
+        "weapon_sheet": "characters/075/weapon-sheet.png",
+        "mount_sheet": "characters/075/mount-sheet.png",
+        "pet_sheet": "characters/075/pet-sheet.png",
+        "review_notes": "characters/075/review-notes.md"
+      }
+    },
+    {
+      "id": "076",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/076.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "2a4417f59dad8fd1e59476fa1244e38fbdcd845d004d9a2eb6153628df20eee3",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/076/character-spec.json",
+        "character_turnaround": "characters/076/character-turnaround.png",
+        "weapon_sheet": "characters/076/weapon-sheet.png",
+        "mount_sheet": "characters/076/mount-sheet.png",
+        "pet_sheet": "characters/076/pet-sheet.png",
+        "review_notes": "characters/076/review-notes.md"
+      }
+    },
+    {
+      "id": "077",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/077.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "c3fa612fdbecf1270c116240b1e15402ef7f439dbe5b0e3132bf0871613c978d",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/077/character-spec.json",
+        "character_turnaround": "characters/077/character-turnaround.png",
+        "weapon_sheet": "characters/077/weapon-sheet.png",
+        "mount_sheet": "characters/077/mount-sheet.png",
+        "pet_sheet": "characters/077/pet-sheet.png",
+        "review_notes": "characters/077/review-notes.md"
+      }
+    },
+    {
+      "id": "078",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/078.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "a64712d210c9b5be17726d395d92920d3b7c284daa40a6e8005e36f8f674dec1",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/078/character-spec.json",
+        "character_turnaround": "characters/078/character-turnaround.png",
+        "weapon_sheet": "characters/078/weapon-sheet.png",
+        "mount_sheet": "characters/078/mount-sheet.png",
+        "pet_sheet": "characters/078/pet-sheet.png",
+        "review_notes": "characters/078/review-notes.md"
+      }
+    },
+    {
+      "id": "079",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/079.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "6ecc6d1f8ce10c9384ba1044d71cb9b2dd1cfafd9620c7ebb52bef69006aaf4e",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/079/character-spec.json",
+        "character_turnaround": "characters/079/character-turnaround.png",
+        "weapon_sheet": "characters/079/weapon-sheet.png",
+        "mount_sheet": "characters/079/mount-sheet.png",
+        "pet_sheet": "characters/079/pet-sheet.png",
+        "review_notes": "characters/079/review-notes.md"
+      }
+    },
+    {
+      "id": "080",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/080.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "0a90dcd301215adfe8370a7f4bbc3a8625a0d0c1d5e5541c5bdd1587b21d559c",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/080/character-spec.json",
+        "character_turnaround": "characters/080/character-turnaround.png",
+        "weapon_sheet": "characters/080/weapon-sheet.png",
+        "mount_sheet": "characters/080/mount-sheet.png",
+        "pet_sheet": "characters/080/pet-sheet.png",
+        "review_notes": "characters/080/review-notes.md"
+      }
+    },
+    {
+      "id": "081",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/081.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "cb3df3ce83787b858de8522b6da8e3021f6b4cbcf0bac3ac636cdb7cd9aebcc8",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/081/character-spec.json",
+        "character_turnaround": "characters/081/character-turnaround.png",
+        "weapon_sheet": "characters/081/weapon-sheet.png",
+        "mount_sheet": "characters/081/mount-sheet.png",
+        "pet_sheet": "characters/081/pet-sheet.png",
+        "review_notes": "characters/081/review-notes.md"
+      }
+    },
+    {
+      "id": "082",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/082.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "13a986ee2bbbb7de76e514247c7f348dc360c6de7a8b6b0402f27171246bbcff",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/082/character-spec.json",
+        "character_turnaround": "characters/082/character-turnaround.png",
+        "weapon_sheet": "characters/082/weapon-sheet.png",
+        "mount_sheet": "characters/082/mount-sheet.png",
+        "pet_sheet": "characters/082/pet-sheet.png",
+        "review_notes": "characters/082/review-notes.md"
+      }
+    },
+    {
+      "id": "083",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/083.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "8a4d1540712526ac1bb446971ed4015b75c980bda39c488352943106b7c88fc9",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/083/character-spec.json",
+        "character_turnaround": "characters/083/character-turnaround.png",
+        "weapon_sheet": "characters/083/weapon-sheet.png",
+        "mount_sheet": "characters/083/mount-sheet.png",
+        "pet_sheet": "characters/083/pet-sheet.png",
+        "review_notes": "characters/083/review-notes.md"
+      }
+    },
+    {
+      "id": "084",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/084.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "862432d5018b4dfc7865559d6df30cc59f4e2f4bdc1ffc4edc81fdf9008ab9e9",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/084/character-spec.json",
+        "character_turnaround": "characters/084/character-turnaround.png",
+        "weapon_sheet": "characters/084/weapon-sheet.png",
+        "mount_sheet": "characters/084/mount-sheet.png",
+        "pet_sheet": "characters/084/pet-sheet.png",
+        "review_notes": "characters/084/review-notes.md"
+      }
+    },
+    {
+      "id": "085",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/085.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "22450cc1133858fcb5b79cbe8c73150e3e4d82ec743778fc5850ff4a0f774553",
+      "status": "generated",
+      "entities": {
+        "weapon": "absent",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/085/character-spec.json",
+        "character_turnaround": "characters/085/character-turnaround.png",
+        "weapon_sheet": "characters/085/weapon-sheet.png",
+        "mount_sheet": "characters/085/mount-sheet.png",
+        "pet_sheet": "characters/085/pet-sheet.png",
+        "review_notes": "characters/085/review-notes.md"
+      }
+    },
+    {
+      "id": "086",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/086.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "44b9ea9a29f269bcdbe4baa852f39e549b03af3800565a07ea67df49135254c3",
+      "status": "generated",
+      "entities": {
+        "weapon": "absent",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/086/character-spec.json",
+        "character_turnaround": "characters/086/character-turnaround.png",
+        "weapon_sheet": "characters/086/weapon-sheet.png",
+        "mount_sheet": "characters/086/mount-sheet.png",
+        "pet_sheet": "characters/086/pet-sheet.png",
+        "review_notes": "characters/086/review-notes.md"
+      }
+    },
+    {
+      "id": "087",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/087.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "dc3c948cee40c5822c3601c01f5d2ceed9460930a519be5e4847641add754649",
+      "status": "generated",
+      "entities": {
+        "weapon": "absent",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/087/character-spec.json",
+        "character_turnaround": "characters/087/character-turnaround.png",
+        "weapon_sheet": "characters/087/weapon-sheet.png",
+        "mount_sheet": "characters/087/mount-sheet.png",
+        "pet_sheet": "characters/087/pet-sheet.png",
+        "review_notes": "characters/087/review-notes.md"
+      }
+    },
+    {
+      "id": "088",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/088.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "1cb2ed081a969e5bd683f8d5a9c2bff7066b3662f0d4af6955a1480febebe123",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/088/character-spec.json",
+        "character_turnaround": "characters/088/character-turnaround.png",
+        "weapon_sheet": "characters/088/weapon-sheet.png",
+        "mount_sheet": "characters/088/mount-sheet.png",
+        "pet_sheet": "characters/088/pet-sheet.png",
+        "review_notes": "characters/088/review-notes.md"
+      }
+    },
+    {
+      "id": "089",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/089.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "4be15178ab7b103e5d18b48c771fe60d2650c9769e350fe88a0951a1f9a21ffe",
+      "status": "generated",
+      "entities": {
+        "weapon": "absent",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/089/character-spec.json",
+        "character_turnaround": "characters/089/character-turnaround.png",
+        "weapon_sheet": "characters/089/weapon-sheet.png",
+        "mount_sheet": "characters/089/mount-sheet.png",
+        "pet_sheet": "characters/089/pet-sheet.png",
+        "review_notes": "characters/089/review-notes.md"
+      }
+    },
+    {
+      "id": "090",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/090.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "3ffceb990d06bdf7347d512c294afe88cfd5c41316e80869d5a354551d59e924",
+      "status": "generated",
+      "entities": {
+        "weapon": "absent",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/090/character-spec.json",
+        "character_turnaround": "characters/090/character-turnaround.png",
+        "weapon_sheet": "characters/090/weapon-sheet.png",
+        "mount_sheet": "characters/090/mount-sheet.png",
+        "pet_sheet": "characters/090/pet-sheet.png",
+        "review_notes": "characters/090/review-notes.md"
+      }
+    },
+    {
+      "id": "091",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/091.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "ad1258e47aa41e620b30eeb6e5708ceb921e274d76af5f7b24ad668c7cd828d9",
+      "status": "generated",
+      "entities": {
+        "weapon": "absent",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/091/character-spec.json",
+        "character_turnaround": "characters/091/character-turnaround.png",
+        "weapon_sheet": "characters/091/weapon-sheet.png",
+        "mount_sheet": "characters/091/mount-sheet.png",
+        "pet_sheet": "characters/091/pet-sheet.png",
+        "review_notes": "characters/091/review-notes.md"
+      }
+    },
+    {
+      "id": "092",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/092.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "693a3100b207b7d067052faaf26369d9361f604c6b0502bf17ca346de9383d16",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/092/character-spec.json",
+        "character_turnaround": "characters/092/character-turnaround.png",
+        "weapon_sheet": "characters/092/weapon-sheet.png",
+        "mount_sheet": "characters/092/mount-sheet.png",
+        "pet_sheet": "characters/092/pet-sheet.png",
+        "review_notes": "characters/092/review-notes.md"
+      }
+    },
+    {
+      "id": "093",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/093.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "388bc5d7aa3135852b7be0ee84e4cdda39518c6431f9df56ed2d1f06b6990565",
+      "status": "generated",
+      "entities": {
+        "weapon": "absent",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/093/character-spec.json",
+        "character_turnaround": "characters/093/character-turnaround.png",
+        "weapon_sheet": "characters/093/weapon-sheet.png",
+        "mount_sheet": "characters/093/mount-sheet.png",
+        "pet_sheet": "characters/093/pet-sheet.png",
+        "review_notes": "characters/093/review-notes.md"
+      }
+    },
+    {
+      "id": "094",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/094.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "616aa635756cf066bacfaaed394bc98eec2ae1d576b66939fa18b2ee4f26a74b",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/094/character-spec.json",
+        "character_turnaround": "characters/094/character-turnaround.png",
+        "weapon_sheet": "characters/094/weapon-sheet.png",
+        "mount_sheet": "characters/094/mount-sheet.png",
+        "pet_sheet": "characters/094/pet-sheet.png",
+        "review_notes": "characters/094/review-notes.md"
+      }
+    },
+    {
+      "id": "095",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/095.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "a9ca95e6c3ddd2881d713bec8d5e39a9261aa62135e5816829b1e9098dbb568f",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/095/character-spec.json",
+        "character_turnaround": "characters/095/character-turnaround.png",
+        "weapon_sheet": "characters/095/weapon-sheet.png",
+        "mount_sheet": "characters/095/mount-sheet.png",
+        "pet_sheet": "characters/095/pet-sheet.png",
+        "review_notes": "characters/095/review-notes.md"
+      }
+    },
+    {
+      "id": "096",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/096.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "807f7f54fe07efc1c32fba3999595d5f3772b77f7a2440f0e846df0808380ee0",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/096/character-spec.json",
+        "character_turnaround": "characters/096/character-turnaround.png",
+        "weapon_sheet": "characters/096/weapon-sheet.png",
+        "mount_sheet": "characters/096/mount-sheet.png",
+        "pet_sheet": "characters/096/pet-sheet.png",
+        "review_notes": "characters/096/review-notes.md"
+      }
+    },
+    {
+      "id": "097",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/097.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "a528f6a2aa606547a3b7da3d5d1a95acb33109c2227726cf65832664713c9200",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/097/character-spec.json",
+        "character_turnaround": "characters/097/character-turnaround.png",
+        "weapon_sheet": "characters/097/weapon-sheet.png",
+        "mount_sheet": "characters/097/mount-sheet.png",
+        "pet_sheet": "characters/097/pet-sheet.png",
+        "review_notes": "characters/097/review-notes.md"
+      }
+    },
+    {
+      "id": "098",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/098.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "b42e6c25387dfd110ea7b4558d8cc45cd6fd3cad6839e2d75d175b0f57121d5a",
+      "status": "generated",
+      "entities": {
+        "weapon": "absent",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/098/character-spec.json",
+        "character_turnaround": "characters/098/character-turnaround.png",
+        "weapon_sheet": "characters/098/weapon-sheet.png",
+        "mount_sheet": "characters/098/mount-sheet.png",
+        "pet_sheet": "characters/098/pet-sheet.png",
+        "review_notes": "characters/098/review-notes.md"
+      }
+    },
+    {
+      "id": "099",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/099.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "a051ebf4c2f0073724ca2dd647b24be82f56d0088e75b24e01baaa1a8f2bc87c",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/099/character-spec.json",
+        "character_turnaround": "characters/099/character-turnaround.png",
+        "weapon_sheet": "characters/099/weapon-sheet.png",
+        "mount_sheet": "characters/099/mount-sheet.png",
+        "pet_sheet": "characters/099/pet-sheet.png",
+        "review_notes": "characters/099/review-notes.md"
+      }
+    },
+    {
+      "id": "100",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/100.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "6c2e165f76bb0ec5fd0bcdc6de1c35f0a55bb2ec96a09102185e6811b2cbab9f",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/100/character-spec.json",
+        "character_turnaround": "characters/100/character-turnaround.png",
+        "weapon_sheet": "characters/100/weapon-sheet.png",
+        "mount_sheet": "characters/100/mount-sheet.png",
+        "pet_sheet": "characters/100/pet-sheet.png",
+        "review_notes": "characters/100/review-notes.md"
+      }
+    },
+    {
+      "id": "101",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/101.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "74ad5fe5fe6063d447275c7f354ba4d24bd8a56de09b3ab0c37a878d6478d204",
+      "status": "generated",
+      "entities": {
+        "weapon": "absent",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/101/character-spec.json",
+        "character_turnaround": "characters/101/character-turnaround.png",
+        "weapon_sheet": "characters/101/weapon-sheet.png",
+        "mount_sheet": "characters/101/mount-sheet.png",
+        "pet_sheet": "characters/101/pet-sheet.png",
+        "review_notes": "characters/101/review-notes.md"
+      }
+    },
+    {
+      "id": "102",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/102.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "f85b0560911966d85616e4e76c06579664c727fa8bb3062ebacd4917b1f0020f",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/102/character-spec.json",
+        "character_turnaround": "characters/102/character-turnaround.png",
+        "weapon_sheet": "characters/102/weapon-sheet.png",
+        "mount_sheet": "characters/102/mount-sheet.png",
+        "pet_sheet": "characters/102/pet-sheet.png",
+        "review_notes": "characters/102/review-notes.md"
+      }
+    },
+    {
+      "id": "103",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/103.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "709d18c1a541b0901f7de02bd6ee218ce7fdcd7200aae9007967d6b110691e4e",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/103/character-spec.json",
+        "character_turnaround": "characters/103/character-turnaround.png",
+        "weapon_sheet": "characters/103/weapon-sheet.png",
+        "mount_sheet": "characters/103/mount-sheet.png",
+        "pet_sheet": "characters/103/pet-sheet.png",
+        "review_notes": "characters/103/review-notes.md"
+      }
+    },
+    {
+      "id": "104",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/104.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "c2efda253f0c6a943ba45f2958ad8e42d088a7a05b7169855800edeb45056cc2",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/104/character-spec.json",
+        "character_turnaround": "characters/104/character-turnaround.png",
+        "weapon_sheet": "characters/104/weapon-sheet.png",
+        "mount_sheet": "characters/104/mount-sheet.png",
+        "pet_sheet": "characters/104/pet-sheet.png",
+        "review_notes": "characters/104/review-notes.md"
+      }
+    },
+    {
+      "id": "105",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/105.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "ee3f0699fbaf7540475889d4d5d5f8e70ec6f0d7f5155b3113adfc053ca3ab47",
+      "status": "generated",
+      "entities": {
+        "weapon": "present",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/105/character-spec.json",
+        "character_turnaround": "characters/105/character-turnaround.png",
+        "weapon_sheet": "characters/105/weapon-sheet.png",
+        "mount_sheet": "characters/105/mount-sheet.png",
+        "pet_sheet": "characters/105/pet-sheet.png",
+        "review_notes": "characters/105/review-notes.md"
+      }
+    },
+    {
+      "id": "106",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/106.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "22f21c2dce814125a9da2211b71d939b5dbf57bdf0c3ee46deb488f8950990d2",
+      "status": "generated",
+      "entities": {
+        "weapon": "absent",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/106/character-spec.json",
+        "character_turnaround": "characters/106/character-turnaround.png",
+        "weapon_sheet": "characters/106/weapon-sheet.png",
+        "mount_sheet": "characters/106/mount-sheet.png",
+        "pet_sheet": "characters/106/pet-sheet.png",
+        "review_notes": "characters/106/review-notes.md"
+      }
+    },
+    {
+      "id": "107",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/107.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "0d5ff1cfbcbca74f1865a91668e616c6af45893d3cdfd8da3d4c894efa752f9a",
+      "status": "generated",
+      "entities": {
+        "weapon": "absent",
+        "mount": "absent",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/107/character-spec.json",
+        "character_turnaround": "characters/107/character-turnaround.png",
+        "weapon_sheet": "characters/107/weapon-sheet.png",
+        "mount_sheet": "characters/107/mount-sheet.png",
+        "pet_sheet": "characters/107/pet-sheet.png",
+        "review_notes": "characters/107/review-notes.md"
+      }
+    },
+    {
+      "id": "108",
+      "name": "",
+      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/108.png",
+      "width": 900,
+      "height": 1350,
+      "sha256": "5b255cd68c9dc1dc4b7afdacb6d887b42db4bad3c22dc4d97ea318b693c39561",
+      "status": "approved",
+      "entities": {
+        "weapon": "present",
+        "mount": "present",
+        "pet": "absent"
+      },
+      "outputs": {
+        "character_spec": "characters/108/character-spec.json",
+        "character_turnaround": "characters/108/character-turnaround.png",
+        "weapon_sheet": "characters/108/weapon-sheet.png",
+        "mount_sheet": "characters/108/mount-sheet.png",
+        "pet_sheet": "characters/108/pet-sheet.png",
+        "review_notes": "characters/108/review-notes.md"
+      }
+    }
+  ]
+}

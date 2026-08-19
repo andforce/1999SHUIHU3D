@@ -1,0 +1,10 @@
+Use case: stylized-concept
+Asset type: professional game/animation standalone weapon or signature-equipment model sheet
+Input images: Image 1 is the original visual evidence for character 023; Image 2 is the generated character turnaround and scale/style anchor.
+Primary request: Create one clean landscape independent design sheet for this exact weapon or signature equipment: 长木棍／哨棒，棕色杆身与简单包缠.
+Confirmed evidence to preserve: 身份与外形：方脸、浓眉、神情桀骜；黑色中长发束于脑后；无清晰胡须；精壮、上身裸露并有大面积纹身；服装：紫色宽裤、红腰带、白色绑腿与简洁护腕；主配色：肤色、紫、红、白、棕；武器或标志装备：长木棍／哨棒，棕色杆身与简单包缠.
+Inferred restraint: 人物背部服装按正侧面同材质、同层级连续闭合，不新增徽章、纹样或第二套配件；被动作遮挡的左右肢体、鞋履和服装侧缝采用最克制、近似对称且易修改的补全；武器或标志装备的反面、薄侧面与被裁切末端采用无额外装饰的结构性补全.
+Unknown and editable: 背部纹身全貌、棍棒两端与腰带背结不可见；原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知.
+Views/layout: show a large complete main face view, complete reverse view, true thinnest side profile, key construction details, natural grip/holding relationship, storage or body-attachment relationship when visible, and a small full-body silhouette of character 023 for accurate scale. If the specification contains multiple related items, arrange them as one readable arsenal/equipment sheet without shrinking key objects.
+Style/medium: same bold black ink contours and late-1990s hand-painted cel/watercolor rendering as both references; precise production drawing on plain warm light-gray background with even working light.
+Constraints: every orthographic depiction must represent the same object design, proportions, materials, colors, blade orientation, grip placement and attachment logic. Complete and uncropped. Do not add unseen tassels, emblems, writing, magical effects, mechanisms, extra blades, metal hooks or decoration. No title, labels, arrows, measurements, text, watermark, scenery, unrelated weapons, duplicated components, fused hands, extra limbs, or cropping.

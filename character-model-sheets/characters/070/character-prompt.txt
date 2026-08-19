@@ -1,0 +1,13 @@
+Use case: stylized-concept
+Asset type: professional game/animation character five-view model sheet
+Input images: Image 1 is the sole primary visual evidence for character 070. Preserve this exact individual and design; do not copy the original action, effects, scenery, animals, or camera angle.
+Primary request: Create one complete landscape five-view turnaround of the exact same character, arranged left to right as front, front three-quarter, true side profile, back three-quarter, and true back.
+Identity and body: 方脸、浓眉、神情凶悍; 红黑中长乱发; 无清晰胡须; 精壮、上身裸露.
+Costume and colors: 黄色宽裤；绿色腰布；黄绿绑腿与简洁护腕. Palette: 黄；绿；红黑；银.
+Must preserve: 方脸、浓眉、神情凶悍；红黑中长乱发；精壮、上身裸露；黄色宽裤、绿色腰布、黄绿绑腿与简洁护腕；黄、绿、红黑、银.
+Confirmed visual evidence: 身份与外形：方脸、浓眉、神情凶悍；红黑中长乱发；无清晰胡须；精壮、上身裸露；服装：黄色宽裤、绿色腰布、黄绿绑腿与简洁护腕；主配色：黄、绿、红黑、银.
+Inferred restraint: 人物背部服装按正侧面同材质、同层级连续闭合，不新增徽章、纹样或第二套配件；被动作遮挡的左右肢体、鞋履和服装侧缝采用最克制、近似对称且易修改的补全.
+Unknown and editable: 原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知.
+Style/medium: faithful to Image 1's bold black ink contours, late-1990s hand-painted cel shading and watercolor coloring; use the approved project baseline's clean warm-light-gray production-sheet presentation, not photorealistic.
+Composition/framing: exactly five full-body figures, fully visible and uncropped, identical height and head-body ratio, identical head and foot baselines, equal spacing, neutral natural stance, arms slightly away from torso, hands relaxed. Remove large held weapons and separate animals from this character sheet so costume structure stays unobscured; keep only permanently worn scabbards, quivers, small accessories or fixed tools when visible in Image 1.
+Constraints: same identity, face, hair, facial hair, body type, garment layers, palette, patterns, armor and fixed accessories in every view; true side and true back must be structurally readable; do not invent back emblems, text, new armor or accessories. Plain warm light-gray background, even working light. No title, labels, letters, watermark, scenery, action pose, motion effects, extra people, extra animals, duplicate weapons, fused props, extra limbs, accidental mirroring, or cropping.
