@@ -4,8 +4,8 @@ import { describe, expect, it } from 'vitest'
 import { testCharacters } from '../test/fixtures'
 import { GalleryPage } from './GalleryPage'
 
-function characterLinks() {
-  return screen.queryAllByRole('link', { name: /查看 No\. \d{3} 人物详情/ })
+function characterButtons() {
+  return screen.queryAllByRole('button', { name: /查看 No\. \d{3} 人物资料/ })
 }
 
 describe('GalleryPage', () => {
@@ -13,18 +13,18 @@ describe('GalleryPage', () => {
     const user = userEvent.setup()
     render(<GalleryPage entries={testCharacters} />)
 
-    expect(characterLinks()).toHaveLength(3)
+    expect(characterButtons()).toHaveLength(3)
     await user.type(screen.getByPlaceholderText('检索编号，如 027'), '027')
 
-    expect(characterLinks()).toHaveLength(1)
-    expect(characterLinks()[0]).toHaveAttribute('href', '#/character/027/turnaround')
+    expect(characterButtons()).toHaveLength(1)
+    expect(characterButtons()[0]).toHaveAccessibleName('查看 No. 027 人物资料')
 
     await user.clear(screen.getByPlaceholderText('检索编号，如 027'))
     await user.type(screen.getByPlaceholderText('检索编号，如 027'), '999')
     expect(screen.getByText('名录中未寻得此编号')).toBeInTheDocument()
 
     await user.click(screen.getByRole('button', { name: '重置名录' }))
-    expect(characterLinks()).toHaveLength(3)
+    expect(characterButtons()).toHaveLength(3)
   })
 
   it('filters mount assets and reverses sort order', async () => {
@@ -32,8 +32,8 @@ describe('GalleryPage', () => {
     render(<GalleryPage entries={testCharacters} />)
 
     await user.click(screen.getByRole('button', { name: '有坐骑' }))
-    expect(characterLinks()).toHaveLength(1)
-    expect(characterLinks()[0]).toHaveAttribute('href', '#/character/002/turnaround')
+    expect(characterButtons()).toHaveLength(1)
+    expect(characterButtons()[0]).toHaveAccessibleName('查看 No. 002 人物资料')
 
     await user.click(screen.getByRole('button', { name: '全部人物' }))
     await user.click(
@@ -41,7 +41,27 @@ describe('GalleryPage', () => {
     )
 
     const grid = screen.getByRole('region', { name: '人物卡片' })
-    const sortedLinks = within(grid).getAllByRole('link')
-    expect(sortedLinks[0]).toHaveAttribute('href', '#/character/027/turnaround')
+    const sortedButtons = within(grid).getAllByRole('button')
+    expect(sortedButtons[0]).toHaveAccessibleName('查看 No. 027 人物资料')
+  })
+
+  it('opens a complete character popup in the intended image order', async () => {
+    const user = userEvent.setup()
+    render(<GalleryPage entries={testCharacters} />)
+
+    await user.click(screen.getByRole('button', { name: '查看 No. 002 人物资料' }))
+
+    const dialog = screen.getByRole('dialog', { name: '人物 · No. 002' })
+    expect(dialog).toBeInTheDocument()
+    expect(
+      within(dialog).getAllByRole('heading', { level: 3 }).map((heading) => heading.textContent),
+    ).toEqual(['原始卡片', '人物五视', '兵器设定', '坐骑设定'])
+
+    await user.click(within(dialog).getByRole('button', { name: '下一位 No. 027' }))
+    expect(screen.getByRole('dialog', { name: '人物 · No. 027' })).toBeInTheDocument()
+    expect(screen.queryByRole('heading', { level: 3, name: '坐骑设定' })).not.toBeInTheDocument()
+
+    await user.click(screen.getByRole('button', { name: '关闭人物资料' }))
+    expect(screen.queryByRole('dialog')).not.toBeInTheDocument()
   })
 })

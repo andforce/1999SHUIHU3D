@@ -7,8 +7,8 @@ import {
 } from 'lucide-react'
 import { useMemo, useState } from 'react'
 import { Artwork } from '../components/Artwork'
+import { CharacterQuickView } from '../components/CharacterQuickView'
 import { Seal } from '../components/Seal'
-import { characterHref } from '../lib/routes'
 import type { CharacterEntry } from '../types'
 
 type GalleryFilter = 'all' | 'weapon' | 'mount'
@@ -29,9 +29,11 @@ export function GalleryPage({ entries }: GalleryPageProps) {
   const [filter, setFilter] = useState<GalleryFilter>('all')
   const [sortDirection, setSortDirection] =
     useState<SortDirection>('ascending')
+  const [selectedEntryId, setSelectedEntryId] = useState<string | null>(null)
 
   const weaponCount = entries.filter((entry) => entry.weapon).length
   const mountCount = entries.filter((entry) => entry.mount).length
+  const selectedEntry = entries.find((entry) => entry.id === selectedEntryId)
 
   const visibleEntries = useMemo(() => {
     const numericQuery = query.replace(/\D/g, '')
@@ -182,11 +184,12 @@ export function GalleryPage({ entries }: GalleryPageProps) {
         {visibleEntries.length > 0 ? (
           <section className="card-grid" aria-label="人物卡片">
             {visibleEntries.map((entry, index) => (
-              <a
+              <button
                 key={entry.id}
-                href={characterHref(entry.id)}
+                type="button"
                 className="catalog-card"
-                aria-label={`查看 No. ${entry.id} 人物详情`}
+                aria-label={`查看 No. ${entry.id} 人物资料`}
+                onClick={() => setSelectedEntryId(entry.id)}
               >
                 <div className="catalog-card__frame">
                   <Artwork
@@ -210,7 +213,7 @@ export function GalleryPage({ entries }: GalleryPageProps) {
                     {entry.mount && <span title="含坐骑图">骑</span>}
                   </span>
                 </div>
-              </a>
+              </button>
             ))}
           </section>
         ) : (
@@ -236,6 +239,15 @@ export function GalleryPage({ entries }: GalleryPageProps) {
         <p>1999 小浣熊水浒收藏图鉴</p>
         <span>卡片 · 人物五视 · 兵器 · 坐骑</span>
       </footer>
+
+      {selectedEntry && (
+        <CharacterQuickView
+          entry={selectedEntry}
+          entries={entries}
+          onSelectCharacter={setSelectedEntryId}
+          onClose={() => setSelectedEntryId(null)}
+        />
+      )}
     </div>
   )
 }
