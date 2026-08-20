@@ -1,10 +1,12 @@
 Use case: stylized-concept
-Asset type: professional game/animation mount model sheet
-Input images: Image 1 is the sole primary visual evidence for the mount of character 039; Image 2 is the generated owner turnaround and scale/style anchor.
-Primary request: Create one complete landscape five-view model sheet of the exact same mount: 浅棕战马，长银白鬃、黑色马具与绿色缨坠.
-Confirmed evidence to preserve: 身份与外形：方脸、怒目张口；黑发藏于黑红头盔；浓黑长须；高大结实；服装：黑银甲、绿色胸腹袍、红黑头盔与黑披肩；主配色：黑、银、绿、红、金；武器或标志装备：长柄银色枪／戟，红黑杆身与被裁切枪头；坐骑：浅棕战马，长银白鬃、黑色马具与绿色缨坠.
-Inferred restraint: 人物背部服装按正侧面同材质、同层级连续闭合，不新增徽章、纹样或第二套配件；被动作遮挡的左右肢体、鞋履和服装侧缝采用最克制、近似对称且易修改的补全；武器或标志装备的反面、薄侧面与被裁切末端采用无额外装饰的结构性补全；坐骑远侧四肢、尾部和被遮挡马具按可见体型与同类连接关系自然补全.
-Unknown and editable: 枪头、马匹远侧马具和背甲被裁切；原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知.
-Views/layout: arrange the same full-body mount as front, front three-quarter, true side, back three-quarter and true back with consistent height, anatomy, coat colors, markings, mane, tail and tack; all feet/hooves visible. Add one smaller owner-and-mount standing scale comparison and one small natural riding-contact reference. Show saddle, bridle, reins, armor, blanket, bags and ornaments only when visible in Image 1; do not invent missing tack.
-Style/medium: same bold black ink contours and late-1990s hand-painted cel/watercolor rendering as both references; clean production model sheet on plain warm light-gray background with even working light.
-Constraints: one mount identity across all views; accurate animal anatomy; consistent tack attachment and owner scale; complete and uncropped. No title, labels, arrows, measurements, text, watermark, scenery, extra mounts, extra riders, extra limbs, malformed hooves, duplicated tack, accidental mirroring or unsupported decoration.
+Asset type: professional game/animation mount six-view model sheet
+Input images: Image 1 is the sole primary visual evidence for character 039's mount. Image 2 is the newly generated owner six-view and determines owner scale and style. Image 3 is the legacy entity sheet only as a secondary continuity reference; correct its mistakes and do not copy its old layout.
+Primary request: Create one clean landscape six-view model sheet of the exact same animal/entity: 浅棕战马，长银白鬃、黑色马具与绿色缨坠.
+Strict left-to-right order: based on left profile counterclockwise 45 degrees, pure left profile, pure front, pure back, pure right profile, based on right profile clockwise 45 degrees. Column 1 derives only from column 2; column 6 derives only from column 5. The two relative 45-degree views must have opposite near eyes, ears, shoulders/forelimbs and far-limb occlusion; never copy or horizontally flip.
+Entity notes: 按可独立建模、拿取或动画化的坐骑拆分独立设定表。；只保留原图可见轮廓、配色、材质、握持或连接关系；不可见反面作最简补全。.
+Confirmed evidence: 身份与外形：方脸、怒目张口；黑发藏于黑红头盔；浓黑长须；高大结实。；服装：黑银甲、绿色胸腹袍、红黑头盔与黑披肩。；主配色：黑、银、绿、红、金。；武器或标志装备：长柄银色枪／戟，红黑杆身与被裁切枪头。；坐骑：浅棕战马，长银白鬃、黑色马具与绿色缨坠。.
+Unknown/inferred restraint: 枪头、马匹远侧马具和背甲被裁切；原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知。; complete unseen anatomy and equipment minimally without new markings or ornaments.
+Include one accurate owner-and-animal standing scale comparison and one natural riding/contact reference. Show saddle, bridle, reins, armor or packs only where Image 1 confirms them; explain their attachment visually.
+Composition: all six complete bodies fully visible and uncropped, consistent height, proportions and ground baseline; clean warm light-gray background and even working light.
+Style: bold black ink contours, late-1990s hand-painted cel shading and watercolor coloring, accurate readable anatomy.
+Constraints: one consistent animal identity; no title, labels, letters, watermark, scenery, effects, extra animals, extra riders, duplicated limbs, malformed paws/hooves, unsupported tack or cropping.

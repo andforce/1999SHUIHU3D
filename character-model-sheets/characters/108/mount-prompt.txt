@@ -1,0 +1,12 @@
+Use case: stylized-concept
+Asset type: professional game/animation mount six-view model sheet
+Input images: Image 1 is the sole primary visual evidence for character 108's mount. Image 2 is the newly generated owner six-view and determines owner scale and style. Image 3 is the legacy entity sheet only as a secondary continuity reference; correct its mistakes and do not copy its old layout.
+Primary request: Create one clean landscape six-view model sheet of the exact same animal/entity: 深黑至炭灰色、银灰长鬃的大型马.
+Strict left-to-right order: based on left profile counterclockwise 45 degrees, pure left profile, pure front, pure back, pure right profile, based on right profile clockwise 45 degrees. Column 1 derives only from column 2; column 6 derives only from column 5. The two relative 45-degree views must have opposite near eyes, ears, shoulders/forelimbs and far-limb occlusion; never copy or horizontally flip.
+Entity notes: 五视图保持同一匹马的头型、体型、鬃毛方向和灰黑明暗分区。；加入与人物并排比例和无鞍骑乘接触示意。；原图未见鞍、辔头、缰绳或甲具，试制不新增；尾部作为推断保持简洁。.
+Confirmed evidence: 成年男性，浅色皮肤，窄长面部与高鼻梁，蓝灰眼，波浪状金发垂至肩部。；金色细长上髭向两侧翘起，下颌为尖长金色短胡，神情冷静。；穿亮蓝色宽袖长袍，内侧和下摆露白色衣料；肩颈披深红色厚围巾／短斗篷，红色腰带束身。；腰前悬挂一卷金黄色编绳，带编结握环、多个绳圈和下垂绳尾。；身后是一匹大型深黑至炭灰色马，银灰长鬃，暗色口鼻，蓝灰高光；画面未见鞍、缰、辔头或马甲。.
+Unknown/inferred restraint: 人物背部袍服闭合、鞋履和双腿下段被画面裁切。；金色编绳的确切用途是武器套索还是牵马绳无法确认。；马匹尾巴、后躯全貌、蹄色与远侧花纹不可见。；马是否另有未入画的鞍具或缰具不可确认。; complete unseen anatomy and equipment minimally without new markings or ornaments.
+Include one accurate owner-and-animal standing scale comparison and one natural riding/contact reference. Show saddle, bridle, reins, armor or packs only where Image 1 confirms them; explain their attachment visually.
+Composition: all six complete bodies fully visible and uncropped, consistent height, proportions and ground baseline; clean warm light-gray background and even working light.
+Style: bold black ink contours, late-1990s hand-painted cel shading and watercolor coloring, accurate readable anatomy.
+Constraints: one consistent animal identity; no title, labels, letters, watermark, scenery, effects, extra animals, extra riders, duplicated limbs, malformed paws/hooves, unsupported tack or cropping.

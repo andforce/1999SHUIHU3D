@@ -1,0 +1,10 @@
+Use case: stylized-concept
+Asset type: professional game/animation standalone weapon or signature-prop design sheet
+Input images: Image 1 is the sole primary visual evidence for character 108's entity. Image 2 is the newly generated character six-view and determines owner identity, scale and style. Image 3 is the legacy entity sheet only as a secondary continuity reference; correct its mistakes and do not copy labels or old layout.
+Primary request: Create one clean landscape design sheet for: 金黄色编绳套索／牵引绳标志装备. Preserve only the silhouette, colors, materials, patterns, grip and attachment relationships supported by Image 1.
+Required views: complete main face, complete reverse, true thinnest side profile, key construction details, natural grip/use state, storage or body-attachment state when applicable, and a small full-body owner comparison for accurate scale. Every repeated view must depict the same entity and dimensions.
+Entity notes: 按可展开、可握持和可动画的重要装备拆表；用途类别仍标为未知。；展示盘卷状态、完全展开轮廓、绳结与握环局部、手握关系、腰挂关系和人物比例。；不得添加原图未见的金属钩、坠锤、刃片或文字。.
+Confirmed evidence: 成年男性，浅色皮肤，窄长面部与高鼻梁，蓝灰眼，波浪状金发垂至肩部。；金色细长上髭向两侧翘起，下颌为尖长金色短胡，神情冷静。；穿亮蓝色宽袖长袍，内侧和下摆露白色衣料；肩颈披深红色厚围巾／短斗篷，红色腰带束身。；腰前悬挂一卷金黄色编绳，带编结握环、多个绳圈和下垂绳尾。；身后是一匹大型深黑至炭灰色马，银灰长鬃，暗色口鼻，蓝灰高光；画面未见鞍、缰、辔头或马甲。.
+Unknown/inferred restraint: 人物背部袍服闭合、鞋履和双腿下段被画面裁切。；金色编绳的确切用途是武器套索还是牵马绳无法确认。；马匹尾巴、后躯全貌、蹄色与远侧花纹不可见。；马是否另有未入画的鞍具或缰具不可确认。; complete unseen reverse, edge and mechanism minimally with no unsupported ornament.
+Style: bold black ink contours, late-1990s hand-painted cel shading and watercolor coloring, warm light-gray neutral production-sheet background, even working light.
+Constraints: all complete views fully visible and uncropped; no title, labels, letters, measurements, watermark, scenery, action effects, unrelated props, duplicate entities, fused hands, extra blades, extra parts or invented decoration.

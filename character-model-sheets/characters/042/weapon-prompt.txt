@@ -1,10 +1,10 @@
 Use case: stylized-concept
-Asset type: professional game/animation standalone weapon or signature-equipment model sheet
-Input images: Image 1 is the original visual evidence for character 042; Image 2 is the generated character turnaround and scale/style anchor.
-Primary request: Create one clean landscape independent design sheet for this exact weapon or signature equipment: 长黑杆重兵器，尾端带链系铜色圆锤／流星锤.
-Confirmed evidence to preserve: 身份与外形：方脸、浓眉、目光锐利；黑发藏于银色盔与红黑盔缨；无清晰胡须；高挑结实；服装：银金菱格甲、红披风、白色肩披、黑色护腿；主配色：银、金、红、白、黑；武器或标志装备：长黑杆重兵器，尾端带链系铜色圆锤／流星锤；坐骑：赤棕战马，白色鼻梁、深色鬃与黑绿马具.
-Inferred restraint: 人物背部服装按正侧面同材质、同层级连续闭合，不新增徽章、纹样或第二套配件；被动作遮挡的左右肢体、鞋履和服装侧缝采用最克制、近似对称且易修改的补全；武器或标志装备的反面、薄侧面与被裁切末端采用无额外装饰的结构性补全；坐骑远侧四肢、尾部和被遮挡马具按可见体型与同类连接关系自然补全.
-Unknown and editable: 长杆头部、链锤连接、马匹远侧马具被裁切；原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知.
-Views/layout: show a large complete main face view, complete reverse view, true thinnest side profile, key construction details, natural grip/holding relationship, storage or body-attachment relationship when visible, and a small full-body silhouette of character 042 for accurate scale. If the specification contains multiple related items, arrange them as one readable arsenal/equipment sheet without shrinking key objects.
-Style/medium: same bold black ink contours and late-1990s hand-painted cel/watercolor rendering as both references; precise production drawing on plain warm light-gray background with even working light.
-Constraints: every orthographic depiction must represent the same object design, proportions, materials, colors, blade orientation, grip placement and attachment logic. Complete and uncropped. Do not add unseen tassels, emblems, writing, magical effects, mechanisms, extra blades, metal hooks or decoration. No title, labels, arrows, measurements, text, watermark, scenery, unrelated weapons, duplicated components, fused hands, extra limbs, or cropping.
+Asset type: professional game/animation standalone weapon or signature-prop design sheet
+Input images: Image 1 is the sole primary visual evidence for character 042's entity. Image 2 is the newly generated character six-view and determines owner identity, scale and style. Image 3 is the legacy entity sheet only as a secondary continuity reference; correct its mistakes and do not copy labels or old layout.
+Primary request: Create one clean landscape design sheet for: 长黑杆重兵器，尾端带链系铜色圆锤／流星锤. Preserve only the silhouette, colors, materials, patterns, grip and attachment relationships supported by Image 1.
+Required views: complete main face, complete reverse, true thinnest side profile, key construction details, natural grip/use state, storage or body-attachment state when applicable, and a small full-body owner comparison for accurate scale. Every repeated view must depict the same entity and dimensions.
+Entity notes: 按可独立建模、拿取或动画化的武器或标志装备拆分独立设定表。；只保留原图可见轮廓、配色、材质、握持或连接关系；不可见反面作最简补全。.
+Confirmed evidence: 身份与外形：方脸、浓眉、目光锐利；黑发藏于银色盔与红黑盔缨；无清晰胡须；高挑结实。；服装：银金菱格甲、红披风、白色肩披、黑色护腿。；主配色：银、金、红、白、黑。；武器或标志装备：长黑杆重兵器，尾端带链系铜色圆锤／流星锤。；坐骑：赤棕战马，白色鼻梁、深色鬃与黑绿马具。.
+Unknown/inferred restraint: 长杆头部、链锤连接、马匹远侧马具被裁切；原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知。; complete unseen reverse, edge and mechanism minimally with no unsupported ornament.
+Style: bold black ink contours, late-1990s hand-painted cel shading and watercolor coloring, warm light-gray neutral production-sheet background, even working light.
+Constraints: all complete views fully visible and uncropped; no title, labels, letters, measurements, watermark, scenery, action effects, unrelated props, duplicate entities, fused hands, extra blades, extra parts or invented decoration.

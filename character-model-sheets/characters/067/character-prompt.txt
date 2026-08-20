@@ -1,13 +1,26 @@
 Use case: stylized-concept
-Asset type: professional game/animation character five-view model sheet
-Input images: Image 1 is the sole primary visual evidence for character 067. Preserve this exact individual and design; do not copy the original action, effects, scenery, animals, or camera angle.
-Primary request: Create one complete landscape five-view turnaround of the exact same character, arranged left to right as front, front three-quarter, true side profile, back three-quarter, and true back.
-Identity and body: 长脸、眉目专注; 黑色长发高束并向后飘; 无胡须; 修长健壮.
-Costume and colors: 紫蓝宽袖短袍；黑色宽裤；红腰带与黑靴. Palette: 紫蓝；黑；红；银.
-Must preserve: 长脸、眉目专注；黑色长发高束并向后飘；修长健壮；紫蓝宽袖短袍、黑色宽裤、红腰带与黑靴；紫蓝、黑、红、银.
-Confirmed visual evidence: 身份与外形：长脸、眉目专注；黑色长发高束并向后飘；无胡须；修长健壮；服装：紫蓝宽袖短袍、黑色宽裤、红腰带与黑靴；主配色：紫蓝、黑、红、银.
-Inferred restraint: 人物背部服装按正侧面同材质、同层级连续闭合，不新增徽章、纹样或第二套配件；被动作遮挡的左右肢体、鞋履和服装侧缝采用最克制、近似对称且易修改的补全.
-Unknown and editable: 原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知.
-Style/medium: faithful to Image 1's bold black ink contours, late-1990s hand-painted cel shading and watercolor coloring; use the approved project baseline's clean warm-light-gray production-sheet presentation, not photorealistic.
-Composition/framing: exactly five full-body figures, fully visible and uncropped, identical height and head-body ratio, identical head and foot baselines, equal spacing, neutral natural stance, arms slightly away from torso, hands relaxed. Remove large held weapons and separate animals from this character sheet so costume structure stays unobscured; keep only permanently worn scabbards, quivers, small accessories or fixed tools when visible in Image 1.
-Constraints: same identity, face, hair, facial hair, body type, garment layers, palette, patterns, armor and fixed accessories in every view; true side and true back must be structurally readable; do not invent back emblems, text, new armor or accessories. Plain warm light-gray background, even working light. No title, labels, letters, watermark, scenery, action pose, motion effects, extra people, extra animals, duplicate weapons, fused props, extra limbs, accidental mirroring, or cropping.
+Asset type: professional game/animation character six-view model sheet
+Input images: Image 1 is the sole primary visual evidence for character 067. Image 2 is the legacy turnaround only as a secondary identity/costume continuity reference; do not copy its old five-view layout or any mistake. Image 3 is the approved project six-view layout/style baseline only; never borrow its face, body, costume, colors or accessories.
+Primary request: Create one complete landscape six-view turnaround of the exact same character from Image 1. Preserve the original identity and design but replace the action, camera angle, effects and scenery with a neutral production pose.
+
+Strict left-to-right order: (1) based on the left profile, rotate the whole character counterclockwise 45 degrees; (2) pure left profile; (3) pure front; (4) pure back; (5) pure right profile; (6) based on the right profile, rotate the whole character clockwise 45 degrees.
+
+Relative 45-degree geometry is mandatory. Column 1 derives only from column 2 by rotating the entire body counterclockwise 45 degrees around the vertical axis. Column 6 derives only from column 5 by rotating the entire body clockwise 45 degrees. Head, ribcage, pelvis, knees and both feet rotate together. Columns 1 and 6 must show opposite near cheeks, ears, shoulders, costume/armor perspective and far-limb occlusion. Never copy, reuse, horizontally flip or collapse either column into a front or pure profile.
+
+Identity: gender presentation 男性; apparent age 青年; face 长脸、眉目专注; hair 黑色长发高束并向后飘; facial hair 无胡须; body type 修长健壮; proportions 保持原图人物独有的高矮、胖瘦和头身比例，不为批量整齐而统一体型.
+Costume layers: 紫蓝宽袖短袍；黑色宽裤；红腰带与黑靴.
+Palette: 紫蓝；黑；红；银.
+Materials: 织物按原图褶皱与厚薄表现；金属、皮革、毛皮或木材仅在原图可见时保留相应质感.
+Patterns and symbols: 只保留原图清楚可见的纹样、甲片分格和装饰位置，不生成文字或新徽记.
+Must preserve: 长脸、眉目专注；黑色长发高束并向后飘；修长健壮；紫蓝宽袖短袍、黑色宽裤、红腰带与黑靴；紫蓝、黑、红、银；银色横笛与腰挂直剑／长剑组合装备.
+Confirmed visual evidence: 身份与外形：长脸、眉目专注；黑色长发高束并向后飘；无胡须；修长健壮。；服装：紫蓝宽袖短袍、黑色宽裤、红腰带与黑靴。；主配色：紫蓝、黑、红、银。；武器或标志装备：银色横笛与腰挂直剑／长剑组合装备。.
+Restrained structural inference: 人物背部服装按正侧面同材质、同层级连续闭合，不新增徽章、纹样或第二套配件。；被动作遮挡的左右肢体、鞋履和服装侧缝采用最克制、近似对称且易修改的补全。；武器或标志装备的反面、薄侧面与被裁切末端采用无额外装饰的结构性补全。.
+Unknown and editable: 长剑刃形、横笛背面孔位和袍服背面不可见；原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知。.
+Asymmetric three-dimensional anchors: No permanent one-sided costume anchor is confirmed in the current evidence record. Held weapons, mounts and action-driven cloth motion are not permanent body asymmetry; do not invent a new one-sided accessory.
+
+Anchor rule: every recorded asymmetric feature stays permanently fixed to its anatomical side and three-dimensional attachment point. Rotate only the observer/body orientation; never swap sides, mirror, duplicate or move a far-side feature toward the camera. Real occlusion has priority over full visibility.
+
+Composition: exactly six full-body figures and nothing else, fully visible and uncropped, identical height, head-body ratio, head-top line and foot baseline, equal spacing, neutral natural stance, arms slightly away from torso, hands relaxed. Keep permanent worn accessories and scabbards only when visible in Image 1. Every held weapon, signature prop, mount and pet must be completely absent from this character sheet; they will be generated on separate sheets. Do not add a second row or any object study.
+
+Style/medium: faithful to Image 1's bold black ink contours, late-1990s hand-painted cel shading and watercolor coloring; clean warm-light-gray production-sheet presentation matching Image 3, not photorealistic.
+Constraints: same identity, face, hair, facial hair, body type, garment layers, palette, patterns, armor and fixed accessories in every view; pure side/front/back views structurally readable; inferred back details minimal and undecorated. No title, labels, letters, watermark, scenery, action effects, extra people, extra animals, duplicate weapons, fused props, extra limbs, accidental mirroring or cropping.

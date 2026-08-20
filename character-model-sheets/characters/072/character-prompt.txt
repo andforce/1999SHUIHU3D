@@ -1,0 +1,26 @@
+Use case: stylized-concept
+Asset type: professional game/animation character six-view model sheet
+Input images: Image 1 is the sole primary visual evidence for character 072. Image 2 is the legacy turnaround only as a secondary identity/costume continuity reference; do not copy its old five-view layout or any mistake. Image 3 is the approved project six-view layout/style baseline only; never borrow its face, body, costume, colors or accessories.
+Primary request: Create one complete landscape six-view turnaround of the exact same character from Image 1. Preserve the original identity and design but replace the action, camera angle, effects and scenery with a neutral production pose.
+
+Strict left-to-right order: (1) based on the left profile, rotate the whole character counterclockwise 45 degrees; (2) pure left profile; (3) pure front; (4) pure back; (5) pure right profile; (6) based on the right profile, rotate the whole character clockwise 45 degrees.
+
+Relative 45-degree geometry is mandatory. Column 1 derives only from column 2 by rotating the entire body counterclockwise 45 degrees around the vertical axis. Column 6 derives only from column 5 by rotating the entire body clockwise 45 degrees. Head, ribcage, pelvis, knees and both feet rotate together. Columns 1 and 6 must show opposite near cheeks, ears, shoulders, costume/armor perspective and far-limb occlusion. Never copy, reuse, horizontally flip or collapse either column into a front or pure profile.
+
+Identity: gender presentation 男性; apparent age 约三十至四十岁; face 方长脸、颧骨明显、浓黑高挑眉、深眼窝、宽嘴露齿大笑，表情强悍张扬; hair 黑色头发梳紧后束为高而长的马尾，蓝紫色发带，发束有高光白笔触; facial hair 无胡须，鬓角厚重; body type 极强壮、宽肩窄腰、裸臂肌肉夸张清晰; proportions 约七头身，上肢和肩背比例显著发达.
+Costume layers: 紫色无袖贴身内衣，颈口与腋下露出；银色鳞甲／札甲背心，绿色宽包边，腹胸甲片纵横排列；银色硬质肩甲片覆盖一侧可见肩部，另一侧按最简对称结构补全；深红长巾绕颈并向背后垂落；红色窄带斜横胸背并多圈束住腰腹；淡黄色宽松长裤，腰臀与膝部有大褶皱；黑色高帮战靴配银色护片、金色包边与红色踝带.
+Palette: 主色：银白、墨绿、深红；辅色：淡黄、紫色、黑色；武器点缀：金色杆身、白银刃与黑褐握把.
+Materials: 高反光银色金属鳞甲与肩甲；绿色厚皮革甲边；红色棉麻长巾和束带；淡黄色粗织宽裤；黑色皮革战靴与金属护片；硬质金色长杆、缠皮握把和磨亮银色刃.
+Patterns and symbols: 银色甲片为重复矩形或鳞片排列，每片带简洁铆钉与高光；绿色甲边无新增纹样；武器刃的一侧为连续锯齿，另一侧保持平直锋刃.
+Must preserve: 黑色高马尾与蓝紫发带，发束上的白色反光笔触仅表现光泽；方长脸、浓眉、露齿大笑与无胡须；夸张肌肉裸臂、银色鳞甲背心和绿色包边；深红颈巾与多圈红色束带；淡黄色宽裤；金色超长杆身、近刃黑褐缠握和单侧锯齿银刃.
+Confirmed visual evidence: 成年男性，方长脸、浓黑高挑眉、深眼窝、宽大咧笑并露齿，无胡须。；黑发向后束成高马尾，以蓝紫色发带固定；马尾有强烈白色反光笔触。；上身裸臂，紫色无袖内衣外穿银色鳞甲／札甲，绿色包边，肩部可见银色硬甲片。；红色长巾绕颈向后飘，另有红带横绕胸腹与腰部；下穿宽松淡黄色长裤。；武器为极长金色杆身，近刃处有黑褐相间缠握，白银色长刃一侧有明显锯齿，刃根呈锐角外扩。.
+Restrained structural inference: 背部鳞甲沿可见绿色包边闭合，鳞片尺寸与正侧面一致，不增加背旗或披甲。；红色颈巾与束带在背面以简单结扣固定，末端数量保持克制。；长柄武器被画面裁切的杆尾补成直杆和简单金属尾帽，不添加流苏或纹章。；被动作和透视遮挡的鞋履采用一双结构相同的黑、银、金高帮战靴。.
+Unknown and editable: 胸甲背面的准确扣带、鳞片总数和肩甲是否左右对称不可确认。；武器金色长杆的完整末端形状被画面上边裁切。；两只鞋在动态原图中呈现差异，真实左右是否不对称不可可靠判断。.
+Asymmetric three-dimensional anchors: No permanent one-sided costume anchor is confirmed in the current evidence record. Held weapons, mounts and action-driven cloth motion are not permanent body asymmetry; do not invent a new one-sided accessory.
+
+Anchor rule: every recorded asymmetric feature stays permanently fixed to its anatomical side and three-dimensional attachment point. Rotate only the observer/body orientation; never swap sides, mirror, duplicate or move a far-side feature toward the camera. Real occlusion has priority over full visibility.
+
+Composition: exactly six full-body figures and nothing else, fully visible and uncropped, identical height, head-body ratio, head-top line and foot baseline, equal spacing, neutral natural stance, arms slightly away from torso, hands relaxed. Keep permanent worn accessories and scabbards only when visible in Image 1. Every held weapon, signature prop, mount and pet must be completely absent from this character sheet; they will be generated on separate sheets. Do not add a second row or any object study.
+
+Style/medium: faithful to Image 1's bold black ink contours, late-1990s hand-painted cel shading and watercolor coloring; clean warm-light-gray production-sheet presentation matching Image 3, not photorealistic.
+Constraints: same identity, face, hair, facial hair, body type, garment layers, palette, patterns, armor and fixed accessories in every view; pure side/front/back views structurally readable; inferred back details minimal and undecorated. No title, labels, letters, watermark, scenery, action effects, extra people, extra animals, duplicate weapons, fused props, extra limbs, accidental mirroring or cropping.

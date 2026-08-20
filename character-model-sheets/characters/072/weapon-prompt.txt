@@ -1,0 +1,10 @@
+Use case: stylized-concept
+Asset type: professional game/animation standalone weapon or signature-prop design sheet
+Input images: Image 1 is the sole primary visual evidence for character 072's entity. Image 2 is the newly generated character six-view and determines owner identity, scale and style. Image 3 is the legacy entity sheet only as a secondary continuity reference; correct its mistakes and do not copy labels or old layout.
+Primary request: Create one clean landscape design sheet for: 金杆单侧锯齿银刃长柄枪. Preserve only the silhouette, colors, materials, patterns, grip and attachment relationships supported by Image 1.
+Required views: complete main face, complete reverse, true thinnest side profile, key construction details, natural grip/use state, storage or body-attachment state when applicable, and a small full-body owner comparison for accurate scale. Every repeated view must depict the same entity and dimensions.
+Entity notes: 完整武器长度按约一人半至一人八分之高控制，具体杆尾为推断。；独立表展示完整主视、反面、薄侧面、锯齿刃局部、双手握持与人物比例。；不添加原图未见的缨穗、铭文、机关或第二刃。.
+Confirmed evidence: 成年男性，方长脸、浓黑高挑眉、深眼窝、宽大咧笑并露齿，无胡须。；黑发向后束成高马尾，以蓝紫色发带固定；马尾有强烈白色反光笔触。；上身裸臂，紫色无袖内衣外穿银色鳞甲／札甲，绿色包边，肩部可见银色硬甲片。；红色长巾绕颈向后飘，另有红带横绕胸腹与腰部；下穿宽松淡黄色长裤。；武器为极长金色杆身，近刃处有黑褐相间缠握，白银色长刃一侧有明显锯齿，刃根呈锐角外扩。.
+Unknown/inferred restraint: 胸甲背面的准确扣带、鳞片总数和肩甲是否左右对称不可确认。；武器金色长杆的完整末端形状被画面上边裁切。；两只鞋在动态原图中呈现差异，真实左右是否不对称不可可靠判断。; complete unseen reverse, edge and mechanism minimally with no unsupported ornament.
+Style: bold black ink contours, late-1990s hand-painted cel shading and watercolor coloring, warm light-gray neutral production-sheet background, even working light.
+Constraints: all complete views fully visible and uncropped; no title, labels, letters, measurements, watermark, scenery, action effects, unrelated props, duplicate entities, fused hands, extra blades, extra parts or invented decoration.

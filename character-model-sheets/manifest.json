@@ -2,7 +2,7 @@
   "schema_version": 1,
   "source_dir": "/Users/dywang/Desktop/1999年小浣熊水浒",
   "project_dir": "/Users/dywang/Desktop/1999年小浣熊水浒/character-model-sheets",
-  "updated_at": "2026-08-18T18:05:34.950248+00:00",
+  "updated_at": "2026-08-19T16:02:37.125227+00:00",
   "character_count": 108,
   "characters": [
     {
@@ -12,7 +12,7 @@
       "width": 900,
       "height": 1350,
       "sha256": "61ba16c9b0bcc12fd814e256f3348d115dee61c11ed499f9a61fae267a1ec010",
-      "status": "approved",
+      "status": "generated",
       "entities": {
         "weapon": "present",
         "mount": "absent",
@@ -58,7 +58,7 @@
       "sha256": "c4f33717d1ed4d73f45f76e4c6f079d6a6d3b80b6bc99e65a158f7c93d012706",
       "status": "generated",
       "entities": {
-        "weapon": "absent",
+        "weapon": "present",
         "mount": "absent",
         "pet": "absent"
       },
@@ -1574,7 +1574,7 @@
       "width": 900,
       "height": 1350,
       "sha256": "575a968644e2fdced2ec915c380e6dd7be24c8ced3affb564ef7cadc78279be8",
-      "status": "approved",
+      "status": "generated",
       "entities": {
         "weapon": "present",
         "mount": "absent",
@@ -2366,7 +2366,7 @@
       "width": 900,
       "height": 1350,
       "sha256": "5b255cd68c9dc1dc4b7afdacb6d887b42db4bad3c22dc4d97ea318b693c39561",
-      "status": "approved",
+      "status": "generated",
       "entities": {
         "weapon": "present",
         "mount": "present",

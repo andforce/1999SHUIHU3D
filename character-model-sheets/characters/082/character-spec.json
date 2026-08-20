@@ -61,7 +61,8 @@
       "米白黑边长袍、红色腰裙与披带、金色护腿、黑色宽裤",
       "米白、黑、红、金、银",
       "一对长直剑／弯剑，银白刃、黑色握柄与背负剑鞘"
-    ]
+    ],
+    "asymmetric_anchors": []
   },
   "entities": {
     "weapon": {
@@ -91,25 +92,29 @@
   },
   "generation": {
     "views": [
+      "left-profile-counterclockwise-45-degree",
+      "left-profile",
       "front",
-      "front-three-quarter",
-      "side",
-      "back-three-quarter",
-      "back"
+      "back",
+      "right-profile",
+      "right-profile-clockwise-45-degree"
     ],
     "pose": "neutral model-sheet pose with arms slightly separated",
     "background": "plain warm light gray neutral",
     "notes": [
-      "沿用 001、072、108 已批准基准的暖浅灰画布、强黑墨线、1990 年代手绘赛璐璐与水彩着色。",
-      "人物五视图中不手持大型独立武器，避免遮挡服装；握持、收纳与比例放入实体表。",
-      "五个视角必须同高、同脚底基线、同一身份，且纯侧面与纯背面结构清晰。"
+      "沿用 001–003 新版基准的暖浅灰画布、强黑墨线、1990 年代手绘赛璐璐与水彩着色。",
+      "人物六视图不持大型独立实体，避免遮挡服装；握持、收纳、骑乘和比例放入实体表。",
+      "六个视角必须同高、同脚底基线、同一身份，且左面、正面、背面与右面结构清晰。",
+      "第一列只以第二列左面为基准逆时针旋转45度；第六列只以第五列右面为基准顺时针旋转45度，两列不得复制或水平翻转。"
     ]
   },
   "review": {
     "approved_by": "",
     "approved_at": "",
     "notes": [
-      "已完成批量生成与 QA 联系表巡检，等待用户逐角色批准。"
+      "2026-08-19 已迁移为新版六视图并进入全量重新生成。",
+      "旧版人物与实体图片已保留为递增版本备份。",
+      "2026-08-20 已完成新版人物、独立实体与全量 QA 联系表复核；保持 generated，等待用户批准。"
     ]
   }
 }

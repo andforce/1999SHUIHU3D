@@ -1,0 +1,16 @@
+Use case: stylized-concept
+Asset type: professional game/animation important-props design sheet
+Input images: Image 1 is the sole primary visual evidence for the two props. Image 2 is the approved character 003 six-view sheet and determines the owner's appearance, scale, linework, palette and production-sheet style. Do not redesign either prop from historical knowledge.
+Primary request: Create one clean landscape design sheet for character 003's two independent signature props: a white feather-fan-like hand prop and a large blank hanging scroll. Treat these as two clearly separated objects on the same sheet; never fuse them.
+
+Prop A — white fan-like object: Preserve the broad soft white fan surface with subtle pale-blue shading, the small green circular/looped connector at the root, and the short straight dark-brown wooden handle visible in Image 1. Show one large complete front view, one complete reverse view, one very thin edge profile, a close-up of the green connector-to-handle joint, and the owner's character-left hand holding the brown handle in the same functional grip. Because the exact feather/paper/silk construction is unknown, use a restrained, simple layered white fan surface without added pattern, writing, metal ornament or extra tassels.
+
+Prop B — blank hanging scroll: Preserve warm-white to pale-cream blank paper, an ivory-white horizontal roller rod at the top, and dark-brown round end caps. Complete the cropped lower end minimally as a matching horizontal roller with the same dark-brown end caps. Show one large fully unrolled front view, one fully unrolled reverse view, one thin edge/side view that explains paper winding around the rods, one compact rolled storage state, and the owner's character-right hand gripping the upper roller as in Image 1. The paper must remain completely blank: no calligraphy, seal, symbol, diagram or texture that could read as writing.
+
+Scale and relationship: include one small neutral full-body silhouette/render of the approved owner beside both complete props for accurate scale, plus two small cropped grip demonstrations. The fan is used by the character's own left hand; the scroll's upper roller is held by the character's own right hand. Do not swap hands or mirror the grip relationship.
+
+Style/medium: faithful to Image 1 and Image 2 — bold black ink contours, late-1990s hand-painted cel shading with subtle watercolor transitions, clean warm-light-gray production-sheet background, even neutral working light.
+
+Evidence restraint: reverse surfaces, fan internal layers, green joint mechanics, the scroll's cropped lower roller and winding structure are inferred. Keep them minimal, symmetrical where reasonable and easy to revise. Add no decoration unsupported by Image 1.
+
+Composition/framing: landscape sheet with generous spacing and clear silhouettes; every complete prop fully visible and uncropped; all repeated views use consistent dimensions and materials. No title, labels, letters, numbers, calligraphy, watermark, scenery, star field, action effects, extra people, extra fans, extra scrolls, duplicated parts, fused structures or illegible text.

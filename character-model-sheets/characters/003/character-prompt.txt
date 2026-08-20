@@ -1,13 +1,26 @@
 Use case: stylized-concept
-Asset type: professional game/animation character five-view model sheet
-Input images: Image 1 is the sole primary visual evidence for character 003. Preserve this exact individual and design; do not copy the original action, effects, scenery, animals, or camera angle.
-Primary request: Create one complete landscape five-view turnaround of the exact same character, arranged left to right as front, front three-quarter, true side profile, back three-quarter, and true back.
-Identity and body: 清瘦长脸、眉目沉静; 黑发藏于黑色方巾帽内; 细上髭与短山羊胡; 修长文士体型.
-Costume and colors: 多层白色与浅蓝宽袖长袍；灰蓝披风；银灰护腕. Palette: 白；浅蓝；灰蓝；银灰.
-Must preserve: 清瘦长脸、眉目沉静；黑发藏于黑色方巾帽内；修长文士体型；多层白色与浅蓝宽袖长袍、灰蓝披风、银灰护腕；白、浅蓝、灰蓝、银灰.
-Confirmed visual evidence: 身份与外形：清瘦长脸、眉目沉静；黑发藏于黑色方巾帽内；细上髭与短山羊胡；修长文士体型；服装：多层白色与浅蓝宽袖长袍、灰蓝披风、银灰护腕；主配色：白、浅蓝、灰蓝、银灰.
-Inferred restraint: 人物背部服装按正侧面同材质、同层级连续闭合，不新增徽章、纹样或第二套配件；被动作遮挡的左右肢体、鞋履和服装侧缝采用最克制、近似对称且易修改的补全.
-Unknown and editable: 原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知.
-Style/medium: faithful to Image 1's bold black ink contours, late-1990s hand-painted cel shading and watercolor coloring; use the approved project baseline's clean warm-light-gray production-sheet presentation, not photorealistic.
-Composition/framing: exactly five full-body figures, fully visible and uncropped, identical height and head-body ratio, identical head and foot baselines, equal spacing, neutral natural stance, arms slightly away from torso, hands relaxed. Remove large held weapons and separate animals from this character sheet so costume structure stays unobscured; keep only permanently worn scabbards, quivers, small accessories or fixed tools when visible in Image 1.
-Constraints: same identity, face, hair, facial hair, body type, garment layers, palette, patterns, armor and fixed accessories in every view; true side and true back must be structurally readable; do not invent back emblems, text, new armor or accessories. Plain warm light-gray background, even working light. No title, labels, letters, watermark, scenery, action pose, motion effects, extra people, extra animals, duplicate weapons, fused props, extra limbs, accidental mirroring, or cropping.
+Asset type: professional game/animation character six-view model sheet
+Input images: Image 1 is the sole primary visual evidence for character 003 and determines identity, costume, colors and props. Image 2 is only the project layout/style baseline; borrow its warm-light-gray sheet presentation, six-column spacing, ink density and cel/watercolor finish, but never borrow its face, body, costume, armor, colors or accessories.
+Primary request: Create one complete landscape six-view turnaround of the exact same male scholar from Image 1. Do not copy the original action pose, starry blue scenery, fan, scroll or camera angle into the character sheet.
+
+Strict left-to-right view order: (1) based on the left profile, rotate the entire character counterclockwise 45 degrees; (2) pure left profile; (3) pure front; (4) pure back; (5) pure right profile; (6) based on the right profile, rotate the entire character clockwise 45 degrees.
+
+Relative 45-degree geometry is mandatory. Column 1 must be derived only from column 2's left profile by rotating the same whole body counterclockwise 45 degrees around the vertical axis. Column 6 must be derived only from column 5's right profile by rotating the same whole body clockwise 45 degrees. In both columns, head, ribcage, pelvis, knees and both feet rotate together. Columns 1 and 6 must have opposite near cheeks, ears, shoulders, garment perspective and far-limb occlusion. Do not copy, reuse, horizontally flip, or collapse either column into a front or pure profile.
+
+Identity and body: adult Chinese male scholar, about 30–40; narrow long face, slender rising eyebrows, narrow eyes, straight nose, calm self-assured expression; black upturned moustache, short pointed goatee and short jawline beard; tall slender literary figure, approximately 7–7.5 heads, not a bulky warrior.
+
+Headwear anchor: a stiff folded black square scholar cap covers most hair, with an indigo forehead band. Exactly two long indigo cloth tails attach to one center-rear-head knot beneath the black cap. In the neutral sheet they hang naturally downward from that centerline knot. Preserve the same attachment, count and length in all views. In side and three-quarter views, allow real overlap and head occlusion; never move both tails to the near side for visibility. The original windblown screen-left direction is motion, not a permanent one-sided design.
+
+Costume layers: inner narrow white crossed collar; two muted warm-gold vertical lapel/stole bands; pale blue wide-sleeved inner robe with darker indigo-blue sleeve lining; extremely broad pale lavender-purple outer robe/cape with wide warm-gold fabric edging along front openings, sleeve hems and lower hem; long white-and-pale-blue pleated lower robe; simple restrained sash where the original is hidden; dark indigo or black soft shoes. The gold edging is fabric trim, not metal armor. No silver bracers or armor.
+
+Palette and materials: pale lavender-purple, pale blue, white, muted warm gold, indigo and black. Soft layered woven fabric with broad flowing folds; lightweight blue sleeves and headcloth; stiff folded cloth cap; bold black ink contours with late-1990s hand-painted cel shading and watercolor color transitions.
+
+Must preserve: the same narrow calm face, upturned moustache and short pointed goatee; black square cap, indigo forehead band and two center-rear cloth tails; tall slender scholar proportions; pale lavender broad outer robe with wide warm-gold trim; pale-blue inner sleeves, warm-gold vertical lapels and white/blue lower robe. Keep garments plain: no new emblems, calligraphy, patterns, armor or jewelry.
+
+Evidence restraint: the back closure, rear sash, hidden inner fastenings, exact shoes and far-side sleeve construction are not visible in Image 1. Complete them minimally with the same materials and layers, symmetrical where reasonable, and add no decoration.
+
+Composition/framing: exactly six full-body figures, all fully visible and uncropped, identical height, head-body ratio, head-top line, foot baseline and neutral natural stance; arms slightly away from torso, hands relaxed and empty, wide sleeves arranged to reveal layer structure. Equal spacing with clear silhouettes. Remove the white fan-like prop and blank hanging scroll from all six character figures; those belong on a separate prop sheet.
+
+Scene/style: clean warm light-gray neutral background, even studio working light, faithful to Image 1's bold black ink outlines and 1990s cel/watercolor illustration, not photorealistic.
+
+Constraints: same identity, face, facial hair, headwear, body type, costume layers, colors, trim widths and cloth-tail anchor in every view. No title, labels, letters, calligraphy, watermark, star field, scenery, rocks, action pose, wind effects, fan, scroll, weapon, extra people, extra limbs, duplicate body parts, accidental mirroring or cropping.
