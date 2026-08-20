@@ -13,7 +13,7 @@ const checkOnly = process.argv.includes('--check')
 const EXPECTED = {
   card: 108,
   turnaround: 108,
-  weapon: 90,
+  weapon: 91,
   mount: 14,
 }
 

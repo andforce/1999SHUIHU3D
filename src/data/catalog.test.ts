@@ -9,7 +9,7 @@ describe('generated asset catalog', () => {
     expect(catalog).toHaveLength(108)
     expect(new Set(catalog.map((entry) => entry.id)).size).toBe(108)
     expect(catalog.filter((entry) => entry.turnaround)).toHaveLength(108)
-    expect(catalog.filter((entry) => entry.weapon)).toHaveLength(90)
+    expect(catalog.filter((entry) => entry.weapon)).toHaveLength(91)
     expect(catalog.filter((entry) => entry.mount)).toHaveLength(14)
   })
 
