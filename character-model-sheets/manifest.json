@@ -2,7 +2,7 @@
   "schema_version": 1,
   "source_dir": "/Users/dywang/Desktop/1999年小浣熊水浒",
   "project_dir": "/Users/dywang/Desktop/1999年小浣熊水浒/character-model-sheets",
-  "updated_at": "2026-08-19T16:02:37.125227+00:00",
+  "updated_at": "2026-08-20T16:40:30.182167+00:00",
   "character_count": 108,
   "characters": [
     {
@@ -910,10 +910,10 @@
     {
       "id": "042",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/042.png",
+      "source": "/Users/dywang/github/小浣熊/1999SHUIHU3D/042.png",
       "width": 900,
       "height": 1350,
-      "sha256": "b4df9566549a1160ece856b5855c832991781063de33f66e9b7964ceedd5b403",
+      "sha256": "4b9478f29812e6611259f211918ff895f09fe984d3c227d873d5d41d30d6fd7c",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -954,10 +954,10 @@
     {
       "id": "044",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/044.png",
+      "source": "/Users/dywang/github/小浣熊/1999SHUIHU3D/044.png",
       "width": 900,
       "height": 1350,
-      "sha256": "fd14c6a03ee272717c011ed368ff78087c60dfbf92190e8f3d225729e57e3540",
+      "sha256": "31f4d4b2fabfabc7820f81d58bad6819d249bcebfb2c82a8c7f2d79d656add06",
       "status": "generated",
       "entities": {
         "weapon": "absent",
@@ -2362,10 +2362,10 @@
     {
       "id": "108",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/108.png",
+      "source": "/Users/dywang/github/小浣熊/1999SHUIHU3D/108.png",
       "width": 900,
       "height": 1350,
-      "sha256": "5b255cd68c9dc1dc4b7afdacb6d887b42db4bad3c22dc4d97ea318b693c39561",
+      "sha256": "b2c097c85a6305e96ef86bc7c564e120bcb15ec242a9be3f8fe2e44d80b0c84e",
       "status": "generated",
       "entities": {
         "weapon": "present",

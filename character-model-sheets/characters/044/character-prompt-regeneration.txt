@@ -1,0 +1,25 @@
+Use case: stylized-concept
+Asset type: professional game/animation character six-view model sheet
+Input images: Image 1 is the sole primary visual evidence for character 044. Image 2 is only the approved project layout, background, line-density and rendering baseline; never borrow Image 2's identity, face, body, costume, palette, headdress or accessories.
+Primary request: Create one complete landscape six-view turnaround of the exact same person from Image 1. Preserve his identity and original late-1990s Chinese card-illustration design while replacing the action, water, effects and dramatic camera with a neutral production pose.
+
+Strict left-to-right order: (1) based on the left profile, rotate the whole character counterclockwise 45 degrees; (2) pure left profile; (3) pure front; (4) pure back; (5) pure right profile; (6) based on the right profile, rotate the whole character clockwise 45 degrees.
+
+Anatomical side is mandatory and never means screen-facing direction. Column 2 is observed from the character's own left side: the nose/front points toward screen-right, the left cheek and left outer forearm are near the camera, and the purple left-cheek mark plus blue-circle left bracer are visible. Column 5 is observed from the character's own right side: the nose/front points toward screen-left, the right cheek and dotted right forearm are near the camera, and the left-cheek mark plus blue-circle left bracer are far-side and honestly occluded. The two pure profiles must face opposite screen directions.
+
+Relative 45-degree geometry is mandatory. Column 1 derives only from column 2 by rotating the entire body counterclockwise 45 degrees around the vertical axis. Column 6 derives only from column 5 by rotating the entire body clockwise 45 degrees. Head, ribcage, pelvis, knees and both feet rotate together. Columns 1 and 6 must show opposite near cheeks, ears, shoulders, garment perspective and far-limb occlusion. Never copy, reuse, horizontally flip or collapse either column into a front or pure profile.
+
+Identity and body: young athletic man; angular square face, thick dark eyebrows and intense eyes; no visible beard; tall muscular build. Dense black-purple wavy hair is swept and tied behind the head. A narrow yellow-green band crosses the forehead, with a simple blue-green tie at the rear center.
+Costume: broad-shouldered deep royal-blue wrap robe with layered diagonal closure and dark-blue waist wrap; pale blue high-collar underlayer, pale blue waist/abdomen wrap and pale blue front lower panel; loose blue trousers; minimal dark-blue soft boots inferred from the obscured lower legs.
+Palette and style: deep royal blue, bright blue and pale blue with yellow-green armor and a small purple facial accent. Faithful bold black ink contours, hand-painted cel shading and watercolor texture. Clean warm-light-gray background and even studio working light matching Image 2.
+
+Hard asymmetric anchors:
+1. A purple diagonal facial marking is permanently attached only to the character's left cheekbone below the left eye. In front view it projects on the viewer's right. It must never appear on the right cheek, be duplicated or mirrored.
+2. The character's left outer forearm has a yellow-green bracer with one large blue circular emblem. In front view this is the arm on the viewer's right.
+3. The character's right outer forearm has a different yellow-green bracer with pale dot motifs and no large blue circle. In front view this is the arm on the viewer's left.
+The two bracers must never be exchanged, mirrored, duplicated or made symmetrical. Far-side details obey real occlusion rather than moving toward the camera.
+
+Evidence boundary: the floating green leaf-like forms and purple spheres around the action scene in Image 1 have no visible physical connection to the body or costume. Omit all of them completely from the character sheet. Do not turn them into belt ornaments, hip tassels, weapons, props or clothing. The back closure, lower legs and shoes are not shown; complete them minimally and without new emblems or decoration.
+
+Composition: exactly six full-body figures and nothing else, fully visible and uncropped, identical height, head-body ratio, head-top line and foot baseline, equal spacing, natural neutral stance, arms slightly away from the torso and relaxed hands. Preserve the same face, hair, body type, garment layers, colors, left cheek mark and left/right bracer differences in every view.
+Constraints: no title, labels, letters, watermark, scenery, water, bubbles, motion effects, green leaf objects, purple spheres, extra people, weapons, props, duplicated accessories, extra limbs, accidental mirroring, strong perspective or cropping.

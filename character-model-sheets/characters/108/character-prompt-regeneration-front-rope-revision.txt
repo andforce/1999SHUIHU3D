@@ -1,0 +1,12 @@
+Use case: precise-object-edit
+Asset type: single-column asymmetric-anchor correction in a six-view character sheet
+Input images: Image 1 is the edit target six-view draft. Image 2 is the sole primary visual evidence for the golden braided rope design.
+Primary request: Edit only column 3, the pure front-view figure. Do not modify columns 1, 2, 4, 5 or 6. In column 3, move the one golden rope coil horizontally across the body from the current viewer-right waist to the viewer-left waist.
+
+Exact operation in column 3:
+- Completely remove the existing golden rope, grip loop, coil and hanging tail from the viewer's right side of the front-view figure, restoring the blue robe and red sash behind it.
+- Recreate the exact same single golden braided rope on the viewer's left side of the front-view figure, attached at the character's right-front waist. Keep the same scale, braided grip loop, several coiled loops and one downward hanging tail.
+- The final front-view rope must be entirely centered left of the figure's vertical body centerline, beside the viewer-left hand/waist. No golden rope may remain on the viewer-right side.
+- Do not mirror the whole person or alter face, hair, scarf, hands, robe folds, sash, white underlayer, legs or shoes.
+
+Keep the entire canvas, all six figures, view geometry, spacing, baselines, background and every other pixel-region unchanged. No second rope, horse, text, labels, watermark, extra accessories, extra limbs or cropping.

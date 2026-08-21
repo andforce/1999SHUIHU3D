@@ -1,0 +1,23 @@
+Use case: stylized-concept
+Asset type: professional game/animation character six-view model sheet
+Input images: Image 1 is the sole primary visual evidence for character 042. Image 2 is only the approved project layout, background, line-density and rendering baseline; never borrow Image 2's identity, face, body, costume, palette, headdress or accessories.
+Primary request: Create one complete landscape six-view turnaround of the exact same armored man from Image 1. Preserve his identity and card-illustration design while replacing the mounted action, weapon, horse and dramatic camera with a neutral standing production pose.
+
+Strict left-to-right order: (1) based on the left profile, rotate the whole character counterclockwise 45 degrees; (2) pure left profile; (3) pure front; (4) pure back; (5) pure right profile; (6) based on the right profile, rotate the whole character clockwise 45 degrees.
+
+Anatomical side is mandatory and never means screen-facing direction. Column 2 is observed from the character's own left side, so the nose/front points toward screen-right. Column 5 is observed from the character's own right side, so the nose/front points toward screen-left. The two pure profiles must face opposite screen directions.
+
+Relative 45-degree geometry is mandatory. Column 1 derives only from column 2 by rotating the entire body counterclockwise 45 degrees around the vertical axis. Column 6 derives only from column 5 by rotating the entire body clockwise 45 degrees. Head, ribcage, pelvis, knees and both feet rotate together. Columns 1 and 6 must show opposite near cheeks, ears, shoulders, armor perspective and far-limb occlusion. Never copy, reuse, horizontally flip or collapse either column into a front or pure profile.
+
+Identity and body: adult man with a firm square face, thick arched black eyebrows, sharp focused eyes and a visible thin black moustache. Do not erase the moustache and do not invent a beard. Tall, solid athletic build. Hair is hidden beneath a dark blue-black metal helmet with gold brow trim, gold side guards and a small green forehead jewel. A red flame-shaped plume is fixed on the helmet's top centerline and never shifts to one side.
+Armor and clothing: gold diamond-lattice armor on the upper sleeves and skirt panels; articulated silver chest and abdomen plates; gold forearm armor; a red scarf/cape wrapped around the neck and continuing as a simple red back drape; dark leg guards; dark boots with small gold spurs. Preserve the silver, gold, red, dark blue-black and small green accents from Image 1.
+
+Critical evidence correction: the long white-to-gray hair behind the rider's shoulder in Image 1 is continuously connected to the horse's neck and is the horse's mane. It is not a fur shoulder mantle, stole or cloak worn by the man. The character sheet must contain no white fur, no white shoulder cape and no horse mane attached to the person. The chest, shoulder and back silhouette must remain readable without that false garment.
+
+Entity separation: completely omit the horse, the long black polearm, the chain, the bronze spiked ball and every action prop from this person-only sheet. Do not replace them with new weapons or accessories. The weapon and mount already have independent entity sheets.
+
+Evidence boundary: the exact back closures of the armor and red cape, far-side armor connections and lower-body structure are not visible. Complete them minimally using the same materials and layer logic, with no new emblems, writing, fur, tassels or decoration.
+
+Style/medium: faithful bold black ink contours, late-1990s hand-painted cel shading and watercolor coloring from Image 1; clean warm-light-gray production-sheet presentation and even working light matching Image 2, not photorealistic.
+Composition: exactly six full-body figures and nothing else, fully visible and uncropped, identical height, head-body ratio, head-top line and foot baseline, equal spacing, neutral natural stance, arms slightly away from the torso and relaxed hands. Preserve the same face, thin moustache, helmet, center plume, body type, armor layers, colors and material segmentation in every view.
+Constraints: no title, labels, letters, watermark, scenery, horse, mane, white fur garment, weapon, chain, spiked ball, action effects, extra people, extra animals, duplicate armor, extra limbs, accidental mirroring, strong perspective or cropping.

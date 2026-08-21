@@ -1,0 +1,16 @@
+Use case: precise-object-edit
+Asset type: production character six-view asymmetric-anchor correction
+Input images: Image 1 is the edit target six-view draft. Image 2 is the sole primary visual evidence for character 108 and the golden braided rope design.
+Primary request: Edit only the golden braided rope coil and its attachment/occlusion in Image 1. Keep the canvas, six-column order, all character bodies, faces, hair, facial hair, robes, scarf, sash, hands, poses, view angles, spacing, baselines, background and every unmentioned pixel-region unchanged.
+
+The golden braided rope is one single permanent worn object attached to the character's own right-front waist. It has one braided grip loop, several coiled loops and one hanging tail. Never duplicate it, mirror it, swap it to the left waist, change its design or move it toward the camera merely for visibility.
+
+Correct the six columns from left to right:
+1. Based on left profile counterclockwise 45 degrees: the character-right waist is far-side. Remove the current fully exposed rope. Show only a small honestly occluded far-side fragment if physically visible behind the robe/arm; otherwise it may be fully hidden.
+2. Pure left profile: keep the character-right waist far-side and the rope mostly or fully hidden behind the torso and robe. Do not add a near-side coil.
+3. Pure front: move the complete rope from the viewer's right to the viewer's left, which is the character's own right-front waist in front view. Preserve the original rope silhouette and hanging direction.
+4. Pure back: place only the correctly projected/partly occluded rope at the viewer's right side of the waist, because that is the character's own right side in back view. It may be partially hidden by the robe and arm but must not move to viewer-left.
+5. Pure right profile: add the rope clearly on the near-side right-front waist, with realistic overlap by the near arm and robe. It must be the same single object and scale as the front view.
+6. Based on right profile clockwise 45 degrees: keep the existing rope on the near-side right-front waist, correcting only its attachment if necessary. It must not be duplicated.
+
+Critical invariants: do not alter any face, body, garment, scarf fold, sash, hand, shoe, background or view geometry. Exactly six full-body figures remain. No horse, moon, text, labels, watermark, extra accessories, extra limbs or cropping.

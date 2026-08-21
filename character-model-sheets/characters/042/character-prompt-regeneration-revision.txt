@@ -1,0 +1,11 @@
+Use case: precise-object-edit
+Asset type: production character six-view correction
+Input images: Image 1 is the edit target six-view draft. Image 2 is the sole primary visual evidence for character 042.
+Primary request: Edit Image 1 only in the face-hair, silver torso-armor and hip/skirt regions of all applicable views. Keep the canvas, six-column order, poses, anatomy, identity, helmet, centerline red plume, gold diamond-lattice sleeves, gold bracers, red scarf/cape, dark leg guards, boots, spacing, baselines, background and every unmentioned region unchanged.
+
+Required corrections:
+1. Replace the two rounded silver breast-like domes with one coherent angular segmented silver cuirass matching the sharp plate language visible in Image 2: a central upper angular plate, connected mid-torso plate and simple segmented abdomen/waist plates. It must read as rigid armor, not two circular cups. Keep the same silver/gold/black palette and do not add emblems.
+2. Remove every purple hip flap, gold spiral motif and decorative purple-red saddle-like panel from the character in all six views. Those colors/shapes belong to the obscured horse/tack region and are not confirmed as worn armor. Replace them with the already established plain gold diamond-lattice armored skirt continuing under a simple silver waist plate, plus only the existing red cape drape where naturally visible. Do not add green or purple costume parts.
+3. Reduce facial hair to the thin black moustache clearly visible in Image 2. Remove the pointed goatee and jaw beard; keep natural mouth and chin ink lines without turning them into facial hair.
+
+Critical invariants: the person must still wear no white fur, no horse mane and no shoulder mantle. Keep exactly six full-body views in the same positions and orientations; keep columns 1 and 6 as opposite relative 45-degree views. Do not change the face shape, body proportions, hands, legs, helmet, plume, cape, background or image dimensions. No text, labels, watermark, horse, weapon, extra props, extra limbs or cropping.
