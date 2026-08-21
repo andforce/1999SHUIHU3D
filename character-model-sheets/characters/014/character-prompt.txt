@@ -7,20 +7,20 @@ Strict left-to-right order: (1) based on the left profile, rotate the whole char
 
 Relative 45-degree geometry is mandatory. Column 1 derives only from column 2 by rotating the entire body counterclockwise 45 degrees around the vertical axis. Column 6 derives only from column 5 by rotating the entire body clockwise 45 degrees. Head, ribcage, pelvis, knees and both feet rotate together. Columns 1 and 6 must show opposite near cheeks, ears, shoulders, costume/armor perspective and far-limb occlusion. Never copy, reuse, horizontally flip or collapse either column into a front or pure profile.
 
-Identity: gender presentation 男性; apparent age 青年; face 窄长俊朗脸、浓眉锐目; hair 黑色长发高束并向后飘; facial hair 无胡须; body type 高挑结实、动作敏捷; proportions 保持原图人物独有的高矮、胖瘦和头身比例，不为批量整齐而统一体型.
-Costume layers: 亮蓝长袍；黑色宽裤；白色绑腿；蓝色披肩与大红念珠.
+Identity: gender presentation 男性; apparent age 青年; face 窄长俊朗脸、浓眉锐目; hair 黑色长发自然披散并在动作中向后飞扬，头顶与后脑没有蓝色辫子、发带或布质头饰; facial hair 无胡须; body type 高挑结实、动作敏捷; proportions 保持原图人物独有的高矮、胖瘦和头身比例，不为批量整齐而统一体型.
+Costume layers: 亮蓝宽袖长袍，原画中高扬至头后的蓝色部分为角色自身右手衣袖；黑色宽裤；白色绑腿；绿色衣领与大红念珠.
 Palette: 亮蓝；黑；白；红；金.
 Materials: 织物按原图褶皱与厚薄表现；金属、皮革、毛皮或木材仅在原图可见时保留相应质感.
 Patterns and symbols: 只保留原图清楚可见的纹样、甲片分格和装饰位置，不生成文字或新徽记.
-Must preserve: 窄长俊朗脸、浓眉锐目；黑色长发高束并向后飘；高挑结实、动作敏捷；亮蓝长袍、黑色宽裤、白色绑腿、蓝色披肩与大红念珠；亮蓝、黑、白、红、金；大弧度单刃长刀，银白刃与金色圆护手.
-Confirmed visual evidence: 身份与外形：窄长俊朗脸、浓眉锐目；黑色长发高束并向后飘；无胡须；高挑结实、动作敏捷。；服装：亮蓝长袍、黑色宽裤、白色绑腿、蓝色披肩与大红念珠。；主配色：亮蓝、黑、白、红、金。；武器或标志装备：大弧度单刃长刀，银白刃与金色圆护手。.
+Must preserve: 窄长俊朗脸、浓眉锐目；黑色长发自然披散并在动作中向后飞扬，头顶无蓝色辫子或布条；高挑结实、动作敏捷；亮蓝宽袖长袍、黑色宽裤、白色绑腿、绿色衣领与大红念珠，右手衣袖始终连接角色自身右肩与右臂；亮蓝、黑、白、红、金；大弧度单刃长刀，银白刃与金色圆护手.
+Confirmed visual evidence: 身份与外形：窄长俊朗脸、浓眉锐目；黑色长发自然披散并在动作中向后飞扬；无胡须；高挑结实、动作敏捷。；服装：亮蓝宽袖长袍、黑色宽裤、白色绑腿、绿色衣领与大红念珠。；原画头后上方的蓝色形体是角色自身右臂抬起时的右手衣袖，袖根连接角色自身右肩与右臂，不连接头顶、头发或头冠。；主配色：亮蓝、黑、白、红、金。；武器或标志装备：大弧度单刃长刀，银白刃与金色圆护手。.
 Restrained structural inference: 人物背部服装按正侧面同材质、同层级连续闭合，不新增徽章、纹样或第二套配件。；被动作遮挡的左右肢体、鞋履和服装侧缝采用最克制、近似对称且易修改的补全。；武器或标志装备的反面、薄侧面与被裁切末端采用无额外装饰的结构性补全。.
 Unknown and editable: 长刀反面、刀鞘固定方式与袍服背面不可见；原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知。.
-Asymmetric three-dimensional anchors: No permanent one-sided costume anchor is confirmed in the current evidence record. Held weapons, mounts and action-driven cloth motion are not permanent body asymmetry; do not invent a new one-sided accessory.
+Asymmetric three-dimensional anchors: No permanent one-sided costume anchor is confirmed in the current evidence record. The raised blue form behind the head in Image 1 is action-driven cloth from the character's own right sleeve, rooted at the right shoulder and right arm; it is not attached to the head and must never become blue hair, a braid, ribbon, plume, scarf, or head accessory. Held weapons, mounts and action-driven cloth motion are not permanent body asymmetry; do not invent a new one-sided accessory.
 
 Anchor rule: every recorded asymmetric feature stays permanently fixed to its anatomical side and three-dimensional attachment point. Rotate only the observer/body orientation; never swap sides, mirror, duplicate or move a far-side feature toward the camera. Real occlusion has priority over full visibility.
 
 Composition: exactly six full-body figures and nothing else, fully visible and uncropped, identical height, head-body ratio, head-top line and foot baseline, equal spacing, neutral natural stance, arms slightly away from torso, hands relaxed. Keep permanent worn accessories and scabbards only when visible in Image 1. Every held weapon, signature prop, mount and pet must be completely absent from this character sheet; they will be generated on separate sheets. Do not add a second row or any object study.
 
 Style/medium: faithful to Image 1's bold black ink contours, late-1990s hand-painted cel shading and watercolor coloring; clean warm-light-gray production-sheet presentation matching Image 3, not photorealistic.
-Constraints: same identity, face, hair, facial hair, body type, garment layers, palette, patterns, armor and fixed accessories in every view; pure side/front/back views structurally readable; inferred back details minimal and undecorated. No title, labels, letters, watermark, scenery, action effects, extra people, extra animals, duplicate weapons, fused props, extra limbs, accidental mirroring or cropping.
+Constraints: same identity, face, hair, facial hair, body type, garment layers, palette, patterns, armor and fixed accessories in every view; pure side/front/back views structurally readable; inferred back details minimal and undecorated. Both blue robe sleeves must connect only to their corresponding shoulders and arms. No blue element may attach to or emerge from the head, crown, or hair. No title, labels, letters, watermark, scenery, action effects, extra people, extra animals, duplicate weapons, fused props, extra limbs, accidental mirroring or cropping.
