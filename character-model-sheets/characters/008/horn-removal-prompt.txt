@@ -1,0 +1,11 @@
+Use case: precise-object-edit
+Asset type: corrective edit of character 008 turnaround and head model sheet
+Input images: Image 1 is the sole edit target and must remain the base image. The user's explicit design override is to remove the helmet horn even though it was present in the original source design.
+
+Primary request: Edit only the crown of the helmet in every one of the six full-body figures and every one of the four enlarged head-and-shoulder views. Completely remove every red-orange horn from all ten helmets.
+
+Reconstruction: erase the full horn from tip through base, including every red-orange reflection, black outline, base collar, socket and stump. Reconstruct the missing area as a smooth continuous rounded black segmented helmet dome, matching each view's perspective, black ink contour, hand-painted shading and highlight. Continue the restrained silver-gray vertical center ridge naturally through the repaired crown, but keep it flat against the dome: it must not rise into a spike, fin, crest or horn.
+
+Hard invariants: preserve Image 1's front-only black visor brim exactly as it is. The visor remains attached only across the front forehead, stops at both temples, projects forward over the eyes, and never wraps around the side or back. Preserve the angular black face mask, amber-orange eye slits, helmet dome size, side cheek guards and rear neck plates. Preserve the 1536 × 1024 canvas, all ten depiction positions and sizes, six-view order, four-head-view order, athletic body proportions, poses, asymmetric shoulders and arms, costume, cape, colors, textures, lighting, background and every non-horn area as closely as possible.
+
+Avoid: no horn anywhere, no red-orange crown piece, no spike, fin, crest, antenna, plume, horn base, hole or broken stump; no circular brim, side brim or rear brim; no redesign of the face, body, armor, clothing or composition; no weapon, text, labels, watermark, extra people, extra heads, duplicate limbs, cropping or mirroring.

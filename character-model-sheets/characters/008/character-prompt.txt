@@ -1,26 +1,33 @@
 Use case: stylized-concept
-Asset type: professional game/animation character six-view model sheet
-Input images: Image 1 is the sole primary visual evidence for character 008. Image 2 is the legacy turnaround only as a secondary identity/costume continuity reference; do not copy its old five-view layout or any mistake. Image 3 is the approved project six-view layout/style baseline only; never borrow its face, body, costume, colors or accessories.
-Primary request: Create one complete landscape six-view turnaround of the exact same character from Image 1. Preserve the original identity and design but replace the action, camera angle, effects and scenery with a neutral production pose.
+Asset type: professional game/animation character turnaround and head model sheet
+Input images: Image 1 is the original 008 card illustration and the primary evidence for identity, costume, palette and weapon-era design. Image 2 is the user's new hand-painted correction reference; use it together with Image 1, and give Image 2 special weight for the intended athletic body silhouette, close-fitting helmet/face construction, shoulder armor and exposed-arm relationship. This is a new generation, not an edit of either reference.
 
-Strict left-to-right order: (1) based on the left profile, rotate the whole character counterclockwise 45 degrees; (2) pure left profile; (3) pure front; (4) pure back; (5) pure right profile; (6) based on the right profile, rotate the whole character clockwise 45 degrees.
+Primary request: Create one complete landscape production model sheet of the exact same armored male warrior, with six full-body neutral turnaround views plus four enlarged head-and-shoulder views. Recover the original's fit, athletic strength. The rejected version made him short, barrel-chested and overly bulky; do not repeat that error.
 
-Relative 45-degree geometry is mandatory. Column 1 derives only from column 2 by rotating the entire body counterclockwise 45 degrees around the vertical axis. Column 6 derives only from column 5 by rotating the entire body clockwise 45 degrees. Head, ribcage, pelvis, knees and both feet rotate together. Columns 1 and 6 must show opposite near cheeks, ears, shoulders, costume/armor perspective and far-limb occlusion. Never copy, reuse, horizontally flip or collapse either column into a front or pure profile.
+FULL-BODY LAYOUT — exactly six complete figures in one clean row, left to right:
+1) based only on the left profile in column 2, rotate the entire character counterclockwise 45 degrees around the vertical axis;
+2) pure character-left profile;
+3) pure front;
+4) pure back;
+5) pure character-right profile;
+6) based only on the right profile in column 5, rotate the entire character clockwise 45 degrees around the vertical axis.
+All six share identical height, approximately seven-head adult proportions, head-top line, foot baseline, neutral stance and lighting. Arms rest slightly away from the torso. Complete head, cape and feet remain uncropped. Columns 1 and 6 must come from opposite side bases with opposite near cheek, shoulder, chest-armor perspective and far-limb occlusion; never copy, mirror or collapse either into a front or pure profile.
 
-Identity: gender presentation 男性; apparent age 中年; face 面部被黑色重盔部分遮挡、双目发亮; hair 头发完全被盔甲遮挡; facial hair 无可确认胡须; body type 矮壮厚重; proportions 保持原图人物独有的高矮、胖瘦和头身比例，不为批量整齐而统一体型.
-Costume layers: 黑色重甲；银色铆钉；红色大披风与红黑护腿.
-Palette: 黑；红；银；金.
-Materials: 织物按原图褶皱与厚薄表现；金属、皮革、毛皮或木材仅在原图可见时保留相应质感.
-Patterns and symbols: 只保留原图清楚可见的纹样、甲片分格和装饰位置，不生成文字或新徽记.
-Must preserve: 面部被黑色重盔部分遮挡、双目发亮；头发完全被盔甲遮挡；矮壮厚重；黑色重甲、银色铆钉、红色大披风与红黑护腿；黑、红、银、金；黑红大月牙戟／镰形长兵器，金色刃缘与金色杆.
-Confirmed visual evidence: 身份与外形：面部被黑色重盔部分遮挡、双目发亮；头发完全被盔甲遮挡；无可确认胡须；矮壮厚重。；服装：黑色重甲、银色铆钉、红色大披风与红黑护腿。；主配色：黑、红、银、金。；武器或标志装备：黑红大月牙戟／镰形长兵器，金色刃缘与金色杆。.
-Restrained structural inference: 人物背部服装按正侧面同材质、同层级连续闭合，不新增徽章、纹样或第二套配件。；被动作遮挡的左右肢体、鞋履和服装侧缝采用最克制、近似对称且易修改的补全。；武器或标志装备的反面、薄侧面与被裁切末端采用无额外装饰的结构性补全。.
-Unknown and editable: 面部、背甲和兵器反面纹样不可见；原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知。.
-Asymmetric three-dimensional anchors: No permanent one-sided costume anchor is confirmed in the current evidence record. Held weapons, mounts and action-driven cloth motion are not permanent body asymmetry; do not invent a new one-sided accessory.
+HEAD LAYOUT — in a separate clear lower band, exactly four equally scaled head-and-shoulder close-ups, left to right: pure front, pure back, pure character-left profile, pure character-right profile. The four heads must keep one skull volume, face proportions, helmet volume, eye line, neck scale, neutral expression and lighting. The two profiles are genuine opposite sides, never copied or mirrored. The back view shows a restrained continuation of the segmented helmet without invented decoration.
 
-Anchor rule: every recorded asymmetric feature stays permanently fixed to its anatomical side and three-dimensional attachment point. Rotate only the observer/body orientation; never swap sides, mirror, duplicate or move a far-side feature toward the camera. Real occlusion has priority over full visibility.
+BODY PROPORTION — hard correction: strong, fit and muscular, not stocky, fat, squat, chibi or power-armored. Broad but not massive shoulders; deep but non-barrel ribcage; visibly tapered waist and pelvis; long, powerful arms and legs; normal-sized hands, boots and joints. Armor follows the anatomy closely instead of inflating the chest, abdomen, shoulders or limbs. The silhouette must read as an agile, healthy warrior with athletic mass, not a blocky heavy tank.
 
-Composition: exactly six full-body figures and nothing else, fully visible and uncropped, identical height, head-body ratio, head-top line and foot baseline, equal spacing, neutral natural stance, arms slightly away from torso, hands relaxed. Keep permanent worn accessories and scabbards only when visible in Image 1. Every held weapon, signature prop, mount and pet must be completely absent from this character sheet; they will be generated on separate sheets. Do not add a second row or any object study.
+HEAD AND FACE — apply the user's explicit design override and remove the original crown horn completely. The compact close-fitting black segmented helmet has a smooth continuous rounded crown with a restrained silver-gray vertical center ridge, but absolutely no horn, spike, fin, red-orange crown element, horn base, socket or broken stump in any view. A separate broad, low black visor brim attaches ONLY to the front forehead above the eyes and terminates at the left and right temples. It projects clearly forward over the face; in side profile the visor extends beyond the face-mask silhouette while the helmet behind the temple continues as a smooth close-fitting dome with no ledge. This is a front-only visor, never a 360-degree brim, encircling flange, side shelf, rear shelf, horizontal band or samurai-kabuto rim. The pure back view must show zero brim. The visor casts a shadow over the narrow glowing amber-orange eye slits. The lower face is partly hidden by a close-fitting angular black mask and cheek guards with small restrained warm-gold/red accents; do not add a thick barred grille, broad robot jaw, visible hair, beard, any horn, extra eyes or round ear disks. Preserve the mysterious human warrior identity shown in both references while following this user-directed no-horn override.
 
-Style/medium: faithful to Image 1's bold black ink contours, late-1990s hand-painted cel shading and watercolor coloring; clean warm-light-gray production-sheet presentation matching Image 3, not photorealistic.
-Constraints: same identity, face, hair, facial hair, body type, garment layers, palette, patterns, armor and fixed accessories in every view; pure side/front/back views structurally readable; inferred back details minimal and undecorated. No title, labels, letters, watermark, scenery, action effects, extra people, extra animals, duplicate weapons, fused props, extra limbs, accidental mirroring or cropping.
+ASYMMETRIC ARMOR — lock to the character's anatomy in every view:
+- Character-left shoulder: rounded silver-gray riveted pauldron, outer black-and-gold swirling/flame ornament with a small red-orange spike, and a visibly bare tan muscular upper arm below it; the forearm continues into a black/red/gold bracer and gauntlet.
+- Character-right shoulder: a smaller angular golden-yellow pointed shoulder guard with a black armored sleeve and black/red/gold forearm protection. Keep it compact; never turn it into a giant bulky pauldron.
+In front view, the character-left silver pauldron and bare upper arm appear on the image's right, while the character-right gold pauldron and black sleeve appear on the image's left. In back view their screen positions reverse. Never swap, mirror, duplicate or move these features to improve visibility; distant-side parts obey real occlusion.
+
+COSTUME: fitted black segmented torso armor with restrained silver and warm-gold edging; vivid red cape connected around the upper back/neck and hanging behind the body; red wrapped waist sash; black skirt-like lower armor and cloth panels with warm-gold border; red-and-black shin protection; black shoes/boots with slim gold trim. Preserve the bold black, red, silver and gold palette. Do not invent circular chest brooches, logos, text, extra spikes, excessive plate thickness or ornamental clutter. Back closures and hidden structures remain simple, undecorated inferences.
+
+WEAPON RULE: the large black/red crescent polearm is a separate asset and must be absent from this character sheet. No held weapon, scabbard, mount, pet or action effect.
+
+Style/medium: faithful late-1990s Chinese collectible-card illustration; strong expressive black ink contour, hand-painted cel shading with watercolor/gouache texture, crisp readable design shapes, not photorealistic, not glossy 3D, not modern superhero power armor. Clean warm light-gray neutral background and even studio illumination.
+
+Constraints: exactly six full-body views plus exactly four head close-ups; no title, labels, numbers, letters, watermark, borders, purple scene background, stars, cape wind action, extra people, extra heads, extra limbs, duplicate body parts, cropping, weapon, accidental mirroring or unreadable text.
