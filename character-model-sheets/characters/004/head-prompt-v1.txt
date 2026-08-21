@@ -1,0 +1,10 @@
+Use case: identity-preserve
+Asset type: professional game/animation character head model sheet for character 004
+Input images: Image 1 is the sole primary full original illustration; Image 2 is a magnified evidence crop of the original head; Image 3 is the current six-view only for body/costume rendering style and contains a known WRONG purple tall hat that must not be copied.
+Primary request: Create a clean landscape head model sheet of the exact same adult male character, with exactly four equal-scale head-and-shoulder close-ups from left to right: pure front, pure back, pure left profile, pure right profile.
+Identity: narrow long face, sharp brows and intense narrow eyes, tan skin, angular cheeks. Completely bare head: absolutely no hat, cap, hood, crown, purple object, ornament, or any headwear.
+Hair: vivid green long hair anatomically rooted only in the scalp, with the original distinctive flame-like locks sweeping upward, outward, and backward. The green structure is HAIR, never facial hair; it must not connect to cheeks, mouth, jaw, or chin.
+Facial hair: restrained BLACK facial hair on the lower face, consistent with the visible black whiskers/beard in Image 2. Use a slim black moustache around the mouth corners and a narrow short pointed black chin beard/goatee as the most restrained completion of the sword-obscured center. It must stay black and modest, never green, never a large beard, never a mane.
+Style/medium: faithful bold black ink contours, late-1990s hand-painted cel shading and watercolor coloring matching Image 1 and the clean production rendering of Image 3.
+Composition: warm light-gray neutral background, even lighting, equal crop and head scale, neutral expression. The back shows the same green scalp-rooted hair structure with no invented headwear. Left and right profiles are different anatomical sides and not mirrored copies.
+Constraints: no sword in the head sheet; no purple tall hat; no headwear; no green beard; no oversized black beard; no extra faces, duplicate heads, extra limbs, text, labels, title, watermark, scenery, action effects, cropping, or accidental mirroring.

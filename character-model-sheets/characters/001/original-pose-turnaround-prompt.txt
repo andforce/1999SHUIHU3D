@@ -1,0 +1,43 @@
+Use case: stylized-concept
+Asset type: character 001 alternate six-view full-body turnaround preserving the original artwork pose
+
+Input images:
+- Image 1 is the original character artwork and the primary authority for the frozen action pose, gesture, costume silhouette, wind-blown drapery, held white ribbon/scroll-like prop, face, colors, and late-1990s hand-painted illustration style.
+- Image 2 is the current neutral-pose six-view turnaround and is only a supporting reference for the same character's inferred side/back clothing construction, body proportions, and view geometry. Do not copy its neutral stance or empty hands. If it conflicts with Image 1, follow Image 1 for pose, clothing appearance, and prop relationship.
+- Image 3 is the corrected head sheet and the authority for facial identity and the black ceremonial crown with bilateral gold pin ornaments: exactly 8 pins on each anatomical side, with flattened irregular non-spherical finials.
+
+Create a new, separate professional six-view full-body turnaround of this same character while preserving the original artwork's action as one frozen three-dimensional pose. Do not edit or imitate the neutral standing composition of Image 2. All six figures are the same frozen action, clothing volume, and held prop viewed from six different camera directions; rotate the entire character, head, torso, pelvis, limbs, wind-blown robe, and prop together around the vertical axis. Do not repurpose expression changes or different poses as different views.
+
+Frozen pose and gesture from Image 1:
+- The character's anatomical right arm is fully raised overhead, elbow extended, right index finger pointing straight upward, other fingers folded in the same commanding gesture.
+- The character's anatomical left arm reaches outward with a slight elbow bend and grips one end of the single long white ribbon/scroll-like prop.
+- The character holds a deep, very wide martial lunge: anatomical right leg drives forward and outward, anatomical left leg braces back and outward, both knees flexed, pelvis low, torso powerfully twisted, chest lifted.
+- Chin and gaze angle upward toward the raised right hand. Preserve the same authoritative facial expression.
+- Freeze the original crimson robe, shoulder drape, sleeves, long sash, and split skirt panels in their dramatic wind-blown shapes. These cloth volumes rotate with the body and must not randomly change direction from view to view.
+
+Prop lock:
+- Include exactly one continuous long white broad ribbon/scroll-like object with clean pale-gray shaded edges, short gray-white neck pieces, and one red rounded endcap at each end.
+- The anatomical left hand grips the same end shown in Image 1. The white length sweeps in a broad shallow curve behind the torso toward the character's anatomical right side, with its free end trailing lower and outward exactly as the frozen pose requires.
+- Keep the same length, width, curve, grip point, endcaps, and body-relative path in every view. Rotate the prop with the pose. Do not turn it into two weapons, a straight staff, a sword, a flagpole, or detached floating pieces. Do not add writing to it.
+
+Identity, clothing, and equipment lock:
+- Preserve the narrow authoritative face, thin moustache and pointed goatee, tall muscular proportions, black angular ceremonial crown, central gold emblem, bilateral crown ornaments with exactly 8 gold pins per anatomical side and flattened irregular non-round tips.
+- Preserve the source costume layers and proportions: white inner collar; green-and-gold chest armor; deep crimson crossing robe and billowing drapery; black-and-gold waist belt; green skirt borders; cream under-trousers; layered bright-gold thigh armor, knee/greave armor and armored shoes; green forearm bases with gold segmented guards.
+- No mount and no pet. No additional weapon, shield, scabbard, bag, or invented accessory.
+
+Strict six-view order from left to right:
+1. Based only on the character's pure left profile, rotate the entire frozen pose counterclockwise 45 degrees around the vertical axis.
+2. Character's pure left profile of the frozen pose.
+3. Exact front view of the frozen pose, matching Image 1 most closely.
+4. Exact back view of the same frozen pose.
+5. Character's pure right profile of the frozen pose.
+6. Based only on the character's pure right profile, rotate the entire frozen pose clockwise 45 degrees around the vertical axis.
+
+The first and sixth views must come from opposite profile bases, with opposite near-side cheeks, shoulders, arms, hips, legs, robe folds, and prop occlusion. They may not copy, mirror, or reuse each other. In every column, head, chest, pelvis, knees, feet, raised arm, gripping arm, cloth volumes, and white prop share one consistent yaw angle.
+
+Composition and presentation:
+- Use a very wide clean landscape model-sheet canvas with six evenly spaced columns. Keep all six frozen poses at the same scale and on the same ground plane.
+- Show every figure, raised fingertip, foot, billowing robe tip, and both ends of the white prop completely. No cropping and no overlap between columns. Reduce figure scale enough to preserve clear empty separation between full silhouettes and props.
+- Plain warm light-gray neutral background, even studio illumination, strong clean black ink contours, hand-painted cel shading with subtle watercolor texture matching the original card art.
+
+Constraints: exactly six figures and no others; no title, labels, captions, numbers, borders, watermark, lightning, rocks, stone tablet, scenery, text, extra limbs, missing fingers, duplicate props, merged limbs, neutral standing poses, inconsistent cloth motion, or cropped prop ends.

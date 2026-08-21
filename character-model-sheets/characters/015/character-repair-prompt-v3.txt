@@ -1,0 +1,15 @@
+Use case: precise-object-edit
+Asset type: professional game/animation character six-view model sheet revision
+Input images: Image 1 is the edit target and must retain its six-view layout, character identity, framing, scale, colors, rendering, and background. Image 2 is the original character art and is visual evidence only for the true long sleeve silhouette and the waist origin of the large green ribbon-like ornament.
+
+Edit Image 1 only, across all six full-body views. Make exactly these two structural corrections:
+
+1. Green twin ribbon ornament attachment:
+Remove every connection, root, or origin of the two large green ribbon-like curved ornaments from the head, hair, neck, collar, shoulders, and upper back. Keep the small pair of upright green-blue feather/leaf ornaments on top of the hair unchanged; those are separate head ornaments and must remain.
+Re-anchor the two large, long green ribbon-like curved members to the character's rear waist belt: one root at the left rear waist and one root at the right rear waist. In the back view, both roots must clearly and cleanly emerge from the left and right sides of the rear waist belt. In front, side, and 45-degree views, show the waist roots only where perspective permits, with the ribbons extending behind the torso and optionally curving upward behind the body. They may pass behind the shoulders or head due to their length, but must never attach there. Preserve their green color, dark outline, tapered ribbon/blade-like shape, and view-correct occlusion. Do not turn them into hair, horns, shoulder armor, a cape, or rigid back appendages.
+
+2. Sleeve length and silhouette:
+Replace the current short elbow/upper-arm sleeves of the red-magenta patterned cropped robe in all six views with the original design's wide, voluminous long sleeves. Each sleeve begins at the same shoulder seam and extends along the arm so its cuff ends near the wrist, covering nearly the full forearm. Preserve the existing pink-red fabric, yellow-green leaf/flame pattern, blue trim, black ink outline, and wide draped silhouette. Keep the hands fully visible beyond the cuffs. Do not lengthen the torso hem, do not add detached fabric, and do not make tight modern sleeves.
+
+Hard invariants:
+Change only the large green ribbon attachment/path as needed and the sleeve length/silhouette. Keep the exact same six figures, strict left-to-right view order, poses, faces, hair, small upright head feathers, body proportions, waist armor, red lamellar panels, blue trousers, boots, palette, pattern language, linework, cel/watercolor rendering, warm light-gray landscape canvas, spacing, head-top line, foot baseline, and lighting. Preserve all six viewing angles and their geometry. No weapon, no text, no labels, no title, no watermark, no extra person, no extra limb, no cropping.

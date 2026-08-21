@@ -1,0 +1,12 @@
+Use case: precise-object-edit
+Asset type: professional game/animation character six-view model sheet correction
+
+Edit only column 1 and column 6 of the attached six-view sheet. The large green twin waist ribbons were accidentally omitted from these two relative 45-degree views.
+
+Column 1: restore the same fixed pair of long green ribbon-like ornaments rooted at the left and right rear waist belt. They must hang naturally downward under gravity behind the hips and thighs, projected correctly for the view based on the left profile rotated counterclockwise 45 degrees. At least the near-side downward ribbon must be clearly visible from its rear-waist root to its tapered tip around mid-thigh/knee; the far-side ribbon may be partly occluded by the body, armor, or near ribbon but must remain spatially consistent.
+
+Column 6: restore the same fixed pair rooted at the left and right rear waist belt, projected correctly for the view based on the right profile rotated clockwise 45 degrees. At least the opposite near-side downward ribbon must be clearly visible from its rear-waist root to its tapered tip around mid-thigh/knee; the far-side ribbon may be partly occluded.
+
+Match exactly the ribbon shape language, length, width, green color, dark outline, taper, and natural vertical downward fall already visible in columns 2, 4, and 5. No ribbon may rise above the waist, curl upward, approach the torso/shoulders/head, or form a C loop or S loop.
+
+Hard invariants: columns 2, 3, 4, and 5, the canvas, spacing, background, and all non-ribbon pixels should remain unchanged. In columns 1 and 6 change only the missing green waist ribbons; keep faces, hair, small upright head feathers, long sleeves, poses, body proportions, costumes, armor, patterns, hands, legs, boots, viewing geometry, baseline, lighting, and linework unchanged. No text, annotations, UI frame, weapon, watermark, extra person, or extra limb.
