@@ -1,0 +1,4 @@
+interface:
+  display_name: "角色设定表生成器"
+  short_description: "从角色原画建立含六视图和头部放大图的专业设定表"
+  default_prompt: "使用 $build-character-model-sheets 分析角色原画，生成人物六视图、固定前后左右头部四视图放大，以及需要的武器、坐骑和宠物设定表。"

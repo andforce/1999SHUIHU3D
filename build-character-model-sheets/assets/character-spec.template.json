@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "id": "",
+  "name": "",
+  "source": "",
+  "status": "pending",
+  "evidence": {
+    "confirmed": [],
+    "inferred": [],
+    "unknown": []
+  },
+  "character": {
+    "identity": {
+      "gender_presentation": "",
+      "apparent_age": "",
+      "face": "",
+      "hair": "",
+      "facial_hair": "",
+      "body_type": "",
+      "body_proportions": ""
+    },
+    "costume_layers": [],
+    "palette": [],
+    "materials": [],
+    "patterns_and_symbols": [],
+    "left_right_asymmetry": [],
+    "asymmetric_anchors": [],
+    "must_preserve": []
+  },
+  "entities": {
+    "weapon": {"presence": "unknown", "items": [], "notes": []},
+    "mount": {"presence": "unknown", "items": [], "notes": []},
+    "pet": {"presence": "unknown", "items": [], "notes": []}
+  },
+  "generation": {
+    "style_profile": {
+      "id": "xiaohuanxiong-shuihu-1999-2000-hand-painted-card",
+      "status": "default",
+      "style_anchor_reference": "",
+      "notes": []
+    },
+    "views": ["left-profile-counterclockwise-45-degree", "left-profile", "front", "back", "right-profile", "right-profile-clockwise-45-degree"],
+    "head_views": ["front", "back", "left-profile", "right-profile"],
+    "pose": "neutral model-sheet pose with arms slightly separated",
+    "background": "plain light neutral",
+    "notes": [],
+    "variants": []
+  },
+  "review": {"approved_by": "", "approved_at": "", "notes": []}
+}
