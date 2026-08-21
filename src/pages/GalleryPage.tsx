@@ -11,7 +11,7 @@ import { CharacterQuickView } from '../components/CharacterQuickView'
 import { Seal } from '../components/Seal'
 import type { CharacterEntry } from '../types'
 
-type GalleryFilter = 'all' | 'weapon' | 'mount'
+type GalleryFilter = 'all' | 'head' | 'weapon' | 'mount'
 type SortDirection = 'ascending' | 'descending'
 
 interface GalleryPageProps {
@@ -20,6 +20,7 @@ interface GalleryPageProps {
 
 const filterLabels: Record<GalleryFilter, string> = {
   all: '全部人物',
+  head: '有头部四视',
   weapon: '有武器',
   mount: '有坐骑',
 }
@@ -74,7 +75,7 @@ export function GalleryPage({ entries }: GalleryPageProps) {
               <em>一百单八将</em>
             </h1>
             <p>
-              逐张重访旧日卡面，对照人物五视、兵器与坐骑。
+              逐张重访旧日卡面，对照头部四视、人物五视、兵器与坐骑。
               <br className="hidden sm:block" />
               一套属于收藏者的水浒人物图谱。
             </p>
@@ -205,6 +206,7 @@ export function GalleryPage({ entries }: GalleryPageProps) {
                 <div className="catalog-card__caption">
                   <span className="catalog-card__name">梁山人物</span>
                   <span className="catalog-card__assets">
+                    {entry.head && <span title="含头部四视图">头</span>}
                     {entry.weapon && (
                       <span title="含武器图">
                         <Sword aria-hidden="true" size={13} />兵器
@@ -237,7 +239,7 @@ export function GalleryPage({ entries }: GalleryPageProps) {
       <footer className="site-footer">
         <span className="site-footer__mark">一百单八</span>
         <p>1999 小浣熊水浒收藏图鉴</p>
-        <span>卡片 · 人物五视 · 兵器 · 坐骑</span>
+        <span>卡片 · 头部四视 · 人物五视 · 兵器 · 坐骑</span>
       </footer>
 
       {selectedEntry && (

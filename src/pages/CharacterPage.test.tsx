@@ -29,6 +29,19 @@ describe('CharacterPage', () => {
     expect(screen.queryByRole('heading', { name: '坐骑设定' })).not.toBeInTheDocument()
   })
 
+  it('shows the optional head four-view before the full character view', () => {
+    render(
+      <CharacterPage
+        entry={testCharacters[0]}
+        entries={testCharacters}
+      />,
+    )
+
+    expect(
+      screen.getAllByRole('heading', { level: 2 }).map((heading) => heading.textContent),
+    ).toEqual(['原始卡片', '头部四视', '人物五视', '兵器设定'])
+  })
+
   it('opens the full-screen viewer and closes it with Escape', async () => {
     const user = userEvent.setup()
     render(

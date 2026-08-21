@@ -45,6 +45,21 @@ describe('GalleryPage', () => {
     expect(sortedButtons[0]).toHaveAccessibleName('查看 No. 027 人物资料')
   })
 
+  it('filters characters with head four-view artwork', async () => {
+    const user = userEvent.setup()
+    render(<GalleryPage entries={testCharacters} />)
+
+    await user.click(screen.getByRole('button', { name: '有头部四视' }))
+    expect(characterButtons()).toHaveLength(1)
+    expect(characterButtons()[0]).toHaveAccessibleName('查看 No. 001 人物资料')
+
+    await user.click(characterButtons()[0])
+    const dialog = screen.getByRole('dialog', { name: '人物 · No. 001' })
+    expect(
+      within(dialog).getAllByRole('heading', { level: 3 }).map((heading) => heading.textContent),
+    ).toEqual(['原始卡片', '头部四视', '人物五视', '兵器设定'])
+  })
+
   it('opens a complete character popup in the intended image order', async () => {
     const user = userEvent.setup()
     render(<GalleryPage entries={testCharacters} />)

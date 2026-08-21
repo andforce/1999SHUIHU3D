@@ -7,6 +7,11 @@ const cardModules = import.meta.glob('../../images/[0-9][0-9][0-9].png', {
   import: 'default',
 }) as Record<string, string>
 
+const headModules = import.meta.glob(
+  '../../character-model-sheets/characters/*/head-sheet.png',
+  { eager: true, query: '?url', import: 'default' },
+) as Record<string, string>
+
 const turnaroundModules = import.meta.glob(
   '../../character-model-sheets/characters/*/character-turnaround.png',
   { eager: true, query: '?url', import: 'default' },
@@ -36,6 +41,10 @@ function mapAssetsById(
 }
 
 const cardsById = mapAssetsById(cardModules, /\/(\d{3})\.png$/)
+const headsById = mapAssetsById(
+  headModules,
+  /\/characters\/(\d{3})\/head-sheet\.png$/,
+)
 const turnaroundsById = mapAssetsById(
   turnaroundModules,
   /\/characters\/(\d{3})\/character-turnaround\.png$/,
@@ -69,6 +78,9 @@ export const characters: CharacterEntry[] = (
   id: entry.id,
   card: requiredAsset(cardsById, entry.id, '卡片原图'),
   thumbnail: thumbnailUrl(entry.id),
+  ...(entry.head
+    ? { head: requiredAsset(headsById, entry.id, '头部四视图') }
+    : {}),
   turnaround: requiredAsset(turnaroundsById, entry.id, '人物五视图'),
   ...(entry.weapon
     ? { weapon: requiredAsset(weaponsById, entry.id, '武器图') }

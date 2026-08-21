@@ -21,6 +21,12 @@ describe('generated asset catalog', () => {
     )
   })
 
+  it('includes the available head four-view artwork', () => {
+    expect(catalog.find((entry) => entry.id === '001')?.head).toBe(
+      'character-model-sheets/characters/001/head-sheet.png',
+    )
+  })
+
   it('loads card artwork from the images directory', () => {
     expect(catalog.map((entry) => entry.card)).toEqual(
       catalog.map((entry) => `images/${entry.id}.png`),

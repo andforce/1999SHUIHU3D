@@ -38,6 +38,7 @@ async function collectCatalog() {
       id,
     )
     const card = `images/${id}.png`
+    const head = `character-model-sheets/characters/${id}/head-sheet.png`
     const turnaround = `character-model-sheets/characters/${id}/character-turnaround.png`
     const weapon = `character-model-sheets/characters/${id}/weapon-sheet.png`
     const mount = `character-model-sheets/characters/${id}/mount-sheet.png`
@@ -54,6 +55,7 @@ async function collectCatalog() {
       id,
       card,
       thumbnail: `generated/cards/${id}.webp`,
+      ...((await exists(path.join(projectRoot, head))) ? { head } : {}),
       turnaround,
       ...((await exists(path.join(projectRoot, weapon))) ? { weapon } : {}),
       ...((await exists(path.join(projectRoot, mount))) ? { mount } : {}),
@@ -67,6 +69,7 @@ function validateCatalog(entries) {
   const ids = new Set(entries.map((entry) => entry.id))
   const counts = {
     card: entries.length,
+    head: entries.filter((entry) => entry.head).length,
     turnaround: entries.filter((entry) => entry.turnaround).length,
     weapon: entries.filter((entry) => entry.weapon).length,
     mount: entries.filter((entry) => entry.mount).length,
@@ -145,5 +148,5 @@ if (!checkOnly) {
 }
 
 console.log(
-  `素材校验通过：卡片 ${counts.card}，五视图 ${counts.turnaround}，武器 ${counts.weapon}，坐骑 ${counts.mount}。`,
+  `素材校验通过：卡片 ${counts.card}，头部四视 ${counts.head}，人物五视 ${counts.turnaround}，武器 ${counts.weapon}，坐骑 ${counts.mount}。`,
 )

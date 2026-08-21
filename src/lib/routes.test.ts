@@ -15,6 +15,11 @@ describe('hash routing', () => {
       id: '027',
       view: 'weapon',
     })
+    expect(parseHash('#/character/001/head')).toEqual({
+      page: 'character',
+      id: '001',
+      view: 'head',
+    })
     expect(parseHash('#/character/001')).toEqual({
       page: 'character',
       id: '001',
@@ -30,6 +35,7 @@ describe('hash routing', () => {
   it('only exposes assets that exist and falls back to the turnaround', () => {
     expect(availableViews(testCharacters[0])).toEqual([
       'card',
+      'head',
       'turnaround',
       'weapon',
     ])

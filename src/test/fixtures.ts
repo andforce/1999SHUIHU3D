@@ -5,6 +5,7 @@ export const testCharacters: CharacterEntry[] = [
     id: '001',
     card: '/images/001.png',
     thumbnail: '/generated/cards/001.webp',
+    head: '/characters/001/head-sheet.png',
     turnaround: '/characters/001/character-turnaround.png',
     weapon: '/characters/001/weapon-sheet.png',
   },
