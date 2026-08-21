@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "source_dir": "/Users/dywang/Desktop/1999年小浣熊水浒",
-  "project_dir": "/Users/dywang/Desktop/1999年小浣熊水浒/character-model-sheets",
-  "updated_at": "2026-08-21T10:48:58.773169+00:00",
+  "source_dir": "/Users/wdy/github/1999SHUIHU3D/images",
+  "project_dir": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets",
+  "updated_at": "2026-08-21T16:04:36.948701+00:00",
   "character_count": 108,
   "characters": [
     {
       "id": "001",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/001.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/001.png",
       "width": 900,
       "height": 1350,
       "sha256": "61ba16c9b0bcc12fd814e256f3348d115dee61c11ed499f9a61fae267a1ec010",
@@ -30,7 +30,7 @@
     {
       "id": "002",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/002.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/002.png",
       "width": 900,
       "height": 1350,
       "sha256": "c24bbb7b8d2124fab230873d29c815f4805b5c38ea049f0731943c2a85bc28d9",
@@ -52,7 +52,7 @@
     {
       "id": "003",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/003.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/003.png",
       "width": 900,
       "height": 1350,
       "sha256": "c4f33717d1ed4d73f45f76e4c6f079d6a6d3b80b6bc99e65a158f7c93d012706",
@@ -74,7 +74,7 @@
     {
       "id": "004",
       "name": "入云龙公孙胜",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/004.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/004.png",
       "width": 900,
       "height": 1350,
       "sha256": "c851442652eeb772a863634975158335a5990539368f5f43811b8c51ee0c4f9c",
@@ -96,7 +96,7 @@
     {
       "id": "005",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/005.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/005.png",
       "width": 900,
       "height": 1350,
       "sha256": "2e535d88ca07e15e2aee856c080e7f416610a02e6dfb0ab6a6147683fbaf9f2d",
@@ -118,7 +118,7 @@
     {
       "id": "006",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/006.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/006.png",
       "width": 900,
       "height": 1350,
       "sha256": "41fec32c96f7f1630efbb4e4138d29d34c53a879f87af558282f01f65af11751",
@@ -140,7 +140,7 @@
     {
       "id": "007",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/007.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/007.png",
       "width": 900,
       "height": 1350,
       "sha256": "82451a654b11a1903d7fb2ec56319343d48493ddff41ff50d039bd265bdcfaac",
@@ -162,10 +162,10 @@
     {
       "id": "008",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/008.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/008.png",
       "width": 900,
       "height": 1350,
-      "sha256": "e9fac91e3b88e6d6dfed34943e702294ac7985634e7a96cede5505ba407cde26",
+      "sha256": "202b121ed785266820001a8ea7a6e68cc8372ab94c83cbbbccb3b3dea532436a",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -184,7 +184,7 @@
     {
       "id": "009",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/009.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/009.png",
       "width": 900,
       "height": 1350,
       "sha256": "e2add5cb7cc9d30e742157860a015863a7498ee7af1f7bfaac427bf7acb4a586",
@@ -206,10 +206,10 @@
     {
       "id": "010",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/010.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/010.png",
       "width": 900,
       "height": 1350,
-      "sha256": "433bb26553554a6f7e163e3db4f5d2f7018aa64ce4eb7d8e98aaef406604405c",
+      "sha256": "f646a7748ca40473ce4633809085a28175b4b512fb21c566b1461cbe12694ce5",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -228,7 +228,7 @@
     {
       "id": "011",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/011.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/011.png",
       "width": 900,
       "height": 1350,
       "sha256": "345e7c842912958b61aeaca27b56162e5d526385abcf7a7f16248e315af10e56",
@@ -250,7 +250,7 @@
     {
       "id": "012",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/012.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/012.png",
       "width": 900,
       "height": 1350,
       "sha256": "9113a34c127fb8dff8b48843fea82ee95a559970683b2981c479749aa98d01cb",
@@ -272,7 +272,7 @@
     {
       "id": "013",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/013.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/013.png",
       "width": 900,
       "height": 1350,
       "sha256": "bccd79187c6681e3b293f0a481442e2b77d68b27053c58bb97563134f3f8e664",
@@ -294,7 +294,7 @@
     {
       "id": "014",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/014.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/014.png",
       "width": 900,
       "height": 1350,
       "sha256": "6c66b1e7f24c15aaea8b2ded281e92e517a545b15db17e8805cac2c79c77dda6",
@@ -316,10 +316,10 @@
     {
       "id": "015",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/015.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/015.png",
       "width": 900,
       "height": 1350,
-      "sha256": "839060933e1a4d9528d278cb5776c6810d2941cf0bdff48bc0411327ea26bd40",
+      "sha256": "950cb45d21e7893851fac4090fc85b657f3376a2d53e0f3360740c8113c98773",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -338,7 +338,7 @@
     {
       "id": "016",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/016.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/016.png",
       "width": 900,
       "height": 1350,
       "sha256": "657e0e54d4c1488abe8496e80b007b6d9a0b33703d785d2e5066d999de75dc92",
@@ -360,7 +360,7 @@
     {
       "id": "017",
       "name": "青面兽杨志",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/017.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/017.png",
       "width": 900,
       "height": 1350,
       "sha256": "c1fb07d9a542a87291aca7267e3d1c8c9dd0c08ee80cbfaacf4fd1764db31284",
@@ -382,7 +382,7 @@
     {
       "id": "018",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/018.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/018.png",
       "width": 900,
       "height": 1350,
       "sha256": "c8ab98ec97ba00379be4cfccf1a7651c5bcb55a751d88afc2c240843d3ca2772",
@@ -404,7 +404,7 @@
     {
       "id": "019",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/019.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/019.png",
       "width": 900,
       "height": 1350,
       "sha256": "d78bc06089b7ca2fee748333465b07fe91a3f414edaf701218ccee6170b0d524",
@@ -426,7 +426,7 @@
     {
       "id": "020",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/020.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/020.png",
       "width": 900,
       "height": 1350,
       "sha256": "4295857d27f51cf690dab9fa9a82d3d20a902ba612d379ebb62a02831cac6881",
@@ -448,7 +448,7 @@
     {
       "id": "021",
       "name": "赤发鬼刘唐",
-      "source": "/Users/dywang/github/小浣熊/zhengfan/900x1350_正反高清+正面无名字/021.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/021.png",
       "width": 900,
       "height": 1350,
       "sha256": "930b258cf08cdb2ee05e48d437d418fdccba505829bac954be2169d02ce2b743",
@@ -470,7 +470,7 @@
     {
       "id": "022",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/022.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/022.png",
       "width": 900,
       "height": 1350,
       "sha256": "e257db20864f2b64118e2e8d4922bebf4dde9fbc87b1b37ec6ac30afdd61f1cc",
@@ -492,7 +492,7 @@
     {
       "id": "023",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/023.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/023.png",
       "width": 900,
       "height": 1350,
       "sha256": "274348595a89dabdb4f891cba6361449401e4cc361a261408b30f99eb7477180",
@@ -514,7 +514,7 @@
     {
       "id": "024",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/024.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/024.png",
       "width": 900,
       "height": 1350,
       "sha256": "9c148512e692e250feaedcf19120a544cd650d0b209a6c6a18344d2f99165580",
@@ -536,7 +536,7 @@
     {
       "id": "025",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/025.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/025.png",
       "width": 900,
       "height": 1350,
       "sha256": "81133aaac7107bc36fecd62d08a913350f994141d65d8a2f472d8f4bfec53b8c",
@@ -558,7 +558,7 @@
     {
       "id": "026",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/026.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/026.png",
       "width": 900,
       "height": 1350,
       "sha256": "8c743fd1006016a9e9d4cf486ebd09cc219320d060f3bb98e98f7b9e6e201730",
@@ -580,7 +580,7 @@
     {
       "id": "027",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/027.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/027.png",
       "width": 900,
       "height": 1350,
       "sha256": "7d551e257cc466c670a696db87fcf4084baf9eb97a8d19b9f13cf55c5e84a0bf",
@@ -602,7 +602,7 @@
     {
       "id": "028",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/028.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/028.png",
       "width": 900,
       "height": 1350,
       "sha256": "c3e71d134540d186b8c5f5c9e9c084cd997710b0a833be66e84f994a4a1f8477",
@@ -624,7 +624,7 @@
     {
       "id": "029",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/029.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/029.png",
       "width": 900,
       "height": 1350,
       "sha256": "f7fb434b9ae6d8d95791d5e5375aba1d987863e448b7a2c0a835e3ee5aefe5ee",
@@ -646,7 +646,7 @@
     {
       "id": "030",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/030.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/030.png",
       "width": 900,
       "height": 1350,
       "sha256": "ee371863487261d6b519e0ef6dc5a32e88f928aa546d1d1c7a1eeb4fda5f751b",
@@ -668,7 +668,7 @@
     {
       "id": "031",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/031.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/031.png",
       "width": 900,
       "height": 1350,
       "sha256": "9d24a960b4a212fbb5dfd58bc58c3ceb814b3c8aa85483ffd0bfb67b441cc520",
@@ -690,7 +690,7 @@
     {
       "id": "032",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/032.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/032.png",
       "width": 900,
       "height": 1350,
       "sha256": "3910e4d81b5b605a78d2a396bf3ecccb7f040a3ae83dbbeb87f3ed07fef0311e",
@@ -712,7 +712,7 @@
     {
       "id": "033",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/033.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/033.png",
       "width": 900,
       "height": 1350,
       "sha256": "067c6e42a550a04ae150c4b817412f92ed1253a16aa1d7ce0b2781e65bc178bb",
@@ -734,7 +734,7 @@
     {
       "id": "034",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/034.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/034.png",
       "width": 900,
       "height": 1350,
       "sha256": "aca2f133d9aea990f1650dbc81fa3b71cca6e0c9f2c8d1c36d50580d87811b0b",
@@ -756,7 +756,7 @@
     {
       "id": "035",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/035.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/035.png",
       "width": 900,
       "height": 1350,
       "sha256": "a6d830a82ad0f411e2638bfe91024dfe101631ae91bd52abde01e927f548fe16",
@@ -778,7 +778,7 @@
     {
       "id": "036",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/036.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/036.png",
       "width": 900,
       "height": 1350,
       "sha256": "8376c436534513ff8cf1ca229022b3df7a4486cee1a1f55f66a356ebc36653f3",
@@ -800,7 +800,7 @@
     {
       "id": "037",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/037.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/037.png",
       "width": 900,
       "height": 1350,
       "sha256": "379d1126ccd6a6f98b2d63d91f7ba028ea56275703e01be9f25534268312fecf",
@@ -822,7 +822,7 @@
     {
       "id": "038",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/038.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/038.png",
       "width": 900,
       "height": 1350,
       "sha256": "fd4d4fa16ce79f7845a63ec686d9afad01602aa5a76b8d3c483e0fb04bdc040d",
@@ -844,7 +844,7 @@
     {
       "id": "039",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/039.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/039.png",
       "width": 900,
       "height": 1350,
       "sha256": "d2662888e0467d0934c4dab157bc065d31334175cd8dad792ab7cc0ee57333a2",
@@ -866,7 +866,7 @@
     {
       "id": "040",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/040.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/040.png",
       "width": 900,
       "height": 1350,
       "sha256": "598435be6016ec73cea5b897e0251a00f2a2a8368bd358de1ecd225082d15af8",
@@ -888,7 +888,7 @@
     {
       "id": "041",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/041.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/041.png",
       "width": 900,
       "height": 1350,
       "sha256": "b074758f921b7e9167427cdd025fcc52317739dd1e13a3a33b7df17c117d808e",
@@ -910,7 +910,7 @@
     {
       "id": "042",
       "name": "",
-      "source": "/Users/dywang/github/小浣熊/1999SHUIHU3D/images/042.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/042.png",
       "width": 900,
       "height": 1350,
       "sha256": "4b9478f29812e6611259f211918ff895f09fe984d3c227d873d5d41d30d6fd7c",
@@ -932,10 +932,10 @@
     {
       "id": "043",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/043.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/043.png",
       "width": 900,
       "height": 1350,
-      "sha256": "5216964670823ff5fb748dfb97ba547265e36df8c95b1c76ce20161160077349",
+      "sha256": "7b5dc76aed0478df19a5d5b992c7b80e25873272269e7cedb27e1668baf2fb12",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -954,7 +954,7 @@
     {
       "id": "044",
       "name": "",
-      "source": "/Users/dywang/github/小浣熊/1999SHUIHU3D/images/044.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/044.png",
       "width": 900,
       "height": 1350,
       "sha256": "31f4d4b2fabfabc7820f81d58bad6819d249bcebfb2c82a8c7f2d79d656add06",
@@ -976,10 +976,10 @@
     {
       "id": "045",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/045.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/045.png",
       "width": 900,
       "height": 1350,
-      "sha256": "969b786378f458ee9e1e2860d1909bfa82b31c4cadffb541fcf43b37e8839f41",
+      "sha256": "c214a3c535f7849babe4d7c199b361474099c298ddaf64bf53041cf2cd7740a6",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -998,10 +998,10 @@
     {
       "id": "046",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/046.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/046.png",
       "width": 900,
       "height": 1350,
-      "sha256": "eddd0f91c5a4b46f7422dd1b27946b4ce7661633ebb614f1afacdcd1a42b7084",
+      "sha256": "ea7fcc5845c28af5a2cd69a8a33c469e08922b9401cf3fc1f7e60457b392afcd",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -1020,7 +1020,7 @@
     {
       "id": "047",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/047.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/047.png",
       "width": 900,
       "height": 1350,
       "sha256": "7298b1f6df74b61a848a06f08b9b11812449ffc6861d63120a8fb0c865c99ac2",
@@ -1042,7 +1042,7 @@
     {
       "id": "048",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/048.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/048.png",
       "width": 900,
       "height": 1350,
       "sha256": "4d41e6207007a92b1b0d01654487a17230edf864d1e79e1ad905c93836675964",
@@ -1064,10 +1064,10 @@
     {
       "id": "049",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/049.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/049.png",
       "width": 900,
       "height": 1350,
-      "sha256": "81dad5eb575f3b8e44c57c4242b578d1ddf295d222bb5a7ff37ed89495efc58b",
+      "sha256": "a3bbb51dcb695661feb323d45705f8fd41824a5852299132acce6f50d4fc806e",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -1086,7 +1086,7 @@
     {
       "id": "050",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/050.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/050.png",
       "width": 900,
       "height": 1350,
       "sha256": "6b1d2385d3771dc973920cbc17b43e4f911ad4fcbd0cec23684e3cc0831f872f",
@@ -1108,10 +1108,10 @@
     {
       "id": "051",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/051.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/051.png",
       "width": 900,
       "height": 1350,
-      "sha256": "a4bc00ddba63a1d94c5d7a410ea8cfa19858234384c462c9a30eee94e0494b5f",
+      "sha256": "91eed8ca516e69bec7ee1c20f92691c16f44b1b06a16500c0330a508e8acbbbe",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -1130,10 +1130,10 @@
     {
       "id": "052",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/052.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/052.png",
       "width": 900,
       "height": 1350,
-      "sha256": "d378533e230519490c28edbb6665c403d7ca616205b1876daef47301bc7e96c7",
+      "sha256": "36cbbb3ac2a24b1fc080eb181ba6bda009764ab2967932c51385f9a48a7287e4",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -1152,10 +1152,10 @@
     {
       "id": "053",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/053.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/053.png",
       "width": 900,
       "height": 1350,
-      "sha256": "84c9da0bdfe2b045e7ac26cdd13824c2dbc1ab5e61f7210c23138730d2877d9e",
+      "sha256": "55ba848f96f721bde39a373c12e1567281c49e8e8b020067f7ec1ea7856d1f15",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -1174,10 +1174,10 @@
     {
       "id": "054",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/054.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/054.png",
       "width": 900,
       "height": 1350,
-      "sha256": "27abc74e4cdd4efc16a0ff2c542653fb53328157a8e4a8571d24fb7eaf547527",
+      "sha256": "36affe801520812a3b8ffb3013538e6e76a52adfb101560394b32b19f0fc4cb0",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -1196,10 +1196,10 @@
     {
       "id": "055",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/055.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/055.png",
       "width": 900,
       "height": 1350,
-      "sha256": "dfeb8d3cab7799308739701a3c3d98966689bb4d1923c819457893c40483fe57",
+      "sha256": "c80b09ec23dd0b5b5af442994b336ef15eb27b1bcabb6f88e7b649569545c4a3",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -1218,10 +1218,10 @@
     {
       "id": "056",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/056.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/056.png",
       "width": 900,
       "height": 1350,
-      "sha256": "c241f99fcce601da57fbf07eced7a640957d7551ec97eff2cabc4efc4171720a",
+      "sha256": "ceb71783a48010684c5cf1af8a01c80c33363e32fd5d720d37048967dfaf55c5",
       "status": "generated",
       "entities": {
         "weapon": "absent",
@@ -1240,10 +1240,10 @@
     {
       "id": "057",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/057.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/057.png",
       "width": 900,
       "height": 1350,
-      "sha256": "be4feecae057759eb0e7b7261c13d1edbb486b7b0a45cc3c6fdc6f665f94dddb",
+      "sha256": "fb5f91eeb61f7bf4d5a745cea98bbc128a373401968919a981632bf655235176",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -1262,7 +1262,7 @@
     {
       "id": "058",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/058.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/058.png",
       "width": 900,
       "height": 1350,
       "sha256": "833b314a0b50a8b7d2430553ce27dae7b9203534245dbea2d472f193c46a9e25",
@@ -1284,7 +1284,7 @@
     {
       "id": "059",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/059.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/059.png",
       "width": 900,
       "height": 1350,
       "sha256": "bc7f1bdaf88c15859621ee63a713ce9964ddc780a581b6a7e86f6213d4ef63a6",
@@ -1306,7 +1306,7 @@
     {
       "id": "060",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/060.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/060.png",
       "width": 900,
       "height": 1350,
       "sha256": "b8480ec84d26822a4f8b11855daf174a484078d4eca453f2bbefb47d50570b86",
@@ -1328,7 +1328,7 @@
     {
       "id": "061",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/061.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/061.png",
       "width": 900,
       "height": 1350,
       "sha256": "30d108d8a0818eb8c1ac4cb26bbedd4f50cdd57da2be5c30641aac8868957822",
@@ -1350,7 +1350,7 @@
     {
       "id": "062",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/062.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/062.png",
       "width": 900,
       "height": 1350,
       "sha256": "440e72cdddc1b27e4918fd4bc36390e4830996b81363c668ff174a44b46795f4",
@@ -1372,7 +1372,7 @@
     {
       "id": "063",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/063.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/063.png",
       "width": 900,
       "height": 1350,
       "sha256": "55fd10fa59ff083683ccc9426d4a8d1ecee0b2352744bb6c90f7d7be70b55455",
@@ -1394,7 +1394,7 @@
     {
       "id": "064",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/064.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/064.png",
       "width": 900,
       "height": 1350,
       "sha256": "46bf05de9875202495188b473dcdd756486e32548814068443bcf57b89351faa",
@@ -1416,10 +1416,10 @@
     {
       "id": "065",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/065.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/065.png",
       "width": 900,
       "height": 1350,
-      "sha256": "e76a5fcfb6bdd62e3f28ff413a57180864467ae3d1dc3e9fc9dcf6ed342ebb6f",
+      "sha256": "803e132594db9bf5155e4bf94bf00a704f1cb6e96d72685910f2d106a39b39e1",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -1438,10 +1438,10 @@
     {
       "id": "066",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/066.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/066.png",
       "width": 900,
       "height": 1350,
-      "sha256": "a646722f1e933e26948037ff72f441013375ddbebc43dc3305712c1de2caed2f",
+      "sha256": "ddbb2afd98181b6c3dde25ce45f591a0ef23578a9b42b02eda4aebe00d6151e9",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -1460,7 +1460,7 @@
     {
       "id": "067",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/067.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/067.png",
       "width": 900,
       "height": 1350,
       "sha256": "23566ac90b5ed710f8cdfd68621af7858dea5e799435170a9c8b68c5a89e6dd1",
@@ -1482,10 +1482,10 @@
     {
       "id": "068",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/068.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/068.png",
       "width": 900,
       "height": 1350,
-      "sha256": "38dfbb099a66fbd1ed0d786861a7ed6f150f5ad1c41faa0b54804cf7832a330f",
+      "sha256": "0ec442f7be310f00c7e065c6f55c5931dcdfc748912c4327ecade2f456d40fce",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -1504,10 +1504,10 @@
     {
       "id": "069",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/069.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/069.png",
       "width": 900,
       "height": 1350,
-      "sha256": "addf7a3a49e8bb38d0c6e8018e0346f524750666be6343e9e99a9d50dad58792",
+      "sha256": "c63283c19d2481cf5dbcf05fc4a49d26cb4729425161cef2366cee7934f1535f",
       "status": "generated",
       "entities": {
         "weapon": "absent",
@@ -1526,10 +1526,10 @@
     {
       "id": "070",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/070.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/070.png",
       "width": 900,
       "height": 1350,
-      "sha256": "efcb9c4729eded6dd2aa8dfdb4a6cecd5e6b498c95b38ce93e85fa8b44dfc817",
+      "sha256": "814aa7f7c251c9443b1fdf1555998b5cdf3daa9c93e146b013270e750046b014",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -1548,7 +1548,7 @@
     {
       "id": "071",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/071.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/071.png",
       "width": 900,
       "height": 1350,
       "sha256": "ccad6b7fc52aa484e96594ff51f0405f43b899b83819a2107c7f53e00c76998c",
@@ -1570,7 +1570,7 @@
     {
       "id": "072",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/072.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/072.png",
       "width": 900,
       "height": 1350,
       "sha256": "575a968644e2fdced2ec915c380e6dd7be24c8ced3affb564ef7cadc78279be8",
@@ -1592,7 +1592,7 @@
     {
       "id": "073",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/073.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/073.png",
       "width": 900,
       "height": 1350,
       "sha256": "1fa41f1107a083b4c13eaf8af859e1323a1ad05d8b4a57c183b013c8c8b1ade6",
@@ -1614,10 +1614,10 @@
     {
       "id": "074",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/074.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/074.png",
       "width": 900,
       "height": 1350,
-      "sha256": "ad975d1d4621167b062186f72389e015375c54d6b4027db69bc6fe281ff1884c",
+      "sha256": "dca58962c2ee1021247328be85a85008c6446ec330f9efe8264c47c3ab92e041",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -1636,7 +1636,7 @@
     {
       "id": "075",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/075.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/075.png",
       "width": 900,
       "height": 1350,
       "sha256": "0fca5d63fdf8bf77149ee3e83c47073fabf995d5c22bc47488d2e32889a3a620",
@@ -1658,7 +1658,7 @@
     {
       "id": "076",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/076.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/076.png",
       "width": 900,
       "height": 1350,
       "sha256": "2a4417f59dad8fd1e59476fa1244e38fbdcd845d004d9a2eb6153628df20eee3",
@@ -1680,10 +1680,10 @@
     {
       "id": "077",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/077.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/077.png",
       "width": 900,
       "height": 1350,
-      "sha256": "c3fa612fdbecf1270c116240b1e15402ef7f439dbe5b0e3132bf0871613c978d",
+      "sha256": "8e823e0ef3870cc77ea5c209511f2d90a4332c7c7996df89693996b96fdde184",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -1702,10 +1702,10 @@
     {
       "id": "078",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/078.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/078.png",
       "width": 900,
       "height": 1350,
-      "sha256": "a64712d210c9b5be17726d395d92920d3b7c284daa40a6e8005e36f8f674dec1",
+      "sha256": "62eaf3d7e09abaed44bcb4985676ba84138539441a8133a0a62de8b193a36a2f",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -1724,7 +1724,7 @@
     {
       "id": "079",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/079.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/079.png",
       "width": 900,
       "height": 1350,
       "sha256": "6ecc6d1f8ce10c9384ba1044d71cb9b2dd1cfafd9620c7ebb52bef69006aaf4e",
@@ -1746,7 +1746,7 @@
     {
       "id": "080",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/080.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/080.png",
       "width": 900,
       "height": 1350,
       "sha256": "0a90dcd301215adfe8370a7f4bbc3a8625a0d0c1d5e5541c5bdd1587b21d559c",
@@ -1768,7 +1768,7 @@
     {
       "id": "081",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/081.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/081.png",
       "width": 900,
       "height": 1350,
       "sha256": "cb3df3ce83787b858de8522b6da8e3021f6b4cbcf0bac3ac636cdb7cd9aebcc8",
@@ -1790,10 +1790,10 @@
     {
       "id": "082",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/082.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/082.png",
       "width": 900,
       "height": 1350,
-      "sha256": "13a986ee2bbbb7de76e514247c7f348dc360c6de7a8b6b0402f27171246bbcff",
+      "sha256": "4600b5b1212095ba07b1764b5d2083517f83db9fe8518c21e75db8ddeb2bde02",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -1812,10 +1812,10 @@
     {
       "id": "083",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/083.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/083.png",
       "width": 900,
       "height": 1350,
-      "sha256": "8a4d1540712526ac1bb446971ed4015b75c980bda39c488352943106b7c88fc9",
+      "sha256": "bdee383720f9df1e25473e604b0e5a2c904bd918774011fe993eb74e797e1df6",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -1834,10 +1834,10 @@
     {
       "id": "084",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/084.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/084.png",
       "width": 900,
       "height": 1350,
-      "sha256": "862432d5018b4dfc7865559d6df30cc59f4e2f4bdc1ffc4edc81fdf9008ab9e9",
+      "sha256": "f18cb720c10bd8b2bccfd3a7757cd8e9be90559c5078669f47d332df55fffef6",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -1856,7 +1856,7 @@
     {
       "id": "085",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/085.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/085.png",
       "width": 900,
       "height": 1350,
       "sha256": "22450cc1133858fcb5b79cbe8c73150e3e4d82ec743778fc5850ff4a0f774553",
@@ -1878,10 +1878,10 @@
     {
       "id": "086",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/086.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/086.png",
       "width": 900,
       "height": 1350,
-      "sha256": "44b9ea9a29f269bcdbe4baa852f39e549b03af3800565a07ea67df49135254c3",
+      "sha256": "347049b64bd79f2b1f2f4989bcf13d47470c64260e432aba08a1da17496ca93c",
       "status": "generated",
       "entities": {
         "weapon": "absent",
@@ -1900,10 +1900,10 @@
     {
       "id": "087",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/087.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/087.png",
       "width": 900,
       "height": 1350,
-      "sha256": "dc3c948cee40c5822c3601c01f5d2ceed9460930a519be5e4847641add754649",
+      "sha256": "3baca7cad82e3bd6a774d638d66f6a638a771ff608ccfa7e442933ce7c75905d",
       "status": "generated",
       "entities": {
         "weapon": "absent",
@@ -1922,10 +1922,10 @@
     {
       "id": "088",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/088.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/088.png",
       "width": 900,
       "height": 1350,
-      "sha256": "1cb2ed081a969e5bd683f8d5a9c2bff7066b3662f0d4af6955a1480febebe123",
+      "sha256": "4be15178ab7b103e5d18b48c771fe60d2650c9769e350fe88a0951a1f9a21ffe",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -1944,10 +1944,10 @@
     {
       "id": "089",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/089.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/089.png",
       "width": 900,
       "height": 1350,
-      "sha256": "4be15178ab7b103e5d18b48c771fe60d2650c9769e350fe88a0951a1f9a21ffe",
+      "sha256": "5bf4a76779598d1a5f2262ab2e50852e17611e424881472a6bb228f14686d456",
       "status": "generated",
       "entities": {
         "weapon": "absent",
@@ -1966,10 +1966,10 @@
     {
       "id": "090",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/090.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/090.png",
       "width": 900,
       "height": 1350,
-      "sha256": "3ffceb990d06bdf7347d512c294afe88cfd5c41316e80869d5a354551d59e924",
+      "sha256": "ad1258e47aa41e620b30eeb6e5708ceb921e274d76af5f7b24ad668c7cd828d9",
       "status": "generated",
       "entities": {
         "weapon": "absent",
@@ -1988,10 +1988,10 @@
     {
       "id": "091",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/091.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/091.png",
       "width": 900,
       "height": 1350,
-      "sha256": "ad1258e47aa41e620b30eeb6e5708ceb921e274d76af5f7b24ad668c7cd828d9",
+      "sha256": "442a3faedd549abce901f1acbecd9e93a39e493381882f462806dbe8b92b9994",
       "status": "generated",
       "entities": {
         "weapon": "absent",
@@ -2010,7 +2010,7 @@
     {
       "id": "092",
       "name": "",
-      "source": "/Users/dywang/github/小浣熊/1999SHUIHU3D/images/092.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/092.png",
       "width": 900,
       "height": 1350,
       "sha256": "388bc5d7aa3135852b7be0ee84e4cdda39518c6431f9df56ed2d1f06b6990565",
@@ -2032,7 +2032,7 @@
     {
       "id": "093",
       "name": "",
-      "source": "/Users/dywang/github/小浣熊/1999SHUIHU3D/images/093.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/093.png",
       "width": 900,
       "height": 1350,
       "sha256": "693a3100b207b7d067052faaf26369d9361f604c6b0502bf17ca346de9383d16",
@@ -2054,10 +2054,10 @@
     {
       "id": "094",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/094.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/094.png",
       "width": 900,
       "height": 1350,
-      "sha256": "616aa635756cf066bacfaaed394bc98eec2ae1d576b66939fa18b2ee4f26a74b",
+      "sha256": "19c744a20470fa38a5910e8372a9b708c42ff84db9c2b469cb64ac611e9b91b2",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -2076,7 +2076,7 @@
     {
       "id": "095",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/095.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/095.png",
       "width": 900,
       "height": 1350,
       "sha256": "a9ca95e6c3ddd2881d713bec8d5e39a9261aa62135e5816829b1e9098dbb568f",
@@ -2098,10 +2098,10 @@
     {
       "id": "096",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/096.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/096.png",
       "width": 900,
       "height": 1350,
-      "sha256": "807f7f54fe07efc1c32fba3999595d5f3772b77f7a2440f0e846df0808380ee0",
+      "sha256": "7bf6419f37913bb7b66499698070597c4926e03c1d2ca49c3913a5bff5081252",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -2120,10 +2120,10 @@
     {
       "id": "097",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/097.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/097.png",
       "width": 900,
       "height": 1350,
-      "sha256": "a528f6a2aa606547a3b7da3d5d1a95acb33109c2227726cf65832664713c9200",
+      "sha256": "0e1ddb241bf99c253cab3b07e69a3e33841e24c66ca93bf3eb4ed7b809d65cf7",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -2142,10 +2142,10 @@
     {
       "id": "098",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/098.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/098.png",
       "width": 900,
       "height": 1350,
-      "sha256": "b42e6c25387dfd110ea7b4558d8cc45cd6fd3cad6839e2d75d175b0f57121d5a",
+      "sha256": "bee72267b2032ab29c91748230be280b6b2cacc64dd54a287e0b8a2963fb5eda",
       "status": "generated",
       "entities": {
         "weapon": "absent",
@@ -2164,10 +2164,10 @@
     {
       "id": "099",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/099.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/099.png",
       "width": 900,
       "height": 1350,
-      "sha256": "a051ebf4c2f0073724ca2dd647b24be82f56d0088e75b24e01baaa1a8f2bc87c",
+      "sha256": "36d23941aac67f73dc14d438f989b3e1725c54fd31d33f6db84183ce28a260ce",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -2186,10 +2186,10 @@
     {
       "id": "100",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/100.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/100.png",
       "width": 900,
       "height": 1350,
-      "sha256": "6c2e165f76bb0ec5fd0bcdc6de1c35f0a55bb2ec96a09102185e6811b2cbab9f",
+      "sha256": "d3ca5037997ce99efb5615db38c13c5e06139854b97869ca98ac72bd780a2150",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -2208,10 +2208,10 @@
     {
       "id": "101",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/101.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/101.png",
       "width": 900,
       "height": 1350,
-      "sha256": "74ad5fe5fe6063d447275c7f354ba4d24bd8a56de09b3ab0c37a878d6478d204",
+      "sha256": "b06fdfa609b2226806cb49327c4ba15fafcfe46cf31ce4c76b86d5e24142c129",
       "status": "generated",
       "entities": {
         "weapon": "absent",
@@ -2230,10 +2230,10 @@
     {
       "id": "102",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/102.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/102.png",
       "width": 900,
       "height": 1350,
-      "sha256": "f85b0560911966d85616e4e76c06579664c727fa8bb3062ebacd4917b1f0020f",
+      "sha256": "1c5e4b839c68fb8a05b47c323ca0f663b6ad7e358a3c61c138966cc2738d2bb4",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -2252,7 +2252,7 @@
     {
       "id": "103",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/103.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/103.png",
       "width": 900,
       "height": 1350,
       "sha256": "709d18c1a541b0901f7de02bd6ee218ce7fdcd7200aae9007967d6b110691e4e",
@@ -2274,10 +2274,10 @@
     {
       "id": "104",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/104.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/104.png",
       "width": 900,
       "height": 1350,
-      "sha256": "c2efda253f0c6a943ba45f2958ad8e42d088a7a05b7169855800edeb45056cc2",
+      "sha256": "4692840bb3a8b6948c1e0611605ffb1f844af6130090a9558bbd05123017bdfa",
       "status": "generated",
       "entities": {
         "weapon": "present",
@@ -2296,7 +2296,7 @@
     {
       "id": "105",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/105.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/105.png",
       "width": 900,
       "height": 1350,
       "sha256": "ee3f0699fbaf7540475889d4d5d5f8e70ec6f0d7f5155b3113adfc053ca3ab47",
@@ -2318,10 +2318,10 @@
     {
       "id": "106",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/106.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/106.png",
       "width": 900,
       "height": 1350,
-      "sha256": "22f21c2dce814125a9da2211b71d939b5dbf57bdf0c3ee46deb488f8950990d2",
+      "sha256": "12653207fe701f9baad277e40dcf628af907406a682bd87b500c7876a4bc275a",
       "status": "generated",
       "entities": {
         "weapon": "absent",
@@ -2340,10 +2340,10 @@
     {
       "id": "107",
       "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/107.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/107.png",
       "width": 900,
       "height": 1350,
-      "sha256": "0d5ff1cfbcbca74f1865a91668e616c6af45893d3cdfd8da3d4c894efa752f9a",
+      "sha256": "8828c887a36ff041b1f76c77581c956c067d269f8724399eee9a8aec318032ee",
       "status": "generated",
       "entities": {
         "weapon": "absent",
@@ -2362,7 +2362,7 @@
     {
       "id": "108",
       "name": "",
-      "source": "/Users/dywang/github/小浣熊/1999SHUIHU3D/images/108.png",
+      "source": "/Users/wdy/github/1999SHUIHU3D/images/108.png",
       "width": 900,
       "height": 1350,
       "sha256": "b2c097c85a6305e96ef86bc7c564e120bcb15ec242a9be3f8fe2e44d80b0c84e",

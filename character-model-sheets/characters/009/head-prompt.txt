@@ -1,0 +1,29 @@
+Use case: identity-preserve
+Asset type: professional game/animation four-view head model sheet for 009 角色 009
+Input images:
+- Image 1 is the original collectible-card illustration and the primary authority for this character's visible identity, age, facial structure, hair, facial hair, headwear, colors, and confirmed details.
+- Image 2 is the current six-view character turnaround. Use it to preserve the already-established three-dimensional head, hair/headwear, neck, collar, and costume continuity; where it conflicts with clearly visible Image 1 evidence, Image 1 wins.
+- Image 3 is the existing project head-sheet style/layout anchor only. Copy only its four-column spacing, warm neutral background, ink weight, hand-painted color treatment, texture density, lighting, and finish. Never copy its face, crown, hair, beard, costume, ornaments, body type, or colors.
+
+Primary request: Create one clean landscape head model sheet of the exact same character, with exactly four equal-scale head-and-shoulder close-ups ordered left to right: pure front, pure back, pure character-left profile, pure character-right profile.
+
+Identity lock: 男性；成年；face 长脸、锐利侧目；hair/headwear 银白长发束起并覆白色毛领；facial hair 无清晰胡须.
+Must preserve: 脸型 长脸、锐利侧目；发型与头戴 银白长发束起并覆白色毛领；胡须 无清晰胡须；不得添加原图与现有六视图中不存在的头部非对称结构。.
+Confirmed visual evidence: 身份与外形：长脸、锐利侧目；银白长发束起并覆白色毛领；无清晰胡须；高挑健壮；坐骑：白色战马，金色额饰、红色缰绳与银金马具.
+Restrained structural inference for unseen rear details: 武器或标志装备的反面、薄侧面与被裁切末端采用无额外装饰的结构性补全.
+Unknown details that must remain simple, conservative, and easy to revise: 原图未展示的后脑、发型内层、头戴背面连接与远侧细节仍为未知，保持简单易改。.
+Asymmetric three-dimensional anchors: 没有已确认的单侧头部锚点；不得自行添加单侧头饰、伤痕或配件。. Lock every such feature to the same anatomical side and exact attachment point across all four views. Apply truthful far-side occlusion; never mirror, duplicate, swap sides, or move a feature toward the camera for visibility.
+
+Four-view geometry and consistency requirements:
+1. Pure front: neutral expression, head level, both ears and bilateral structures aligned without changing the original character's natural asymmetry.
+2. Pure back: no face visible; show the complete rear skull, rear hair/headwear construction, attachment points, nape, collar, and shoulder connection. Any unseen original detail follows only the restrained inference above and must not invent emblems or decoration.
+3. Pure character-left profile: exact 90-degree anatomical left side, one eye contour and one near ear when anatomically visible.
+4. Pure character-right profile: exact 90-degree anatomical right side, a genuinely different anatomical side from column 3, never a duplicate or horizontal flip.
+
+All four views must depict one identical person with the same skull volume, face length and width, brow, eye size and placement, nose length and projection, mouth, jaw, chin, ears, hairline, hair mass, facial-hair roots, headwear dimensions, neck thickness, collar layers, neutral expression, lighting, crop, and shoulder scale. Hair, beard, cloth tails, helmet parts, pins, ornaments, masks, scars, tattoos, earrings, and other head features keep the same count, shape, color, material, root, and three-dimensional connection. If Image 1 has the face covered, keep it covered in all valid views and do not invent or reveal a hidden face.
+
+画风固定为1999–2000年中国水浒英雄收藏卡式二维手绘商业插画。使用深黑或深褐色、粗细有变化且略带手绘起伏的墨线：外轮廓醒目，内部结构线清楚。保留原卡高饱和但非荧光的综合色彩和鲜明冷暖对比，以清晰基色色块塑造造型，每种主要材质使用约2至4档可辨认的结构阴影与高光；硬边色块为主，局部结合马克笔、水彩/水粉、喷笔式柔和过渡、短排线和干笔纹理。人物保持成年英雄漫画感、棱角明确的五官和扎实人体结构；皮肤、布料、金属、皮革、木材和毛发都以简洁的方向性手绘笔触区分。整体必须保持清楚二维轮廓、纸本手绘质感和复古商业卡画气质，但画面本身干净高清，不模拟旧印刷损伤。所有视角使用完全一致的描线、综合色阶、纹理密度和统一光源。
+
+不要纯赛璐璐动画上色，不要只有单层硬阴影的扁平动漫图；不要无描线半厚涂、油画厚涂或现代手游宣传画；不要照片写实、电影概念艺术、3D、CGI、PBR、ZBrush雕塑感、塑料或树脂手办质感、平滑全局光照、景深和镜头炫光；不要现代萌系、幼态脸、统一网红脸、矢量图、等粗线、波普网点。不要纸张泛黄、扫描噪点、印刷网点、折痕、套色偏移、卡框、文字、标题或水印。
+
+Composition and hard constraints: wide landscape sheet; exactly four large evenly spaced head-and-shoulder studies and nothing else; warm off-white or very light neutral-gray background; even working light; clean readable silhouettes; no title, labels, numbering, letters, arrows, border, watermark, scenery, weapons, hands, extra heads, duplicate views, expression sheet, three-quarter views, front-facing back view, mirrored profiles, cropping of headwear or hair, or unsupported decoration.

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "id": "021",
   "name": "赤发鬼刘唐",
-  "source": "/Users/dywang/github/小浣熊/zhengfan/900x1350_正反高清+正面无名字/021.png",
+  "source": "/Users/wdy/github/1999SHUIHU3D/images/021.png",
   "status": "generated",
   "evidence": {
     "confirmed": [
@@ -101,8 +101,16 @@
         "原图只确认一侧刀刃与部分长柄；另一端、反面和薄侧采用最克制补全，不添加第二刀刃、火焰纹或无依据装饰。"
       ]
     },
-    "mount": {"presence": "absent", "items": [], "notes": []},
-    "pet": {"presence": "absent", "items": [], "notes": []}
+    "mount": {
+      "presence": "absent",
+      "items": [],
+      "notes": []
+    },
+    "pet": {
+      "presence": "absent",
+      "items": [],
+      "notes": []
+    }
   },
   "generation": {
     "style_profile": {
@@ -121,7 +129,12 @@
       "right-profile",
       "right-profile-clockwise-45-degree"
     ],
-    "head_views": ["front", "back", "left-profile", "right-profile"],
+    "head_views": [
+      "front",
+      "back",
+      "left-profile",
+      "right-profile"
+    ],
     "pose": "neutral model-sheet pose with arms slightly separated",
     "background": "plain warm off-white or very light neutral gray",
     "notes": [

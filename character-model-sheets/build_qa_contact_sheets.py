@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import argparse
 import math
 from pathlib import Path
 
@@ -69,11 +70,26 @@ def build_group(asset_name: str, prefix: str, *, per_sheet: int = 18) -> list[Pa
     return created
 
 
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--only",
+        choices=("all", "heads"),
+        default="all",
+        help="Build the existing full QA set or only the standalone head-sheet set.",
+    )
+    return parser.parse_args()
+
+
 def main() -> None:
+    args = parse_args()
     outputs: list[Path] = []
-    outputs.extend(build_group("character-turnaround.png", "characters"))
-    outputs.extend(build_group("weapon-sheet.png", "weapons"))
-    outputs.extend(build_group("mount-sheet.png", "mounts"))
+    if args.only == "heads":
+        outputs.extend(build_group("head-sheet.png", "heads"))
+    else:
+        outputs.extend(build_group("character-turnaround.png", "characters"))
+        outputs.extend(build_group("weapon-sheet.png", "weapons"))
+        outputs.extend(build_group("mount-sheet.png", "mounts"))
     for path in outputs:
         print(path.relative_to(ROOT))
 
