@@ -1,0 +1,9 @@
+Use case: stylized-concept, neutral theatrical prop documentation.
+Asset type: professional game/animation standalone inert costume-prop model sheet.
+Input image: character-turnaround.png is used solely for palette, illustration style, and scale.
+
+Create one landscape 3:2 production sheet for a harmless, non-functional articulated stage prop made from lightweight painted foam/resin. It consists of exactly THREE equal straight cylindrical red sections. A short silver-gray decorative chain joins section 1 to section 2, and a second short silver-gray decorative chain joins section 2 to section 3. Each red cylinder has consistent diameter, smooth blunt silver-gray end caps, and a simple loop fitting. It has no sharp point, blade, projectile, firing mechanism, hazardous function, or realistic combat use.
+
+Show without text labels: one large complete extended arrangement with all three cylinders and both chains; one complete reverse arrangement; one true thin side/profile arrangement; a close-up of rounded end caps and decorative chain-loop fittings; one compact folded/carry arrangement; and one small calm standing scale figure with the inert prop hanging safely at the belt. No hands, swinging, aiming, target, threat, injury, conflict, or action scene.
+
+Use clean technical spacing, plain warm light-gray background, even light, bold black ink contours, and late-1990s Chinese collectible-card cel/watercolor rendering. All parts must be complete and uncropped. Every complete arrangement has exactly three red cylinders and two short chains with identical proportions and connector logic. No writing, labels, arrows, measurements, watermark, scenery, extra or missing parts, four sections, sharp edges, action effects, photorealism, or 3D rendering.

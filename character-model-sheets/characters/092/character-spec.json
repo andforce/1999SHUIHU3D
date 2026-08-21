@@ -2,45 +2,48 @@
   "schema_version": 1,
   "id": "092",
   "name": "",
-  "source": "/Users/dywang/Desktop/1999年小浣熊水浒/092.png",
+  "source": "/Users/dywang/github/小浣熊/1999SHUIHU3D/images/092.png",
   "status": "generated",
   "evidence": {
     "confirmed": [
-      "身份与外形：长脸、眉目自信；黑发藏于绿色头巾与帽尾；无清晰胡须；高挑结实。",
-      "服装：绿色短袍与头巾、白色披肩和宽裤、黑色护腿。",
-      "主配色：绿、白、黑、红。",
-      "武器或标志装备：红黑小型弩／折叠弓弩与腰挂短刀。"
+      "身份与外形：圆润宽脸、细长上挑眉、眯眼笑容；蓝色头巾包住头发；下颌中央有一撮细长黑色山羊胡；矮胖圆润。",
+      "服装：亮蓝色宽袖长袍、白色交领、白色宽大内袖袖口、蓝色腰带、白袜与黑色布鞋红色滚边。",
+      "主配色：亮蓝、深蓝、白、黑、暗红。",
+      "背景中可见多个酒坛，但它们不是人物穿戴、武器或必须拆分的角色实体。"
     ],
     "inferred": [
       "人物背部服装按正侧面同材质、同层级连续闭合，不新增徽章、纹样或第二套配件。",
       "被动作遮挡的左右肢体、鞋履和服装侧缝采用最克制、近似对称且易修改的补全。",
-      "武器或标志装备的反面、薄侧面与被裁切末端采用无额外装饰的结构性补全。"
+      "头巾背结、长袍后中缝和腰带背部闭合采用简洁织物结构补全。"
     ],
     "unknown": [
-      "弩机内部结构、短刀刃形与背部收纳不可见",
+      "双手被宽袖遮挡处的内袖长度、长袍内层与腰带具体打结方式不可见。",
       "原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知。"
     ]
   },
   "character": {
     "identity": {
       "gender_presentation": "男性",
-      "apparent_age": "青年",
-      "face": "长脸、眉目自信",
-      "hair": "黑发藏于绿色头巾与帽尾",
-      "facial_hair": "无清晰胡须",
-      "body_type": "高挑结实",
+      "apparent_age": "中年",
+      "face": "圆润宽脸、细长上挑眉、眯眼笑容",
+      "hair": "头发被蓝色头巾完整包住",
+      "facial_hair": "下颌中央一撮细长黑色山羊胡",
+      "body_type": "矮胖圆润",
       "body_proportions": "保持原图人物独有的高矮、胖瘦和头身比例，不为批量整齐而统一体型"
     },
     "costume_layers": [
-      "绿色短袍与头巾",
-      "白色披肩和宽裤",
-      "黑色护腿"
+      "蓝色头巾",
+      "亮蓝色宽袖交领长袍",
+      "白色交领和白色宽大内袖袖口",
+      "蓝色腰带",
+      "白袜与黑色布鞋红色滚边"
     ],
     "palette": [
-      "绿",
+      "亮蓝",
+      "深蓝",
       "白",
       "黑",
-      "红"
+      "暗红"
     ],
     "materials": [
       "织物按原图褶皱与厚薄表现",
@@ -50,27 +53,58 @@
       "只保留原图清楚可见的纹样、甲片分格和装饰位置，不生成文字或新徽记"
     ],
     "left_right_asymmetry": [
-      "弩、短刀鞘和披肩侧位保持一致"
+      "头巾折叠尾固定在角色自身左后侧；白色交领保持原图的固定交叠方向"
     ],
     "must_preserve": [
-      "长脸、眉目自信",
-      "黑发藏于绿色头巾与帽尾",
-      "高挑结实",
-      "绿色短袍与头巾、白色披肩和宽裤、黑色护腿",
-      "绿、白、黑、红",
-      "红黑小型弩／折叠弓弩与腰挂短刀"
+      "圆润宽脸、细长上挑眉、眯眼笑容",
+      "蓝色头巾与角色自身左后侧的折叠尾",
+      "下颌中央细长黑色山羊胡",
+      "矮胖圆润",
+      "亮蓝色宽袖长袍、白色交领与白色宽大内袖袖口、蓝色腰带",
+      "白袜与黑色布鞋红色滚边",
+      "亮蓝、深蓝、白、黑、暗红"
     ],
-    "asymmetric_anchors": []
+    "asymmetric_anchors": [
+      {
+        "feature": "蓝色头巾折叠尾",
+        "anatomical_side": "character-left",
+        "attachment_point": "left-rear-crown",
+        "local_orientation": "folded upward and backward close to the head",
+        "never_mirror": true,
+        "never_reposition_for_visibility": true,
+        "visibility_by_view": {
+          "left-profile-counterclockwise-45-degree": "近侧，大部分可见",
+          "left-profile": "近侧，完整或大部分可见",
+          "front": "出现在画面右侧的头后方",
+          "back": "出现在画面左侧的头巾后部",
+          "right-profile": "远侧，被头部遮挡，仅露出真实可见部分",
+          "right-profile-clockwise-45-degree": "远侧，按真实投影部分遮挡"
+        }
+      },
+      {
+        "feature": "白色交领固定交叠边",
+        "anatomical_side": "centerline",
+        "attachment_point": "collar crossing from character-right neck toward character-left torso",
+        "local_orientation": "diagonal downward across the chest without reversing",
+        "never_mirror": true,
+        "never_reposition_for_visibility": true,
+        "visibility_by_view": {
+          "left-profile-counterclockwise-45-degree": "按原固定交叠方向透视显示",
+          "left-profile": "只显示左侧面真实可见的交领厚度",
+          "front": "从角色自身右颈斜向角色自身左侧躯干",
+          "back": "仅见后领，不在背部新增交叉",
+          "right-profile": "只显示右侧面真实可见的交领厚度",
+          "right-profile-clockwise-45-degree": "按原固定交叠方向透视显示"
+        }
+      }
+    ]
   },
   "entities": {
     "weapon": {
-      "presence": "present",
-      "items": [
-        "红黑小型弩／折叠弓弩与腰挂短刀"
-      ],
+      "presence": "absent",
+      "items": [],
       "notes": [
-        "按可独立建模、拿取或动画化的武器或标志装备拆分独立设定表。",
-        "只保留原图可见轮廓、配色、材质、握持或连接关系；不可见反面作最简补全。"
+        "原图未见需要独立拆分的武器或标志装备；背景酒坛不作为人物武器或标志装备。"
       ]
     },
     "mount": {
@@ -112,7 +146,9 @@
     "notes": [
       "2026-08-19 已迁移为新版六视图并进入全量重新生成。",
       "旧版人物与实体图片已保留为递增版本备份。",
-      "2026-08-20 已完成新版人物、独立实体与全量 QA 联系表复核；保持 generated，等待用户批准。"
+      "2026-08-20 已完成旧映射下的新版人物与全量 QA 联系表复核。",
+      "2026-08-21 按当前 images/092.png 重新核对来源；该图为蓝衣矮胖男性，旧 092/093 映射不再沿用。",
+      "2026-08-21 已重新生成人物六视图并完成 QA；山羊胡、宽袖内袖、交领方向与左后侧头巾尾保持一致；等待用户批准。"
     ]
   }
 }
