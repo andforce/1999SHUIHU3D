@@ -1,0 +1,19 @@
+Use case: precise-object-edit
+Asset type: character 001 professional head model sheet correction
+
+Input images:
+- Image 1 is the current four-view head sheet and the edit target.
+- Image 2 is the user-supplied enlarged crop of the original artwork and the primary authority for the number, spacing, spread, and terminal shapes of the gold hairpin-like crown ornaments.
+- Image 3 is the complete original artwork and the primary authority for identity, crown design, color, and illustration style.
+
+Edit Image 1 only in the gold hairpin-like ornaments projecting from the rear sides of the black crown. Correct the structure to eight matched bilateral pairs: exactly 8 slender gold pins attach to the character's anatomical left-rear crown and exactly 8 attach symmetrically to the anatomical right-rear crown, 16 pins total. The two fans must have matching attachment height, radial spacing, lengths, elevation angles, and overall spread.
+
+Replace every round bead or spherical ball at the outer end of a pin. Each pin must instead end in the small flattened angular, forked, leaf-like or calligraphic ornamental finial visible in Image 2. Follow the original silhouettes closely: thin irregular decorative metal tips, never circles, balls, pearls, dots, or lollipops. Matched left-right pins use matched terminal shapes.
+
+Apply the same three-dimensional symmetric construction consistently across all four existing views without changing their order:
+1. Front view: show both 8-pin fans, one on each side of the head, as a clearly bilateral symmetric pair.
+2. Rear view: show both 8-pin fans symmetrically from their restrained left-rear and right-rear crown attachments.
+3. Character-left profile: show the near-side left fan of 8 clearly; the far-side right fan follows truthful overlap and occlusion behind the crown.
+4. Character-right profile: show the near-side right fan of 8 clearly; the far-side left fan follows truthful overlap and occlusion behind the crown.
+
+Hard invariants: change only these gold pin fans and their minimal attachment points. Keep the face, skull, moustache, beard, expression, hair, black crown body, crown peaks, centered gold emblem, collars, armor, red robe, shoulders, four-view order, view angles, crop, scale, spacing, background, lighting, linework, colors, and all other pixels visually unchanged. Keep exactly four studies. No text, labels, border, watermark, extra ornament, extra heads, round pin tips, missing pins, or one-sided fan.

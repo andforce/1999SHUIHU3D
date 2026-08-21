@@ -1,0 +1,22 @@
+Use case: precise-object-edit
+Asset type: character 001 six-view full-body turnaround crown-ornament correction
+
+Input images:
+- Image 1 is the current six-view full-body turnaround and the edit target.
+- Image 2 is the corrected four-view head sheet and the authoritative structural reference for the bilateral 8-pair gold hairpin-like crown ornaments and their non-spherical finials.
+- Image 3 is the user-supplied enlarged original-art crop and the primary evidence for the visible pin count, fan spacing, spread, and flattened irregular terminal silhouettes.
+- Image 4 is the complete original artwork and the authority for character identity, crown style, colors, and illustration style.
+
+Edit Image 1 only in the gold hairpin-like ornaments attached to the rear sides of the black crown on each of the six existing figures. Every figure represents the same physical crown: exactly 8 slender gold pins attach to the character's anatomical left-rear crown and exactly 8 attach symmetrically to the anatomical right-rear crown, 16 pins total, forming eight matched bilateral pairs. Preserve matching attachment height, radial spacing, corresponding lengths, elevation angles, and fan spread across views.
+
+All outer pin ends must match Images 2 and 3: small flattened angular, forked, leaf-like or calligraphic ornamental finials. Remove every circular bead, ball, pearl, dot, or lollipop-shaped terminal. Matched left-right pins use matched terminal shapes. Keep the ornament scale proportional to the existing full-body heads; do not enlarge the head or crown.
+
+Apply the same three-dimensional symmetric crown consistently to the six existing views in their current left-to-right order:
+1. Based on the left profile rotated counterclockwise 45 degrees: the character-left fan is near-side and clearly visible; the character-right fan is far-side and partly occluded by the crown/head according to the real projection.
+2. Character's pure left profile: show the near-side character-left fan of exactly 8 pins clearly; the far-side character-right fan truthfully overlaps or is hidden behind the crown.
+3. Exact front view: show both fans as a bilateral symmetric pair, exactly 8 pins on the image-left side and exactly 8 pins on the image-right side.
+4. Exact back view: show both fans as a bilateral symmetric pair, exactly 8 pins on each side, from restrained symmetric rear-crown attachments.
+5. Character's pure right profile: show the near-side character-right fan of exactly 8 pins clearly; the far-side character-left fan truthfully overlaps or is hidden behind the crown.
+6. Based on the right profile rotated clockwise 45 degrees: the character-right fan is near-side and clearly visible; the character-left fan is far-side and partly occluded by the crown/head according to the real projection.
+
+Hard invariants: change only the gold pin fans and their minimal attachment points on the six crowns. Keep all six faces, skulls, hair, facial hair, expressions, black crown bodies, crown peaks, centered gold emblems, body proportions, poses, hands, armor, robe, belts, shoes, view angles, view order, relative scale, spacing, baselines, shadows, background, lighting, palette, and linework visually unchanged. Do not alter or mirror any body. Keep exactly six full-body figures, fully visible. No text, labels, borders, watermark, extra figures, extra limbs, missing pins, one-sided crowns, or round pin tips.

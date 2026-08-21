@@ -1,0 +1,10 @@
+Use case: precise-object-edit
+Asset type: character 001 head model sheet single-view correction
+
+Image 1 is the edit target. Image 2 is the enlarged original-art crop and the authority for the gold pin design.
+
+Edit only the fourth, far-right study: the character's anatomical right profile. Add the missing near-side fan of exactly 8 slender gold hairpin-like crown ornaments, attached to the character's anatomical right-rear crown. Because this profile faces toward the image's right, the rear crown is on the image's left; the 8-pin fan must project backward toward the image's left from the right-rear crown attachment, behind the head rather than across the face.
+
+Match the already-correct near-side fan in the third study for pin lengths, radial spacing, elevation angles, gold line weight, and overall spread, but construct it on the character's anatomical right side. Every pin ends in a small flattened angular, forked, leaf-like or calligraphic finial matching Image 2 and the other corrected studies. No circular beads, balls, pearls, dots, or lollipop ends. The far-side left fan may be naturally hidden or overlap behind the crown according to the pure profile projection.
+
+Hard invariants: keep the first three studies pixel-level unchanged. In the fourth study keep the face, skull, hair, moustache, beard, expression, black crown body, peaks, gold emblem and bands, ear, collars, robe, shoulders, profile angle, position, crop, scale, background, lighting, colors, and linework visually unchanged. Change only the missing 8-pin fan and its minimal right-rear-crown attachment. Keep exactly four studies; no text, labels, border, watermark, extra heads, extra pins, or round pin tips.
