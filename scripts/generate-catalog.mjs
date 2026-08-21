@@ -37,7 +37,7 @@ async function collectCatalog() {
       'characters',
       id,
     )
-    const card = `${id}.png`
+    const card = `images/${id}.png`
     const turnaround = `character-model-sheets/characters/${id}/character-turnaround.png`
     const weapon = `character-model-sheets/characters/${id}/weapon-sheet.png`
     const mount = `character-model-sheets/characters/${id}/mount-sheet.png`

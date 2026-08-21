@@ -20,4 +20,10 @@ describe('generated asset catalog', () => {
       ),
     )
   })
+
+  it('loads card artwork from the images directory', () => {
+    expect(catalog.map((entry) => entry.card)).toEqual(
+      catalog.map((entry) => `images/${entry.id}.png`),
+    )
+  })
 })

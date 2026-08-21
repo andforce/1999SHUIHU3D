@@ -1,7 +1,7 @@
 import sourceCatalog from '../generated/catalog.json'
 import type { CharacterEntry, SourceCatalogEntry } from '../types'
 
-const cardModules = import.meta.glob('../../[0-9][0-9][0-9].png', {
+const cardModules = import.meta.glob('../../images/[0-9][0-9][0-9].png', {
   eager: true,
   query: '?url',
   import: 'default',
