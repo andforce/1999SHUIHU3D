@@ -7,16 +7,16 @@ Strict left-to-right order: (1) based on the left profile, rotate the whole char
 
 Relative 45-degree geometry is mandatory. Column 1 derives only from column 2 by rotating the entire body counterclockwise 45 degrees around the vertical axis. Column 6 derives only from column 5 by rotating the entire body clockwise 45 degrees. Head, ribcage, pelvis, knees and both feet rotate together. Columns 1 and 6 must show opposite near cheeks, ears, shoulders, costume/armor perspective and far-limb occlusion. Never copy, reuse, horizontally flip or collapse either column into a front or pure profile.
 
-Identity: gender presentation 男性; apparent age 中年; face 长脸、浓眉、神情冷峻; hair 黑发与头顶被宽檐草帽和白色披巾遮挡; facial hair 黑色短髭与短须; body type 高挑结实; proportions 保持原图人物独有的高矮、胖瘦和头身比例，不为批量整齐而统一体型.
+Identity: 青面兽杨志; gender presentation 男性; apparent age 中年; face 长脸、浓眉、神情冷峻，角色自身左侧有从左额延伸、覆盖左眼周与左颊的大块青蓝色胎记，边界不规则、平贴皮肤，不是面具或涂料; hair 黑发与头顶被宽檐草帽和白色披巾遮挡; facial hair 黑色短髭与短须; body type 高挑结实; proportions 保持原图人物独有的高矮、胖瘦和头身比例，不为批量整齐而统一体型.
 Costume layers: 绿色上衣；黑色宽裤；白色大披巾；蓝色围巾与草帽.
 Palette: 绿；黑；白；蓝；棕.
 Materials: 织物按原图褶皱与厚薄表现；金属、皮革、毛皮或木材仅在原图可见时保留相应质感.
 Patterns and symbols: 只保留原图清楚可见的纹样、甲片分格和装饰位置，不生成文字或新徽记.
-Must preserve: 长脸、浓眉、神情冷峻；黑发与头顶被宽檐草帽和白色披巾遮挡；高挑结实；绿色上衣、黑色宽裤、白色大披巾、蓝色围巾与草帽；绿、黑、白、蓝、棕；直身长剑，银白刃、金色柄首与白色剑鞘.
-Confirmed visual evidence: 身份与外形：长脸、浓眉、神情冷峻；黑发与头顶被宽檐草帽和白色披巾遮挡；黑色短髭与短须；高挑结实。；服装：绿色上衣、黑色宽裤、白色大披巾、蓝色围巾与草帽。；主配色：绿、黑、白、蓝、棕。；武器或标志装备：直身长剑，银白刃、金色柄首与白色剑鞘。.
+Must preserve: 长脸、浓眉、神情冷峻；角色自身左额、左眼周与左颊的大块青蓝色胎记，边界不规则并贴合皮肤，不得画成右脸胎记、面具或对称脸纹；黑发与头顶被宽檐草帽和白色披巾遮挡；高挑结实；绿色上衣、黑色宽裤、白色大披巾、蓝色围巾与草帽；绿、黑、白、蓝、棕；直身长剑，银白刃、金色柄首与白色剑鞘.
+Confirmed visual evidence: 身份与外形：长脸、浓眉、神情冷峻；黑发与头顶被宽檐草帽和白色披巾遮挡；黑色短髭与短须；高挑结实；角色自身左侧面部有一大块青蓝色胎记，从左额延伸并覆盖左眼周与左颊，边界不规则且贴合皮肤。；服装：绿色上衣、黑色宽裤、白色大披巾、蓝色围巾与草帽。；主配色：绿、黑、白、蓝、棕。；武器或标志装备：直身长剑，银白刃、金色柄首与白色剑鞘。.
 Restrained structural inference: 人物背部服装按正侧面同材质、同层级连续闭合，不新增徽章、纹样或第二套配件。；被动作遮挡的左右肢体、鞋履和服装侧缝采用最克制、近似对称且易修改的补全。；武器或标志装备的反面、薄侧面与被裁切末端采用无额外装饰的结构性补全。.
 Unknown and editable: 草帽下发型、剑反面与披巾背部结构不可见；原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知。.
-Asymmetric three-dimensional anchors: No permanent one-sided costume anchor is confirmed in the current evidence record. Held weapons, mounts and action-driven cloth motion are not permanent body asymmetry; do not invent a new one-sided accessory.
+Asymmetric three-dimensional anchors: 左脸大块青蓝色胎记永久固定在 character-left facial skin from forehead through eye socket to upper and mid cheek. It lies flush with the facial surface as one continuous irregular organic patch. In the left-profile-counterclockwise-45-degree and left-profile views it is near-side and largely or fully visible; in front it appears on the image-right half of the face; in back it is invisible; in right-profile it is far-side and fully or almost fully occluded; in right-profile-clockwise-45-degree it stays far-side and only a truthful visible edge may appear. Never mirror, swap, duplicate, or reposition it for visibility.
 
 Anchor rule: every recorded asymmetric feature stays permanently fixed to its anatomical side and three-dimensional attachment point. Rotate only the observer/body orientation; never swap sides, mirror, duplicate or move a far-side feature toward the camera. Real occlusion has priority over full visibility.
 

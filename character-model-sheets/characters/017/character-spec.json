@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "id": "017",
-  "name": "",
+  "name": "青面兽杨志",
   "source": "/Users/dywang/Desktop/1999年小浣熊水浒/017.png",
   "status": "generated",
   "evidence": {
     "confirmed": [
-      "身份与外形：长脸、浓眉、神情冷峻；黑发与头顶被宽檐草帽和白色披巾遮挡；黑色短髭与短须；高挑结实。",
+      "身份与外形：长脸、浓眉、神情冷峻；黑发与头顶被宽檐草帽和白色披巾遮挡；黑色短髭与短须；高挑结实；角色自身左侧面部有一大块青蓝色胎记，从左额延伸并覆盖左眼周与左颊，边界不规则且贴合皮肤。",
       "服装：绿色上衣、黑色宽裤、白色大披巾、蓝色围巾与草帽。",
       "主配色：绿、黑、白、蓝、棕。",
       "武器或标志装备：直身长剑，银白刃、金色柄首与白色剑鞘。"
@@ -25,7 +25,7 @@
     "identity": {
       "gender_presentation": "男性",
       "apparent_age": "中年",
-      "face": "长脸、浓眉、神情冷峻",
+      "face": "长脸、浓眉、神情冷峻；角色自身左侧有从左额延伸、覆盖左眼周与左颊的大块青蓝色胎记，边界不规则、平贴皮肤，不是面具或涂料",
       "hair": "黑发与头顶被宽檐草帽和白色披巾遮挡",
       "facial_hair": "黑色短髭与短须",
       "body_type": "高挑结实",
@@ -52,17 +52,36 @@
       "只保留原图清楚可见的纹样、甲片分格和装饰位置，不生成文字或新徽记"
     ],
     "left_right_asymmetry": [
-      "剑鞘与披巾垂落侧保持一致"
+      "剑鞘与披巾垂落侧保持一致",
+      "大块青蓝色胎记永久固定在角色自身左侧面部；转面时只改变投影与遮挡，不得换到右脸、复制或镜像"
     ],
     "must_preserve": [
       "长脸、浓眉、神情冷峻",
+      "角色自身左额、左眼周与左颊的大块青蓝色胎记；边界不规则并贴合皮肤，不得画成右脸胎记、面具或对称脸纹",
       "黑发与头顶被宽檐草帽和白色披巾遮挡",
       "高挑结实",
       "绿色上衣、黑色宽裤、白色大披巾、蓝色围巾与草帽",
       "绿、黑、白、蓝、棕",
       "直身长剑，银白刃、金色柄首与白色剑鞘"
     ],
-    "asymmetric_anchors": []
+    "asymmetric_anchors": [
+      {
+        "feature": "左脸大块青蓝色胎记",
+        "anatomical_side": "character-left",
+        "attachment_point": "left facial skin from forehead through eye socket to upper and mid cheek",
+        "local_orientation": "flush with the facial surface; one continuous irregular organic patch following the left forehead, left eye socket and left cheek contours",
+        "never_mirror": true,
+        "never_reposition_for_visibility": true,
+        "visibility_by_view": {
+          "left-profile-counterclockwise-45-degree": "近侧，随左侧脸曲面显示大部分胎记",
+          "left-profile": "近侧，完整显示左额、左眼周与左颊的连续胎记",
+          "front": "位于画面右侧的角色自身左半脸，清楚显示",
+          "back": "不可见",
+          "right-profile": "远侧，被面部轮廓完全或几乎完全遮挡",
+          "right-profile-clockwise-45-degree": "远侧，仅显示从真实三维位置可见的少量边缘，不得移到近侧"
+        }
+      }
+    ]
   },
   "entities": {
     "weapon": {
@@ -114,7 +133,8 @@
     "notes": [
       "2026-08-19 已迁移为新版六视图并进入全量重新生成。",
       "旧版人物与实体图片已保留为递增版本备份。",
-      "2026-08-20 已完成新版人物、独立实体与全量 QA 联系表复核；保持 generated，等待用户批准。"
+      "2026-08-20 已完成新版人物、独立实体与全量 QA 联系表复核；保持 generated，等待用户批准。",
+      "2026-08-21 用户确认角色名为青面兽杨志，并要求补回角色自身左额、左眼周与左颊的大块青蓝色胎记；仅返修人物六视图脸部。"
     ]
   }
 }

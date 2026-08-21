@@ -2,7 +2,7 @@
   "schema_version": 1,
   "source_dir": "/Users/dywang/Desktop/1999年小浣熊水浒",
   "project_dir": "/Users/dywang/Desktop/1999年小浣熊水浒/character-model-sheets",
-  "updated_at": "2026-08-21T09:06:31.510459+00:00",
+  "updated_at": "2026-08-21T09:18:10.096230+00:00",
   "character_count": 108,
   "characters": [
     {
@@ -359,7 +359,7 @@
     },
     {
       "id": "017",
-      "name": "",
+      "name": "青面兽杨志",
       "source": "/Users/dywang/Desktop/1999年小浣熊水浒/017.png",
       "width": 900,
       "height": 1350,
