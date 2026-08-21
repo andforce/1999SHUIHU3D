@@ -3,17 +3,20 @@
   "id": "020",
   "name": "",
   "source": "/Users/dywang/Desktop/1999年小浣熊水浒/020.png",
-  "status": "generated",
+  "status": "approved",
   "evidence": {
     "confirmed": [
       "身份与外形：瘦长脸、夸张笑容；黑发被黑色高帽遮住；细黑短髭与下巴短须；精瘦灵活。",
-      "服装：黑色短袍与披肩、蓝色裤、红腰带、白色绑腿及写有红字的垂布。",
-      "主配色：黑、蓝、红、白。",
-      "武器或标志装备：成组小型飞刀／投掷刃与腰挂短兵器。"
+      "服装：黑色交叠短袍与披肩、蓝色裤、红腰带、白色绑腿；角色自身左肩有黑色短袖，角色自身右肩与右臂无袖。",
+      "非对称手臂：只有角色自身左前臂缠白色绷带；角色自身右臂没有绷带。",
+      "下装：裆部正前方没有白色裙摆、围裙或独立垂布；用户选定的黑色交叠短袍为长裙摆版本，前、侧、后裙统一延伸到大腿下段、接近膝部但不遮挡膝部符纸。",
+      "膝部符纸：左右两个膝盖各贴一张偏黄色纸符，红色竖排符文为“急急如律令”。",
+      "主配色：黑、蓝、红、白，并以偏黄色纸符作为膝部点缀。",
+      "武器或标志装备：成组小型飞刀／投掷刃与腰挂短兵器；背负收纳位于角色自身左后肩附近。"
     ],
     "inferred": [
       "人物背部服装按正侧面同材质、同层级连续闭合，不新增徽章、纹样或第二套配件。",
-      "被动作遮挡的左右肢体、鞋履和服装侧缝采用最克制、近似对称且易修改的补全。",
+      "被动作遮挡的鞋履与服装侧缝采用最克制且易修改的补全；手臂服装严格遵守已确认的左右非对称结构，不作对称补全。",
       "武器或标志装备的反面、薄侧面与被裁切末端采用无额外装饰的结构性补全。"
     ],
     "unknown": [
@@ -32,36 +35,94 @@
       "body_proportions": "保持原图人物独有的高矮、胖瘦和头身比例，不为批量整齐而统一体型"
     },
     "costume_layers": [
-      "黑色短袍与披肩",
+      "黑色交叠短袍与披肩：角色自身左肩有黑色短袖，角色自身右肩与右臂无袖",
       "蓝色裤",
       "红腰带",
-      "白色绑腿及写有红字的垂布"
+      "白色绑腿",
+      "左右两个膝盖各贴一张偏黄色纸符，红色竖排写“急急如律令”",
+      "裆部正前方没有白色裙摆、围裙或独立垂布；黑色短袍的交叠长裙摆完整覆盖裆部，并以统一的灰边斜向前襟延伸到大腿下段、接近膝部"
     ],
     "palette": [
       "黑",
       "蓝",
       "红",
-      "白"
+      "白",
+      "偏黄纸色"
     ],
     "materials": [
       "织物按原图褶皱与厚薄表现",
       "金属、皮革、毛皮或木材仅在原图可见时保留相应质感"
     ],
     "patterns_and_symbols": [
-      "只保留原图清楚可见的纹样、甲片分格和装饰位置，不生成文字或新徽记"
+      "两个膝盖上的符纸均为偏黄色纸张，红色竖排符文必须准确为“急急如律令”（自上而下：急、急、如、律、令）",
+      "除两张膝部符纸外，不生成额外文字、新徽记或白色裆部垂布；裆部由黑色短袍自身的前裙覆盖"
     ],
     "left_right_asymmetry": [
-      "飞刀收纳位置与红色垂布保持一致"
+      "角色自身左肩有黑色短袖；角色自身右肩与右臂无袖",
+      "只有角色自身左前臂缠白色绷带；角色自身右臂无绷带",
+      "飞刀收纳位置与红色垂布保持在角色自身左后肩一侧"
     ],
     "must_preserve": [
       "瘦长脸、夸张笑容",
       "黑发被黑色高帽遮住",
       "精瘦灵活",
-      "黑色短袍与披肩、蓝色裤、红腰带、白色绑腿及写有红字的垂布",
-      "黑、蓝、红、白",
+      "黑色交叠短袍与披肩、蓝色裤、红腰带、白色绑腿",
+      "角色自身左肩有黑色短袖且左前臂有白色绷带；角色自身右臂无袖且无绷带",
+      "裆部正前方没有白色裙摆、围裙或独立垂布；黑色交叠长裙摆前、侧、后统一延伸到大腿下段，接近但不遮挡膝部符纸",
+      "左右两个膝盖各有一张偏黄色、红字竖排“急急如律令”的符纸",
+      "黑、蓝、红、白、偏黄纸色",
       "成组小型飞刀／投掷刃与腰挂短兵器"
     ],
-    "asymmetric_anchors": []
+    "asymmetric_anchors": [
+      {
+        "feature": "左肩黑色短袖（右肩与右臂无袖）",
+        "anatomical_side": "character-left",
+        "attachment_point": "left-shoulder garment seam extending only to the left upper arm",
+        "local_orientation": "short black sleeve ending above the left biceps; the matching right sleeve is absent and the right shoulder/arm remains bare",
+        "never_mirror": true,
+        "never_reposition_for_visibility": true,
+        "visibility_by_view": {
+          "left-profile-counterclockwise-45-degree": "左侧近侧，短袖清楚可见；远侧右臂保持无袖",
+          "left-profile": "左侧近侧，黑色短袖完整可见",
+          "front": "画面右侧为角色左臂并有短袖；画面左侧角色右臂无袖",
+          "back": "画面左侧为角色左臂并有短袖；画面右侧角色右臂无袖",
+          "right-profile": "左袖处于远侧并按真实遮挡；近侧右肩与右臂保持无袖",
+          "right-profile-clockwise-45-degree": "左袖处于远侧；近侧右肩与右臂保持无袖"
+        }
+      },
+      {
+        "feature": "左前臂白色绷带（右臂无绷带）",
+        "anatomical_side": "character-left",
+        "attachment_point": "left forearm between wrist and elbow",
+        "local_orientation": "white cloth wraps circling only the left forearm; no matching wrap on the right arm",
+        "never_mirror": true,
+        "never_reposition_for_visibility": true,
+        "visibility_by_view": {
+          "left-profile-counterclockwise-45-degree": "左侧近侧，绷带清楚可见；远侧右臂无绷带",
+          "left-profile": "左侧近侧，左前臂绷带完整或大部分可见",
+          "front": "画面右侧的角色左前臂有绷带；画面左侧右臂无绷带",
+          "back": "画面左侧的角色左前臂有绷带；画面右侧右臂无绷带",
+          "right-profile": "左前臂绷带处于远侧并按真实遮挡；近侧右臂无绷带",
+          "right-profile-clockwise-45-degree": "左前臂绷带处于远侧；近侧右臂无绷带"
+        }
+      },
+      {
+        "feature": "左后肩附近的背负飞刀／投掷刃收纳组",
+        "anatomical_side": "character-left",
+        "attachment_point": "left upper back immediately behind the left shoulder",
+        "local_orientation": "fixed diagonally upward and outward behind the left shoulder",
+        "never_mirror": true,
+        "never_reposition_for_visibility": true,
+        "visibility_by_view": {
+          "left-profile-counterclockwise-45-degree": "左侧近侧，按真实投影显示",
+          "left-profile": "左侧近侧，完整或大部分可见",
+          "front": "画面右侧、角色左肩后方可见",
+          "back": "画面左侧、角色左后肩处可见",
+          "right-profile": "远侧，被头部和躯干部分遮挡",
+          "right-profile-clockwise-45-degree": "远侧，按真实空间关系仅显示可见部分"
+        }
+      }
+    ]
   },
   "entities": {
     "weapon": {
@@ -108,12 +169,16 @@
     ]
   },
   "review": {
-    "approved_by": "",
-    "approved_at": "",
+    "approved_by": "user",
+    "approved_at": "2026-08-21",
     "notes": [
       "2026-08-19 已迁移为新版六视图并进入全量重新生成。",
       "旧版人物与实体图片已保留为递增版本备份。",
-      "2026-08-20 已完成新版人物、独立实体与全量 QA 联系表复核；保持 generated，等待用户批准。"
+      "2026-08-20 已完成新版人物、独立实体与全量 QA 联系表复核；保持 generated，等待用户批准。",
+      "2026-08-21 根据用户反馈返修人物服装非对称结构、裆部正面、双膝符纸和左臂绷带；武器表保持不变。",
+      "2026-08-21 第二轮反馈确认黑色短袍前裙应至少覆盖到裆部以下，同时继续排除白色独立裙摆。",
+      "2026-08-21 已将黑色交叠前裙延长至刚好越过裆部并在大腿最上段收束，侧面与背面长度保持不变。",
+      "2026-08-21 用户提供并选定长裙摆版本作为正式主图；前、侧、后裙统一延伸到大腿下段，角色状态更新为 approved。"
     ]
   }
 }

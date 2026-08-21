@@ -2,7 +2,7 @@
   "schema_version": 1,
   "source_dir": "/Users/dywang/Desktop/1999年小浣熊水浒",
   "project_dir": "/Users/dywang/Desktop/1999年小浣熊水浒/character-model-sheets",
-  "updated_at": "2026-08-21T09:22:41.435992+00:00",
+  "updated_at": "2026-08-21T09:50:05.399780+00:00",
   "character_count": 108,
   "characters": [
     {
@@ -430,7 +430,7 @@
       "width": 900,
       "height": 1350,
       "sha256": "4295857d27f51cf690dab9fa9a82d3d20a902ba612d379ebb62a02831cac6881",
-      "status": "generated",
+      "status": "approved",
       "entities": {
         "weapon": "present",
         "mount": "absent",
