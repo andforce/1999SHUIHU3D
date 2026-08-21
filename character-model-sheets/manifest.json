@@ -2,7 +2,7 @@
   "schema_version": 1,
   "source_dir": "/Users/dywang/Desktop/1999年小浣熊水浒",
   "project_dir": "/Users/dywang/Desktop/1999年小浣熊水浒/character-model-sheets",
-  "updated_at": "2026-08-21T09:50:05.399780+00:00",
+  "updated_at": "2026-08-21T10:48:58.773169+00:00",
   "character_count": 108,
   "characters": [
     {
@@ -447,8 +447,8 @@
     },
     {
       "id": "021",
-      "name": "",
-      "source": "/Users/dywang/Desktop/1999年小浣熊水浒/021.png",
+      "name": "赤发鬼刘唐",
+      "source": "/Users/dywang/github/小浣熊/zhengfan/900x1350_正反高清+正面无名字/021.png",
       "width": 900,
       "height": 1350,
       "sha256": "930b258cf08cdb2ee05e48d437d418fdccba505829bac954be2169d02ce2b743",

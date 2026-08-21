@@ -1,10 +1,19 @@
 Use case: stylized-concept
-Asset type: professional game/animation standalone weapon or signature-prop design sheet
-Input images: Image 1 is the sole primary visual evidence for character 021's entity. Image 2 is the newly generated character six-view and determines owner identity, scale and style. Image 3 is the legacy entity sheet only as a secondary continuity reference; correct its mistakes and do not copy labels or old layout.
-Primary request: Create one clean landscape design sheet for: 巨型宽刃朴刀／砍刀，银白弧刃与长浅色柄. Preserve only the silhouette, colors, materials, patterns, grip and attachment relationships supported by Image 1.
-Required views: complete main face, complete reverse, true thinnest side profile, key construction details, natural grip/use state, storage or body-attachment state when applicable, and a small full-body owner comparison for accurate scale. Every repeated view must depict the same entity and dimensions.
-Entity notes: 按可独立建模、拿取或动画化的武器或标志装备拆分独立设定表。；只保留原图可见轮廓、配色、材质、握持或连接关系；不可见反面作最简补全。.
-Confirmed evidence: 身份与外形：宽脸、怒目露齿；鲜红长乱发向后披散；红色浓须沿下颌生长；极其魁梧、裸臂肌肉夸张。；服装：米白无袖短衣、蓝紫宽裤、深色绑腿，手足多处裸露。；主配色：红、米白、蓝紫、银。；武器或标志装备：巨型宽刃朴刀／砍刀，银白弧刃与长浅色柄。.
-Unknown/inferred restraint: 大刀反面、背部衣料和鞋履结构不可见；原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知。; complete unseen reverse, edge and mechanism minimally with no unsupported ornament.
-Style: bold black ink contours, late-1990s hand-painted cel shading and watercolor coloring, warm light-gray neutral production-sheet background, even working light.
-Constraints: all complete views fully visible and uncropped; no title, labels, letters, measurements, watermark, scenery, action effects, unrelated props, duplicate entities, fused hands, extra blades, extra parts or invented decoration.
+Asset type: professional standalone weapon design sheet for a game/animation character
+Input images: Image 1 is the sole primary visual evidence for weapon 021. Image 2 is the newly generated character model sheet and controls only owner scale, ink-and-color rendering and production-sheet finish. Do not borrow a different weapon, face, costume or color from Image 2.
+
+Primary request: Reconstruct the single long-handled giant silver broad-bladed pole weapon visible in Image 1 as one clean landscape entity sheet. Preserve the exact recognizable blade silhouette, pale wooden shaft, color relationships, grip thickness and owner scale. Complete unseen portions minimally and without decoration.
+
+Confirmed weapon design: one pale warm wooden shaft; one enormous silver-white broad chopping blade attached at one end. Near the shaft the blade has a thick rectangular upper spine/socket with two visible rectangular pale-wood bridge or pass-through details. The lower edge sweeps into a long bright cutting edge; the front end rises into a sharp upward-curving point. Use cool silver-gray planes, a dark gray inner structural shadow and controlled hand-painted white highlights. Do not invent a second blade, hook, chain, flame ornament, tassel, inscription, gemstone or decorative pattern.
+
+Uncertain completion: the card crops the distant wooden butt end and does not show the reverse, thinnest edge or internal attachment. Complete them as the simplest mechanically plausible continuation: one straight wooden shaft with a plain capped butt, a symmetrical undecorated reverse, credible metal thickness and a simple hidden tang/socket. Treat this as restrained inference, not original fact.
+
+Required visual content on one sheet: a complete large main-face view; a complete reverse view; a true thinnest side/edge profile showing blade and socket thickness; two enlarged construction details of the blade-to-shaft connection and cutting-edge profile; one natural two-handed grip demonstration by the approved red-haired owner in a small neutral figure; and one simple full-body owner comparison for accurate overall scale. Every repeated weapon must have identical total length, shaft diameter, blade length, blade curvature, socket dimensions and materials.
+
+Composition: clean wide landscape sheet, generous spacing, every complete weapon fully visible and uncropped. The main weapon is the largest element. The owner comparison is secondary and small but structurally correct. Plain warm off-white or very light neutral gray background, even upper-front working light, no scenery or action effects.
+
+Style/medium: 1999–2000 Chinese Shuihu heroic collectible-card style two-dimensional hand-painted commercial illustration. Use deep black or dark-brown ink lines with organic hand-drawn variation, strong outer contour and clear fine construction lines. Use saturated but non-fluorescent compound colors, clear base-color shapes, 2–4 distinct structural shadow/highlight levels, hard-edged color blocks plus selective marker, watercolor/gouache, airbrush-like transitions, short hatching and dry-brush texture. Metal remains clearly hand-painted, never PBR; wood uses restrained directional brush grain. Match Image 2's line weight, compound color steps, texture density and lighting exactly.
+
+Constraints: all complete views uncropped; the weapon is the same object in every view; preserve the original single-blade silhouette and two rectangular connection details; no text, title, labels, letters, numbers, measurements, watermark, extra weapon, duplicate blade, fused hand, extra limb or invented decoration.
+
+Avoid: pure flat cel shading, borderless semi-painterly rendering, modern mobile-game splash art, photorealism, cinematic concept art, 3D, CGI, PBR, ZBrush, plastic toy surfaces, mirror-like environment reflections, vector art, halftone, aged paper, scan noise, card frame or print damage.
