@@ -1,0 +1,20 @@
+Use case: precise-object-edit
+Asset type: character four-view head model sheet correction
+Input images: Image 1 is the original character art and the highest-authority identity evidence; it confirms the man is completely clean-shaven. Image 2 is the sole edit target, the existing four-view head sheet.
+Primary request: Edit Image 2 only. Remove every trace of human facial hair from every visible human face: remove the moustache above the upper lip, the pointed goatee below the lower lip, the chin beard, side beard, beard shadow, and stubble in the front, character-left profile, and character-right profile. Reconstruct only the exposed upper-lip, mouth-corner, chin, and jaw skin as natural clean-shaven skin consistent with Image 1. The second/back view has no visible human face and must remain unchanged.
+Identity constraint: preserve exactly the same adult man's broad angular face, heavy eyebrows, eyes, nose, lips, expression, jaw shape, skin tone, black hair, and tiger-head hood. Removing the facial hair must not feminize, beautify, age, de-age, or otherwise redesign him.
+Invariants: Keep the four-view order front, back, character-left profile, character-right profile; keep all poses, crop, scale, spacing, warm light-gray background, tiger pelt, tiger stripes, garments, outlines, colors, shading, paper texture, and every unmentioned pixel-level region unchanged. No new text, labels, border, watermark, accessories, or facial marks. Do not alter the tiger's whiskers or fur; only remove the human man's facial hair.
+Style invariant: preserve the already approved 1999–2000 Chinese Shuihu collectible-card two-dimensional hand-painted commercial illustration style exactly: variable dark ink contours, saturated composite color blocks, 2–4 structural value steps, restrained watercolor/gouache/marker transitions, hatching and dry-brush texture. Do not drift to flat cel shading, modern mobile-game painting, photorealism, 3D/CGI/PBR, vector art, or aged-print damage.
+Success criterion: all three visible human faces are unequivocally clean-shaven and match the clean-shaven original, while everything else remains visually identical.
+
+---
+
+Final micro-correction pass
+
+Use case: precise-object-edit
+Asset type: final micro-correction to an existing four-view character head sheet
+Input images: Image 1 is the original clean-shaven character identity evidence. Image 2 is the sole edit target, the current corrected head sheet.
+Primary request: In Image 2, modify only the human face in the first/front column. Remove the remaining small dark vertical hair-like tuft/ink patch directly below the lower lip and on the center of the chin, which can still read as a tiny soul patch or goatee. Fill that tiny area with smooth clean-shaven warm skin and restrained natural structural shading consistent with Image 1. Keep the lip outline, mouth shape, chin volume, jaw contour, expression, and skin tone unchanged. The result must have no moustache, soul patch, goatee, chin beard, beard shadow, or stubble.
+Hard invariants: columns 2–4 must remain unchanged; do not edit either profile or the back view. Keep the front face's eyes, eyebrows, nose, lips, face shape, tiger-head hood, tiger fur, tiger whiskers, costume, linework, colors, texture, crop, spacing, background, and all unmentioned regions unchanged. Do not add text, marks, accessories, or new facial details.
+Style invariant: exactly preserve the existing 1999–2000 Chinese Shuihu collectible-card two-dimensional hand-painted commercial illustration finish, variable dark ink contours, composite color blocks, watercolor/gouache/marker texture, and warm neutral production-sheet background. No style drift.
+Success criterion: the front human face reads unequivocally clean-shaven, with no dark hair-like mark below the lower lip or on the chin, while the rest of the sheet remains visually identical.
