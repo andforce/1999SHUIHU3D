@@ -1,0 +1,28 @@
+# 004 道袍颜色局部返修提示（2026-08-22）
+
+## 中立六视图
+
+Use case: precise-object-edit
+Asset type: 004 character neutral turnaround sheet, local project asset
+Input images: Image 1 is the edit target; Image 2 is the authoritative original-card color reference only.
+Primary request: Edit Image 1 only. Recolor every area of the outer Daoist robe fabric in all six full-body views from the current cool blue-violet/royal-purple hue to the original card's clearly magenta-leaning red-purple: a saturated but non-neon rose-magenta / fuchsia-purple base, with pink-magenta and pink-purple highlights, and wine-purple / deep red-purple structural shadows. Match the hue family and warm magenta-vs-blue balance visible on the robe in Image 2 while retaining Image 1's existing hand-painted light/shadow modeling.
+Hard invariants: change only the outer robe fabric color. Keep the character identity, face, body, green hair, black moustache and goatee, poses, anatomy, six-view order, all silhouettes, robe construction, sleeve size, folds, seams, split rear panels, white Bagua markings, rear Taiji-Bagua symbol, black trim, white inner sleeves, yellow sash, pale-yellow trousers, white leg wraps, sandals, line art, brush texture, lighting, canvas, spacing, background and every unmentioned pixel-level feature unchanged. Do not recolor any black, white, yellow, green, skin, footwear, symbol, or background area. Do not add, delete, move, redraw, relight, crop, mirror, or restyle anything. No text, labels, watermark, border, or new elements.
+Acceptance: the robe reads as warm magenta-purple like Image 2, never cool blue-purple, indigo, violet-blue, or royal purple, and remains perfectly consistent across all six views.
+
+## 原画姿态版六视图
+
+Use case: precise-object-edit
+Asset type: 004 character original-pose turnaround sheet, local project asset
+Input images: Image 1 is the edit target; Image 2 is the authoritative original-card color reference only.
+Primary request: Edit Image 1 only. Recolor every area of the outer Daoist robe fabric in all six pose-locked views from its current purple hue to the original card's clearly magenta-leaning red-purple: a saturated but non-neon rose-magenta / fuchsia-purple base, with pink-magenta and pink-purple highlights, and wine-purple / deep red-purple structural shadows. Match the hue family and warm magenta-vs-blue balance visible on the robe in Image 2 while retaining Image 1's existing hand-painted light/shadow modeling.
+Hard invariants: change only the outer robe fabric color. Keep the exact frozen pose, sword grip, body and limb relationships, character identity, face, green hair, black moustache and goatee, anatomy, six-view order, all silhouettes, robe construction and motion, sleeve size, folds, seams, split rear panels, white Bagua markings, rear Taiji-Bagua symbol, black trim, white inner sleeves, yellow sash, pale-yellow trousers, white leg wraps, sandals, sword, line art, brush texture, lighting, canvas, spacing, background and every unmentioned pixel-level feature unchanged. Do not recolor any black, white, yellow, green, skin, footwear, sword, symbol, or background area. Do not add, delete, move, redraw, relight, crop, mirror, or restyle anything. No text, labels, watermark, border, or new elements.
+Acceptance: the robe reads as warm magenta-purple like Image 2, never cool blue-purple, indigo, violet-blue, or royal purple, and remains perfectly consistent across all six views.
+
+## 头部四视图
+
+Use case: precise-object-edit
+Asset type: 004 character four-view head sheet, local project asset
+Input images: Image 1 is the edit target; Image 2 is the authoritative original-card color reference; Image 3 is the approved recolored neutral turnaround and is the exact cross-sheet robe-color consistency reference.
+Primary request: Edit Image 1 only. Recolor only the visible outer Daoist robe fabric on the four shoulder/torso crops to exactly match the robe color treatment in Image 3 and the original-card hue family in Image 2: saturated but non-neon rose-magenta / fuchsia-purple base, pink-magenta and pink-purple highlights, wine-purple / deep red-purple structural shadows. Preserve Image 1's existing light/shadow shapes and hand-painted brush texture.
+Hard invariants: change only the visible outer robe fabric color. Keep the four heads, faces, expressions, green hair, black moustache and goatee, anatomy, four-view order, every silhouette, robe construction, folds, black collar/trim, white inner collar, line art, brush texture, lighting, canvas, spacing, background and every unmentioned pixel-level feature unchanged. Do not recolor any black, white, green, skin, hair, facial hair, or background area. Do not add, delete, move, redraw, relight, crop, mirror, or restyle anything. No text, labels, watermark, border, or new elements.
+Acceptance: the visible robe is the same warm magenta-purple as Image 3, never cool blue-purple, indigo, violet-blue, or royal purple.
