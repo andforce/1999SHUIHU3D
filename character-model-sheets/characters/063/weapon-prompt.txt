@@ -4,7 +4,7 @@ Input images: Image 1 is the sole primary visual evidence for character 063's en
 Primary request: Create one clean landscape design sheet for: 直身长剑，红黑握柄、银色剑刃与简单护手. Preserve only the silhouette, colors, materials, patterns, grip and attachment relationships supported by Image 1.
 Required views: complete main face, complete reverse, true thinnest side profile, key construction details, natural grip/use state, storage or body-attachment state when applicable, and a small full-body owner comparison for accurate scale. Every repeated view must depict the same entity and dimensions.
 Entity notes: 按可独立建模、拿取或动画化的武器或标志装备拆分独立设定表。；只保留原图可见轮廓、配色、材质、握持或连接关系；不可见反面作最简补全。.
-Confirmed evidence: 身份与外形：方脸、浓眉、神情严厉；黑发藏于白头巾与发带下；黑色短髭；高挑结实。；服装：红色胸衣、白色宽袖披袍、白色宽裤、黑色甲裙与红护腕。；主配色：红、白、黑、银。；武器或标志装备：直身长剑，红黑握柄、银色剑刃与简单护手。.
+Confirmed evidence: 身份与外形：方脸、浓眉、神情严厉；黑发藏于白头巾与发带下；无胡须，上唇、下巴与下颌保持干净；高挑结实。；服装：红色胸衣、白色宽袖披袍、白色宽裤、黑色甲裙与红护腕。；主配色：红、白、黑、银。；武器或标志装备：直身长剑，红黑握柄、银色剑刃与简单护手。.
 Unknown/inferred restraint: 剑鞘、剑反面和披袍背部不可见；原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知。; complete unseen reverse, edge and mechanism minimally with no unsupported ornament.
 Style: bold black ink contours, late-1990s hand-painted cel shading and watercolor coloring, warm light-gray neutral production-sheet background, even working light.
 Constraints: all complete views fully visible and uncropped; no title, labels, letters, measurements, watermark, scenery, action effects, unrelated props, duplicate entities, fused hands, extra blades, extra parts or invented decoration.
