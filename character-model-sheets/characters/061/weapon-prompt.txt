@@ -4,7 +4,7 @@ Input images: Image 1 is the sole primary visual evidence for character 061's en
 Primary request: Create one clean landscape design sheet for: 长金属锁链软鞭，末端为短柄／钩形连接件. Preserve only the silhouette, colors, materials, patterns, grip and attachment relationships supported by Image 1.
 Required views: complete main face, complete reverse, true thinnest side profile, key construction details, natural grip/use state, storage or body-attachment state when applicable, and a small full-body owner comparison for accurate scale. Every repeated view must depict the same entity and dimensions.
 Entity notes: 按可独立建模、拿取或动画化的武器或标志装备拆分独立设定表。；只保留原图可见轮廓、配色、材质、握持或连接关系；不可见反面作最简补全。.
-Confirmed evidence: 身份与外形：长脸、浓眉、露齿笑；黑色长发披散并向后飘；黑色短髭与尖短胡；高挑结实。；服装：黑灰短袍、白色宽裤、银色护臂与深色长靴。；主配色：黑灰、白、银、金。；武器或标志装备：长金属锁链软鞭，末端为短柄／钩形连接件。.
+Confirmed evidence: 身份与外形：长脸、浓眉、露齿笑；黑色长发披散并向后飘；上唇与下巴光洁、没有胡须；高挑结实。；服装：黑灰短袍、白色宽裤、银色护臂与深色长靴。；主配色：黑灰、白、银、金。；武器或标志装备：长金属锁链软鞭，末端为短柄／钩形连接件。.
 Unknown/inferred restraint: 锁链完整末端、背部收纳与袍服背面不可见；原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知。; complete unseen reverse, edge and mechanism minimally with no unsupported ornament.
 Style: bold black ink contours, late-1990s hand-painted cel shading and watercolor coloring, warm light-gray neutral production-sheet background, even working light.
 Constraints: all complete views fully visible and uncropped; no title, labels, letters, measurements, watermark, scenery, action effects, unrelated props, duplicate entities, fused hands, extra blades, extra parts or invented decoration.
