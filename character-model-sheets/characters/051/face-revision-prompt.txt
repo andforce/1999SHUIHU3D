@@ -1,0 +1,26 @@
+[头部四视图]
+Use case: identity-preserve
+Asset type: professional four-view head model-sheet edit
+Input images: Image 1 is the edit target and approved four-view layout/style. Image 2 is the original character-card evidence for identity and facial hair.
+Primary request: Edit Image 1 only. Make this same adult male character visibly younger, with a youthful adult/young-hero face, while preserving his recognizable square face, strong dark eyebrows, alert serious expression, nose, red-brown hair, red headscarf, green forehead jewel, neck, collar, armor, and exact four-view layout.
+Facial hair correction: preserve only the short red-brown moustache on the upper lip. Completely remove every goatee, soul patch, chin beard, jaw beard, side beard, and beard stubble. The lower lip area, entire chin, jawline, and cheeks must show clean skin in the front, character-left profile, and character-right profile.
+Younger age correction: reduce harsh nasolabial folds, under-eye heaviness, deep forehead wrinkles, cheek hollows, and mature jaw/chin creasing. Keep him clearly an adult heroic man, not a teenager or child, and do not turn him into a modern anime or beauty-influencer face.
+Hard invariants: preserve the exact warm neutral background, landscape canvas, four equal-scale head-and-shoulder studies, order front/back/character-left profile/character-right profile, spacing, crop, skull volume, face identity, headscarf construction, hair mass, costume, colors, ink line weight, late-1990s Chinese hand-painted collectible-card coloring, lighting, and all unmentioned pixels as closely as possible. The back view remains a pure back view with no face. Do not add text, labels, watermark, extra heads, mirrored profiles, accessories, scars, or decoration.
+
+[中立六视图]
+Use case: identity-preserve
+Asset type: professional six-view character turnaround edit
+Input images: Image 1 is the edit target and approved six-view body/costume/layout. Image 2 is the original character-card evidence. Image 3 is the corrected approved head reference for this exact character.
+Primary request: Edit Image 1 only. In every view where the face is visible, update the face to match Image 3: the same younger adult male identity, same square face, strong eyebrows, alert serious expression, red-brown hair and red headscarf.
+Facial hair correction: preserve only the short red-brown moustache on the upper lip. Completely remove every goatee, soul patch, chin beard, jaw beard, side beard, and beard stubble. The lower lip area, entire chin, jawline, and cheeks must show clean skin in all face-visible columns.
+Younger age correction: make the face visibly younger like Image 3 by reducing deep wrinkles, under-eye heaviness, cheek hollows, and mature chin/jaw creasing, while keeping an adult heroic man with angular features.
+Hard invariants: change only the faces/visible facial skin. Preserve Image 1's exact landscape canvas, warm neutral background, exactly six figures, left-to-right view order, body orientation, neutral poses, anatomy, height, baseline, spacing, costume geometry and colors, headscarf construction, armor, drapery, hands, footwear, shadows, bold ink linework, late-1990s Chinese hand-painted collectible-card rendering, and every unmentioned region as closely as possible. The pure back view remains unchanged. Do not add or remove objects, weapons, text, labels, watermark, extra figures, extra limbs, or accessories. Do not alter any viewpoint or mirror any column.
+
+[原画姿态六视图]
+Use case: identity-preserve
+Asset type: original-pose six-view character turnaround edit
+Input images: Image 1 is the edit target and approved frozen-pose six-view composition. Image 2 is the original character-card evidence. Image 3 is the corrected approved head reference for this exact character.
+Primary request: Edit Image 1 only. In every view where the face is visible, update the face to match Image 3: the same younger adult male identity, square face, strong eyebrows, alert serious expression, red-brown hair and red headscarf.
+Facial hair correction: preserve only the short red-brown moustache on the upper lip. Completely remove every goatee, soul patch, chin beard, jaw beard, side beard, and beard stubble. The lower lip area, entire chin, jawline, and cheeks must show clean skin in every face-visible column.
+Younger age correction: reduce deep wrinkles, under-eye heaviness, cheek hollows, and mature chin/jaw creasing to match the youthful adult face in Image 3. Keep him an adult heroic man, not a child or modern anime youth.
+Hard invariants: change only the faces and visible facial skin. Preserve Image 1's exact landscape canvas, warm neutral background, exactly six frozen airborne-pose figures, left-to-right view order, body/head orientation, gestures, handedness, finger pointing, weapon grip, weapon type/length/path, costume motion and cloth direction, leg positions, anatomy, scale, spacing, colors, armor, headscarf construction, ink linework, late-1990s Chinese hand-painted collectible-card rendering, lighting, and every unmentioned region as closely as possible. The back view stays a true back view. Do not add or remove weapons, props, text, labels, watermark, figures, limbs, accessories, or effects. Do not alter a viewpoint, mirror a column, re-pose a limb, change a grasp, or recalculate cloth motion.
