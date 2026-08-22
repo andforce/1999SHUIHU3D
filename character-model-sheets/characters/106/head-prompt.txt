@@ -7,9 +7,9 @@ Input images:
 
 Primary request: Create one clean landscape head model sheet of the exact same character, with exactly four equal-scale head-and-shoulder close-ups ordered left to right: pure front, pure back, pure character-left profile, pure character-right profile.
 
-Identity lock: 男性；中年；face 窄长苍白脸、深眼窝、神情狡黠；hair/headwear 黑发完全被破旧草帽与紫色头巾遮挡；facial hair 黑色细髭与尖短胡.
-Must preserve: 脸型 窄长苍白脸、深眼窝、神情狡黠；发型与头戴 黑发完全被破旧草帽与紫色头巾遮挡；胡须 黑色细髭与尖短胡；不得添加原图与现有六视图中不存在的头部非对称结构。.
-Confirmed visual evidence: 身份与外形：窄长苍白脸、深眼窝、神情狡黠；黑发完全被破旧草帽与紫色头巾遮挡；黑色细髭与尖短胡；清瘦、四肢修长.
+Identity lock: 男性；中年；face 窄长苍白脸、深眼窝、神情狡黠；hair/headwear 黑发完全被破旧草帽与紫色头巾遮挡；facial hair 无胡须，上唇、嘴角与下巴保持光洁，仅保留原图的口唇和面部墨线.
+Must preserve: 脸型 窄长苍白脸、深眼窝、神情狡黠；发型与头戴 黑发完全被破旧草帽与紫色头巾遮挡；无胡须，不得把口唇、鼻下或下巴墨线解释成髭须；不得添加原图与现有六视图中不存在的头部非对称结构。.
+Confirmed visual evidence: 身份与外形：窄长苍白脸、深眼窝、神情狡黠；黑发完全被破旧草帽与紫色头巾遮挡；上唇与下巴无胡须；清瘦、四肢修长.
 Restrained structural inference for unseen rear details: 后脑、发型或头戴背面只按现有六视图作最克制的连续闭合，不增加图案或配件。.
 Unknown details that must remain simple, conservative, and easy to revise: 草帽下发型、披布背面与纸包内物质不可见.
 Asymmetric three-dimensional anchors: 没有已确认的单侧头部锚点；不得自行添加单侧头饰、伤痕或配件。. Lock every such feature to the same anatomical side and exact attachment point across all four views. Apply truthful far-side occlusion; never mirror, duplicate, swap sides, or move a feature toward the camera for visibility.

@@ -24,7 +24,14 @@
 ## 2026-08-21 头部四视图补充
 
 - [x] 已生成 `head-sheet.png`，严格按正面、纯后脑、角色自身左侧面、角色自身右侧面排列。
-- [x] 四张保持同一身份、颅骨体积、发型／头戴、胡须、颈部尺度、裁切、光照和固定复古手绘画风。
+- [x] 四张保持同一身份、颅骨体积、发型／头戴、无胡须面部、颈部尺度、裁切、光照和固定复古手绘画风；2026-08-22 已按用户反馈返修误加的胡须。
 - [x] 纯后脑没有出现面部；左右侧面来自角色不同解剖侧，未用表情变化代替视角变化。
 - [x] 原图未展示的后脑与连接结构继续按规格中的 `inferred`／`unknown` 克制处理，不宣称为原作事实。
+- 状态保持 `generated`，等待用户批准。
+
+## 2026-08-22 无胡须纠偏
+
+- [x] 原图确认上唇、嘴角、下巴与下颌线无胡须；只保留口唇、鼻下、下巴轮廓和必要面部阴影墨线。
+- [x] 已返修 `character-turnaround.png`、`character-turnaround-original-pose.png` 与 `head-sheet.png` 的全部可见脸部。
+- [x] 旧版分别保留为 `character-turnaround-v3.png`、`character-turnaround-original-pose-v1.png` 与 `head-sheet-v1.png`。
 - 状态保持 `generated`，等待用户批准。
