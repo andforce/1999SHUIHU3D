@@ -7,13 +7,13 @@ Strict left-to-right order: (1) based on the left profile, rotate the whole char
 
 Relative 45-degree geometry is mandatory. Column 1 derives only from column 2 by rotating the entire body counterclockwise 45 degrees around the vertical axis. Column 6 derives only from column 5 by rotating the entire body clockwise 45 degrees. Head, ribcage, pelvis, knees and both feet rotate together. Columns 1 and 6 must show opposite near cheeks, ears, shoulders, costume/armor perspective and far-limb occlusion. Never copy, reuse, horizontally flip or collapse either column into a front or pure profile.
 
-Identity: gender presentation 男性; apparent age 中年; face 宽脸、仰头怒吼; hair 黑发向后披散; facial hair 黑色短髭与络腮短须; body type 高大强壮; proportions 保持原图人物独有的高矮、胖瘦和头身比例，不为批量整齐而统一体型.
+Identity: gender presentation 男性; apparent age 中年; face 宽脸、仰头怒吼; hair 黑发向后披散; facial hair 无胡须，上唇、下巴与两侧下颌保持干净，原画脸部深色线块只按墨线阴影处理，不得画成毛发; body type 高大强壮; proportions 保持原图人物独有的高矮、胖瘦和头身比例，不为批量整齐而统一体型.
 Costume layers: 灰白短甲；紫色宽裤；金黑护腿；绿色腰布与红腰带.
 Palette: 灰白；紫；金黑；绿；红.
 Materials: 织物按原图褶皱与厚薄表现；金属、皮革、毛皮或木材仅在原图可见时保留相应质感.
 Patterns and symbols: 只保留原图清楚可见的纹样、甲片分格和装饰位置，不生成文字或新徽记.
-Must preserve: 宽脸、仰头怒吼；黑发向后披散；高大强壮；灰白短甲、紫色宽裤、金黑护腿、绿色腰布与红腰带；灰白、紫、金黑、绿、红；单手直剑／短刀，银色刃与深色柄；身体另中多支箭.
-Confirmed visual evidence: 身份与外形：宽脸、仰头怒吼；黑发向后披散；黑色短髭与络腮短须；高大强壮。；服装：灰白短甲、紫色宽裤、金黑护腿、绿色腰布与红腰带。；主配色：灰白、紫、金黑、绿、红。；武器或标志装备：单手直剑／短刀，银色刃与深色柄；身体另中多支箭。.
+Must preserve: 宽脸、仰头怒吼；黑发向后披散；无胡须，上唇、下巴与两侧下颌保持干净；高大强壮；灰白短甲、紫色宽裤、金黑护腿、绿色腰布与红腰带；灰白、紫、金黑、绿、红；单手直剑／短刀，银色刃与深色柄；身体另中多支箭.
+Confirmed visual evidence: 身份与外形：宽脸、仰头怒吼；黑发向后披散；上唇、下巴与两侧下颌均无胡须，脸部深色线块仅为墨线阴影；高大强壮。；服装：灰白短甲、紫色宽裤、金黑护腿、绿色腰布与红腰带。；主配色：灰白、紫、金黑、绿、红。；武器或标志装备：单手直剑／短刀，银色刃与深色柄；身体另中多支箭。.
 Restrained structural inference: 人物背部服装按正侧面同材质、同层级连续闭合，不新增徽章、纹样或第二套配件。；被动作遮挡的左右肢体、鞋履和服装侧缝采用最克制、近似对称且易修改的补全。；武器或标志装备的反面、薄侧面与被裁切末端采用无额外装饰的结构性补全。.
 Unknown and editable: 剑反面、箭支来源和背甲闭合不可见；原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知。.
 Asymmetric three-dimensional anchors: No permanent one-sided costume anchor is confirmed in the current evidence record. Held weapons, mounts and action-driven cloth motion are not permanent body asymmetry; do not invent a new one-sided accessory.

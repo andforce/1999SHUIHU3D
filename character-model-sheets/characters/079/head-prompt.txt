@@ -7,9 +7,9 @@ Input images:
 
 Primary request: Create one clean landscape head model sheet of the exact same character, with exactly four equal-scale head-and-shoulder close-ups ordered left to right: pure front, pure back, pure character-left profile, pure character-right profile.
 
-Identity lock: 男性；中年；face 宽脸、仰头怒吼；hair/headwear 黑发向后披散；facial hair 黑色短髭与络腮短须.
-Must preserve: 脸型 宽脸、仰头怒吼；发型与头戴 黑发向后披散；胡须 黑色短髭与络腮短须；不得添加原图与现有六视图中不存在的头部非对称结构。.
-Confirmed visual evidence: 身份与外形：宽脸、仰头怒吼；黑发向后披散；黑色短髭与络腮短须；高大强壮.
+Identity lock: 男性；中年；face 宽脸、仰头怒吼；hair/headwear 黑发向后披散；facial hair 无胡须，上唇、下巴与两侧下颌保持干净，脸部深色线块仅为墨线阴影，不得表现成毛发.
+Must preserve: 脸型 宽脸、仰头怒吼；发型与头戴 黑发向后披散；无胡须，上唇、下巴与两侧下颌保持干净；不得添加原图与现有六视图中不存在的头部非对称结构。.
+Confirmed visual evidence: 身份与外形：宽脸、仰头怒吼；黑发向后披散；上唇、下巴与两侧下颌均无胡须，脸部深色线块仅为墨线阴影；高大强壮.
 Restrained structural inference for unseen rear details: 武器或标志装备的反面、薄侧面与被裁切末端采用无额外装饰的结构性补全.
 Unknown details that must remain simple, conservative, and easy to revise: 原图未展示的后脑、发型内层、头戴背面连接与远侧细节仍为未知，保持简单易改。.
 Asymmetric three-dimensional anchors: 没有已确认的单侧头部锚点；不得自行添加单侧头饰、伤痕或配件。. Lock every such feature to the same anatomical side and exact attachment point across all four views. Apply truthful far-side occlusion; never mirror, duplicate, swap sides, or move a feature toward the camera for visibility.
