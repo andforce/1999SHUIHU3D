@@ -7,9 +7,9 @@ Input images:
 
 Primary request: Create one clean landscape head model sheet of the exact same character, with exactly four equal-scale head-and-shoulder close-ups ordered left to right: pure front, pure back, pure character-left profile, pure character-right profile.
 
-Identity lock: 男性；中年；face 宽脸、浓眉、神情凶猛；hair/headwear 黑发大部被虎头皮帽遮挡；facial hair 黑色短须.
-Must preserve: 脸型 宽脸、浓眉、神情凶猛；发型与头戴 黑发大部被虎头皮帽遮挡；胡须 黑色短须；不得添加原图与现有六视图中不存在的头部非对称结构。.
-Confirmed visual evidence: 身份与外形：宽脸、浓眉、神情凶猛；黑发大部被虎头皮帽遮挡；黑色短须；高大强壮；服装：完整虎皮披风与虎头帽、深色短衣、白色宽裤、金属护臂.
+Identity lock: 男性；中年；face 宽脸、浓眉、神情凶猛；hair/headwear 黑发大部被虎头皮帽遮挡；facial hair 无胡须（原图确认；人脸保持干净下颌，不生成髭、山羊胡、络腮胡或胡茬）.
+Must preserve: 脸型 宽脸、浓眉、神情凶猛；发型与头戴 黑发大部被虎头皮帽遮挡；人脸完全无胡须、无髭、无山羊胡、无络腮胡和无胡茬；不得添加原图与现有六视图中不存在的头部非对称结构。.
+Confirmed visual evidence: 身份与外形：宽脸、浓眉、神情凶猛；黑发大部被虎头皮帽遮挡；人脸无胡须、无髭、无山羊胡和无络腮胡；高大强壮；服装：完整虎皮披风与虎头帽、深色短衣、白色宽裤、金属护臂.
 Restrained structural inference for unseen rear details: 武器或标志装备的反面、薄侧面与被裁切末端采用无额外装饰的结构性补全.
 Unknown details that must remain simple, conservative, and easy to revise: 原图未展示的后脑、发型内层、头戴背面连接与远侧细节仍为未知，保持简单易改。.
 Asymmetric three-dimensional anchors: 没有已确认的单侧头部锚点；不得自行添加单侧头饰、伤痕或配件。. Lock every such feature to the same anatomical side and exact attachment point across all four views. Apply truthful far-side occlusion; never mirror, duplicate, swap sides, or move a feature toward the camera for visibility.
@@ -20,7 +20,7 @@ Four-view geometry and consistency requirements:
 3. Pure character-left profile: exact 90-degree anatomical left side, one eye contour and one near ear when anatomically visible.
 4. Pure character-right profile: exact 90-degree anatomical right side, a genuinely different anatomical side from column 3, never a duplicate or horizontal flip.
 
-All four views must depict one identical person with the same skull volume, face length and width, brow, eye size and placement, nose length and projection, mouth, jaw, chin, ears, hairline, hair mass, facial-hair roots, headwear dimensions, neck thickness, collar layers, neutral expression, lighting, crop, and shoulder scale. Hair, beard, cloth tails, helmet parts, pins, ornaments, masks, scars, tattoos, earrings, and other head features keep the same count, shape, color, material, root, and three-dimensional connection. If Image 1 has the face covered, keep it covered in all valid views and do not invent or reveal a hidden face.
+All four views must depict one identical clean-shaven person with the same skull volume, face length and width, brow, eye size and placement, nose length and projection, mouth, jaw, chin, ears, hairline, hair mass, headwear dimensions, neck thickness, collar layers, neutral expression, lighting, crop, and shoulder scale. Never add a moustache, goatee, chin beard, side beard, beard shadow or stubble. Hair, cloth tails, helmet parts, pins, ornaments, masks, scars, tattoos, earrings, and other head features keep the same count, shape, color, material, root, and three-dimensional connection. Do not remove or alter the tiger pelt's fur or tiger whiskers. If Image 1 has the face covered, keep it covered in all valid views and do not invent or reveal a hidden face.
 
 画风固定为1999–2000年中国水浒英雄收藏卡式二维手绘商业插画。使用深黑或深褐色、粗细有变化且略带手绘起伏的墨线：外轮廓醒目，内部结构线清楚。保留原卡高饱和但非荧光的综合色彩和鲜明冷暖对比，以清晰基色色块塑造造型，每种主要材质使用约2至4档可辨认的结构阴影与高光；硬边色块为主，局部结合马克笔、水彩/水粉、喷笔式柔和过渡、短排线和干笔纹理。人物保持成年英雄漫画感、棱角明确的五官和扎实人体结构；皮肤、布料、金属、皮革、木材和毛发都以简洁的方向性手绘笔触区分。整体必须保持清楚二维轮廓、纸本手绘质感和复古商业卡画气质，但画面本身干净高清，不模拟旧印刷损伤。所有视角使用完全一致的描线、综合色阶、纹理密度和统一光源。
 

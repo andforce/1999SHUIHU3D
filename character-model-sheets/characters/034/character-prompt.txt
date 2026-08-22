@@ -7,13 +7,13 @@ Strict left-to-right order: (1) based on the left profile, rotate the whole char
 
 Relative 45-degree geometry is mandatory. Column 1 derives only from column 2 by rotating the entire body counterclockwise 45 degrees around the vertical axis. Column 6 derives only from column 5 by rotating the entire body clockwise 45 degrees. Head, ribcage, pelvis, knees and both feet rotate together. Columns 1 and 6 must show opposite near cheeks, ears, shoulders, costume/armor perspective and far-limb occlusion. Never copy, reuse, horizontally flip or collapse either column into a front or pure profile.
 
-Identity: gender presentation 男性; apparent age 中年; face 宽脸、浓眉、神情凶猛; hair 黑发大部被虎头皮帽遮挡; facial hair 黑色短须; body type 高大强壮; proportions 保持原图人物独有的高矮、胖瘦和头身比例，不为批量整齐而统一体型.
+Identity: gender presentation 男性; apparent age 中年; face 宽脸、浓眉、神情凶猛; hair 黑发大部被虎头皮帽遮挡; facial hair 无胡须（原图确认；人脸保持干净下颌，不生成髭、山羊胡、络腮胡或胡茬）; body type 高大强壮; proportions 保持原图人物独有的高矮、胖瘦和头身比例，不为批量整齐而统一体型.
 Costume layers: 完整虎皮披风与虎头帽；深色短衣；白色宽裤；金属护臂.
 Palette: 虎纹橙黑；白；棕；银.
 Materials: 织物按原图褶皱与厚薄表现；金属、皮革、毛皮或木材仅在原图可见时保留相应质感.
 Patterns and symbols: 只保留原图清楚可见的纹样、甲片分格和装饰位置，不生成文字或新徽记.
 Must preserve: 宽脸、浓眉、神情凶猛；黑发大部被虎头皮帽遮挡；高大强壮；完整虎皮披风与虎头帽、深色短衣、白色宽裤、金属护臂；虎纹橙黑、白、棕、银；长柄钢叉／猎叉，以及弓与成组白羽箭.
-Confirmed visual evidence: 身份与外形：宽脸、浓眉、神情凶猛；黑发大部被虎头皮帽遮挡；黑色短须；高大强壮。；服装：完整虎皮披风与虎头帽、深色短衣、白色宽裤、金属护臂。；主配色：虎纹橙黑、白、棕、银。；武器或标志装备：长柄钢叉／猎叉，以及弓与成组白羽箭。.
+Confirmed visual evidence: 身份与外形：宽脸、浓眉、神情凶猛；黑发大部被虎头皮帽遮挡；人脸无胡须、无髭、无山羊胡和无络腮胡；高大强壮。；服装：完整虎皮披风与虎头帽、深色短衣、白色宽裤、金属护臂。；主配色：虎纹橙黑、白、棕、银。；武器或标志装备：长柄钢叉／猎叉，以及弓与成组白羽箭。.
 Restrained structural inference: 人物背部服装按正侧面同材质、同层级连续闭合，不新增徽章、纹样或第二套配件。；被动作遮挡的左右肢体、鞋履和服装侧缝采用最克制、近似对称且易修改的补全。；武器或标志装备的反面、薄侧面与被裁切末端采用无额外装饰的结构性补全。.
 Unknown and editable: 虎皮背面纹样、钢叉完整叉头与弓的收纳关系不可见；原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知。.
 Asymmetric three-dimensional anchors: No permanent one-sided costume anchor is confirmed in the current evidence record. Held weapons, mounts and action-driven cloth motion are not permanent body asymmetry; do not invent a new one-sided accessory.
@@ -23,4 +23,4 @@ Anchor rule: every recorded asymmetric feature stays permanently fixed to its an
 Composition: exactly six full-body figures and nothing else, fully visible and uncropped, identical height, head-body ratio, head-top line and foot baseline, equal spacing, neutral natural stance, arms slightly away from torso, hands relaxed. Keep permanent worn accessories and scabbards only when visible in Image 1. Every held weapon, signature prop, mount and pet must be completely absent from this character sheet; they will be generated on separate sheets. Do not add a second row or any object study.
 
 Style/medium: faithful to Image 1's bold black ink contours, late-1990s hand-painted cel shading and watercolor coloring; clean warm-light-gray production-sheet presentation matching Image 3, not photorealistic.
-Constraints: same identity, face, hair, facial hair, body type, garment layers, palette, patterns, armor and fixed accessories in every view; pure side/front/back views structurally readable; inferred back details minimal and undecorated. No title, labels, letters, watermark, scenery, action effects, extra people, extra animals, duplicate weapons, fused props, extra limbs, accidental mirroring or cropping.
+Constraints: same identity, face, clean-shaven human face, hair, body type, garment layers, palette, patterns, armor and fixed accessories in every view; never add a moustache, goatee, beard, side beard, beard shadow or stubble; pure side/front/back views structurally readable; inferred back details minimal and undecorated. No title, labels, letters, watermark, scenery, action effects, extra people, extra animals, duplicate weapons, fused props, extra limbs, accidental mirroring or cropping.
