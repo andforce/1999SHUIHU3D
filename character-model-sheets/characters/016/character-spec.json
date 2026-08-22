@@ -12,10 +12,12 @@
     ],
     "inferred": [
       "人物背部服装按正侧面同材质、同层级连续闭合，不新增徽章、纹样或第二套配件。",
-      "被动作遮挡的左右肢体、鞋履和服装侧缝采用最克制、近似对称且易修改的补全。"
+      "被动作遮挡的左右肢体、鞋履和服装侧缝采用最克制、近似对称且易修改的补全。",
+      "原图裁切了飞跃动作的脚部和远侧腿；姿态版保留可见腿的斜向延伸，并将被遮挡腿克制补全为屈膝后收，作为易修改的结构性推断。"
     ],
     "unknown": [
       "背甲闭合、远侧肩甲和鞋后结构不可见",
+      "原画下缘之外的双脚精确朝向、被遮挡腿的屈曲角度与前后深度无法确认。",
       "原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知。"
     ]
   },
@@ -106,7 +108,36 @@
       "back",
       "left-profile",
       "right-profile"
-    ]
+    ],
+    "variants": [
+      {
+        "id": "original-pose-turnaround",
+        "kind": "original-pose-turnaround",
+        "status": "approved",
+        "output": "character-turnaround-original-pose.png",
+        "purpose": "独立保留原画飞跃出掌动作、双手手势和马尾衣带动态的六视图，不覆盖默认中立人物六视图。",
+        "views": [
+          "left-profile-counterclockwise-45-degree",
+          "left-profile",
+          "front",
+          "back",
+          "right-profile",
+          "right-profile-clockwise-45-degree"
+        ],
+        "pose": "冻结原图腾空前冲动作：躯干沿斜线前倾并轻微扭转，角色自身右臂完全向前上方伸展、右手保持原画屈指掌势；左肘屈曲、左手张开护在胸肩前；头转向右手出掌方向并保持坚决视线。原图可见腿沿身体斜线向下延伸，被裁切的另一腿按证据记录屈膝后收。",
+        "costume_motion": "高束黑色马尾、腰后白紫披带和衣摆沿原画同一后掠方向展开，根部连接、弧线和层叠关系随冻结姿态共同旋转，不按列改变飘向。",
+        "entity_relations": "无武器、坐骑或宠物；六列只旋转同一人物、四肢、手指、马尾、披带和衣摆组合体，不添加火焰、光球或其他特效实体。",
+        "background": "plain warm light gray neutral; no pink flame aura, speed streaks, colored orbs, scene text, labels, or border"
+      }
+    ],
+    "style_profile": {
+      "id": "xiaohuanxiong-shuihu-1999-2000-hand-painted-card",
+      "status": "approved",
+      "style_anchor_reference": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+      "notes": [
+        "2026-08-21 用户确认原画姿态版三个样例；016 仅作为描线、上色、纹理密度、统一光源和版式完成度锚点，不提供当前角色设计。"
+      ]
+    }
   },
   "review": {
     "approved_by": "",
@@ -114,7 +145,9 @@
     "notes": [
       "2026-08-19 已迁移为新版六视图并进入全量重新生成。",
       "旧版人物与实体图片已保留为递增版本备份。",
-      "2026-08-20 已完成新版人物、独立实体与全量 QA 联系表复核；保持 generated，等待用户批准。"
+      "2026-08-20 已完成新版人物、独立实体与全量 QA 联系表复核；保持 generated，等待用户批准。",
+      "2026-08-21 新增独立原画姿态版六视图 character-turnaround-original-pose.png：冻结腾空出掌、双手手势、腿部前后关系、马尾与白紫披带动态；默认中立六视图保持不变，等待用户确认样例。",
+      "2026-08-21 用户确认原画姿态版样例标准，变体状态更新为 approved。"
     ]
   }
 }

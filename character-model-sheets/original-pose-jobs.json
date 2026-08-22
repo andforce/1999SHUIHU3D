@@ -1,0 +1,1202 @@
+{
+  "count": 101,
+  "style_anchor": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+  "jobs": [
+    {
+      "id": "004",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/004/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/004.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/004/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/004/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/004/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/004/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "006",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/006/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/006.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/006/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/006/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/006/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/006/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "008",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/008/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/008.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/008/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/008/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/008/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/008/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "010",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/010/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/010.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/010/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/010/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/010/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/010/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "011",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/011/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/011.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/011/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/011/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/011/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/011/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "012",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/012/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/012.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/012/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/012/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/012/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/012/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "013",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/013/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/013.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/013/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/013/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/013/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/013/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "014",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/014/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/014.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/014/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/014/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/014/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/014/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "015",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/015/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/015.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/015/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/015/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/015/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/015/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "017",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/017/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/017.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/017/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/017/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/017/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/017/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "018",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/018/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/018.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/018/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/018/weapon-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/018/mount-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/018/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "019",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/019/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/019.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/019/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/019/weapon-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/019/mount-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/019/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "020",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/020/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/020.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/020/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/020/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/020/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/020/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "021",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/021/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/021.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/021/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/021/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/021/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/021/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "022",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/022/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/022.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/022/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/022/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/022/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/022/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "023",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/023/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/023.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/023/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/023/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/023/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/023/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "024",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/024/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/024.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/024/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/024/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/024/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "025",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/025/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/025.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/025/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/025/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/025/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/025/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "026",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/026/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/026.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/026/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/026/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/026/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/026/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "027",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/027/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/027.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/027/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/027/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/027/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/027/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "028",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/028/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/028.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/028/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/028/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/028/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/028/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "029",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/029/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/029.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/029/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/029/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/029/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/029/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "030",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/030/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/030.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/030/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/030/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/030/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/030/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "031",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/031/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/031.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/031/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/031/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/031/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/031/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "032",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/032/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/032.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/032/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/032/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/032/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/032/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "033",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/033/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/033.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/033/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/033/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/033/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/033/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "034",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/034/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/034.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/034/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/034/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/034/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/034/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "035",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/035/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/035.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/035/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/035/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/035/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/035/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "036",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/036/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/036.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/036/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/036/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/036/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/036/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "037",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/037/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/037.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/037/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/037/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/037/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/037/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "038",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/038/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/038.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/038/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/038/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/038/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/038/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "039",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/039/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/039.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/039/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/039/weapon-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/039/mount-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/039/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "040",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/040/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/040.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/040/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/040/weapon-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/040/mount-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/040/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "041",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/041/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/041.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/041/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/041/weapon-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/041/mount-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/041/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "042",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/042/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/042.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/042/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/042/weapon-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/042/mount-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/042/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "043",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/043/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/043.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/043/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/043/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/043/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/043/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "044",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/044/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/044.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/044/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/044/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/044/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "045",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/045/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/045.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/045/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/045/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/045/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/045/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "046",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/046/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/046.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/046/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/046/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/046/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/046/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "047",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/047/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/047.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/047/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/047/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/047/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/047/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "048",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/048/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/048.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/048/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/048/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/048/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "049",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/049/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/049.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/049/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/049/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/049/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/049/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "050",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/050/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/050.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/050/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/050/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/050/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/050/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "051",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/051/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/051.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/051/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/051/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/051/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/051/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "052",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/052/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/052.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/052/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/052/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/052/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/052/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "053",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/053/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/053.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/053/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/053/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/053/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/053/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "054",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/054/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/054.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/054/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/054/weapon-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/054/mount-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/054/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "055",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/055/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/055.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/055/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/055/weapon-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/055/mount-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/055/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "056",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/056/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/056.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/056/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/056/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/056/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "057",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/057/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/057.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/057/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/057/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/057/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/057/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "058",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/058/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/058.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/058/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/058/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/058/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/058/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "059",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/059/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/059.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/059/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/059/weapon-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/059/mount-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/059/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "060",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/060/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/060.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/060/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/060/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/060/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/060/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "061",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/061/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/061.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/061/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/061/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/061/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/061/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "062",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/062/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/062.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/062/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/062/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/062/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/062/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "063",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/063/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/063.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/063/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/063/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/063/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/063/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "064",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/064/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/064.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/064/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/064/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/064/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/064/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "065",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/065/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/065.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/065/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/065/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/065/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/065/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "066",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/066/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/066.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/066/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/066/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/066/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/066/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "067",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/067/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/067.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/067/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/067/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/067/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/067/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "068",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/068/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/068.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/068/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/068/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/068/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/068/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "069",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/069/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/069.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/069/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/069/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/069/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "070",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/070/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/070.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/070/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/070/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/070/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/070/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "071",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/071/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/071.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/071/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/071/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/071/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/071/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "072",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/072/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/072.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/072/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/072/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/072/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/072/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "073",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/073/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/073.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/073/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/073/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/073/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/073/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "074",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/074/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/074.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/074/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/074/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/074/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/074/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "075",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/075/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/075.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/075/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/075/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/075/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/075/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "076",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/076/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/076.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/076/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/076/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/076/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/076/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "077",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/077/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/077.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/077/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/077/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/077/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/077/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "078",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/078/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/078.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/078/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/078/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/078/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/078/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "079",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/079/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/079.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/079/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/079/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/079/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/079/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "080",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/080/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/080.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/080/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/080/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/080/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/080/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "081",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/081/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/081.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/081/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/081/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/081/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/081/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "082",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/082/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/082.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/082/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/082/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/082/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/082/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "083",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/083/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/083.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/083/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/083/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/083/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/083/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "084",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/084/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/084.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/084/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/084/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/084/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/084/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "085",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/085/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/085.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/085/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/085/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/085/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "086",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/086/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/086.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/086/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/086/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/086/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "087",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/087/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/087.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/087/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/087/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/087/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "088",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/088/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/088.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/088/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/088/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/088/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/088/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "089",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/089/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/089.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/089/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/089/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/089/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "090",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/090/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/090.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/090/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/090/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/090/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "091",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/091/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/091.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/091/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/091/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/091/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "092",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/092/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/092.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/092/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/092/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/092/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "093",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/093/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/093.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/093/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/093/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/093/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/093/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "094",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/094/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/094.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/094/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/094/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/094/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/094/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "095",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/095/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/095.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/095/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/095/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/095/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/095/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "096",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/096/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/096.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/096/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/096/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/096/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/096/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "097",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/097/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/097.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/097/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/097/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/097/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/097/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "098",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/098/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/098.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/098/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/098/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/098/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "099",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/099/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/099.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/099/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/099/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/099/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/099/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "100",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/100/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/100.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/100/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/100/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/100/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/100/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "101",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/101/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/101.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/101/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/101/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/101/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "102",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/102/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/102.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/102/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/102/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/102/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/102/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "103",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/103/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/103.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/103/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/103/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/103/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/103/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "104",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/104/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/104.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/104/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/104/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/104/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/104/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "105",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/105/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/105.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/105/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/105/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/105/weapon-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/105/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "106",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/106/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/106.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/106/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/106/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/106/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "107",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/107/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/107.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/107/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/107/head-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/107/character-turnaround-original-pose.png"
+    },
+    {
+      "id": "108",
+      "prompt": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/108/original-pose-prompt.txt",
+      "references": [
+        "/Users/wdy/github/1999SHUIHU3D/images/108.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/108/character-turnaround.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/108/weapon-sheet.png",
+        "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/108/mount-sheet.png"
+      ],
+      "output": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/108/character-turnaround-original-pose.png"
+    }
+  ]
+}

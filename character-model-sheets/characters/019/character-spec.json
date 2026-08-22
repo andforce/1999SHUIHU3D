@@ -120,6 +120,35 @@
       "back",
       "left-profile",
       "right-profile"
+    ],
+    "style_profile": {
+      "id": "xiaohuanxiong-shuihu-1999-2000-hand-painted-card",
+      "status": "approved",
+      "style_anchor_reference": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+      "notes": [
+        "2026-08-21 用户确认原画姿态版三个样例；016 仅作为描线、上色、纹理密度、统一光源和版式完成度锚点，不提供当前角色设计。"
+      ]
+    },
+    "variants": [
+      {
+        "id": "original-pose-turnaround",
+        "kind": "original-pose-turnaround",
+        "status": "generated",
+        "output": "character-turnaround-original-pose.png",
+        "purpose": "保留原画动作、服装动态、手持物及人物与实体接触关系的独立六视图，不覆盖默认中立结构版。",
+        "views": [
+          "left-profile-counterclockwise-45-degree",
+          "left-profile",
+          "front",
+          "back",
+          "right-profile",
+          "right-profile-clockwise-45-degree"
+        ],
+        "pose": "原画具体姿态：侧向疾驰灰马，骑手伏低躯干并将长弯刀水平向前伸出，另一手牵缰，红披风与马鬃统一后掠。冻结原画可见的骑乘动作：保持人物头部、视线、双肩、双臂、手势、胸腔、骨盆、双腿夹持、膝踝角度、脚在马镫中的位置，以及坐骑头颈、躯干和四肢姿态。",
+        "costume_motion": "冻结原画可见的头发、头巾、披风、披帛、衣袖、衣摆、飘带及附着部件的根部连接、弧线、层叠和飘动方向；若原图没有明显飘动，则保持其自然静态。六列不得重新计算风向。",
+        "entity_relations": "人物、同一匹坐骑、鞍具、缰绳、马镫、腿部夹持、手部牵引以及原画中持续持握的武器组成一个冻结组合；所有接触点共同旋转，不换手、不换腿、不移动坐骑。",
+        "background": "plain warm light gray neutral; no narrative scenery, effects, text, labels, border, or watermark"
+      }
     ]
   },
   "review": {
@@ -129,7 +158,8 @@
       "2026-08-19 已迁移为新版六视图并进入全量重新生成。",
       "旧版人物与实体图片已保留为递增版本备份。",
       "2026-08-20 已完成新版人物、独立实体与全量 QA 联系表复核；保持 generated，等待用户批准。",
-      "2026-08-21 按用户标注完成局部返修：人物六视图移除背部箭筒，返修前主文件保存为 character-turnaround-v2.png；保持 generated，等待用户批准。"
+      "2026-08-21 按用户标注完成局部返修：人物六视图移除背部箭筒，返修前主文件保存为 character-turnaround-v2.png；保持 generated，等待用户批准。",
+      "2026-08-21 已生成独立原画姿态版六视图 character-turnaround-original-pose.png；默认中立站姿 character-turnaround.png 保持不变；当前变体为 generated，等待用户逐项批准。"
     ]
   }
 }

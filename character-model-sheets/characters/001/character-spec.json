@@ -30,7 +30,7 @@
       "face": "窄长椭圆脸，鼻梁直，浓直上扬眉，眼型细长，神情威严克制",
       "hair": "头发大部被黑色礼冠遮住，仅鬓角可见深黑发色",
       "facial_hair": "细长上髭、下颌两侧短须与尖山羊胡，均为黑色",
-    "body_type": "高大健壮、肩背宽、四肢有明显肌肉",
+      "body_type": "高大健壮、肩背宽、四肢有明显肌肉",
       "body_proportions": "约七至七点五头身，腿部甲胄体积明显"
     },
     "asymmetric_anchors": [],
@@ -86,12 +86,16 @@
     "mount": {
       "presence": "absent",
       "items": [],
-      "notes": ["原图未见坐骑。"]
+      "notes": [
+        "原图未见坐骑。"
+      ]
     },
     "pet": {
       "presence": "absent",
       "items": [],
-      "notes": ["原图未见宠物。"]
+      "notes": [
+        "原图未见宠物。"
+      ]
     }
   },
   "generation": {
@@ -122,6 +126,8 @@
     "variants": [
       {
         "id": "original-pose-turnaround",
+        "kind": "original-pose-turnaround",
+        "status": "approved",
         "output": "character-turnaround-original-pose.png",
         "purpose": "独立保留原图动态姿态、飘动服装与白色长带状道具关系的六视图，不覆盖默认中立站姿六视图。",
         "views": [
@@ -135,9 +141,18 @@
         "pose": "冻结原图姿态：角色自身右臂高举、食指指天，左臂向外握住白色长带状道具一端；双腿大幅跨步下沉，躯干扭转、下巴上抬。",
         "costume_motion": "冻结原图红袍、披帛与衣摆的迎风展开轮廓，随整个人物共同旋转，不在不同视角重新设计飘动方向。",
         "prop_relation": "同一件白色长带状道具以弧形横跨人物后方；左手握持端、另一端及两个红色圆珠端帽的位置关系随整套姿态共同旋转。",
+        "entity_relations": "角色自身左手持续握持同一件白色长带状道具；道具弧线、两端红色圆珠端帽和身体相对路径在六个观察方向中保持不变。",
         "background": "plain warm light gray neutral; no lightning, rocks, scene text, or labels"
       }
-    ]
+    ],
+    "style_profile": {
+      "id": "xiaohuanxiong-shuihu-1999-2000-hand-painted-card",
+      "status": "approved",
+      "style_anchor_reference": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+      "notes": [
+        "2026-08-21 用户确认原画姿态版三个样例；016 仅作为描线、上色、纹理密度、统一光源和版式完成度锚点，不提供当前角色设计。"
+      ]
+    }
   },
   "review": {
     "approved_by": "",
@@ -148,7 +163,8 @@
       "2026-08-21 用户依据放大原图确认：冠后簪状冠饰左右对称、每侧 8 根，簪头不是圆球；据此废止此前的单侧非对称推断并返修头部表。",
       "2026-08-21 已将同一套左右对称、每侧 8 根、异形簪头的冠饰同步返修到人物全身六视图。",
       "2026-08-21 新增独立原画姿态版六视图 character-turnaround-original-pose.png；默认中立站姿 character-turnaround.png 保持不变。",
-      "待用户确认白色长条道具的类别名称。"
+      "待用户确认白色长条道具的类别名称。",
+      "2026-08-21 用户确认原画姿态版样例标准，变体状态更新为 approved。"
     ]
   }
 }

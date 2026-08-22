@@ -137,13 +137,44 @@
       "back",
       "left-profile",
       "right-profile"
-    ]
+    ],
+    "variants": [
+      {
+        "id": "original-pose-turnaround",
+        "kind": "original-pose-turnaround",
+        "status": "approved",
+        "output": "character-turnaround-original-pose.png",
+        "purpose": "独立保留原画骑乘冲锋、旗枪握持、缰绳控制与战马腾跃接触关系的六视图，不覆盖默认中立人物六视图。",
+        "views": [
+          "left-profile-counterclockwise-45-degree",
+          "left-profile",
+          "front",
+          "back",
+          "right-profile",
+          "right-profile-clockwise-45-degree"
+        ],
+        "pose": "冻结原图骑乘动作：骑手坐于鞍中，双腿夹持马腹、膝部屈曲、双脚保持在马镫；角色自身右臂向前外伸握旗枪，左臂屈曲向后下方牵引缰绳，胸腔略前倾并朝战马前进方向注视。",
+        "costume_motion": "红色盔缨、红披风和破边战旗统一向战马后方飘展；所有根部连接、飘动曲线和破边轮廓随整套骑乘组合共同旋转，不按列重算风向。",
+        "entity_relations": "同一匹白色战马以后腿承重腾起、两条前腿抬起屈曲、颈部上弓；骑手臀部接触鞍座、双腿夹持、双脚入镫。角色自身右手固定握住同一根旗枪，左手固定牵引同一组棕红缰绳；枪杆、旗面、缰绳、鞍具和所有接触点跨视角不换手、不漂移、不复制。",
+        "background": "plain warm light gray neutral; no city silhouette, glow, smoke, scene text, labels, or border"
+      }
+    ],
+    "style_profile": {
+      "id": "xiaohuanxiong-shuihu-1999-2000-hand-painted-card",
+      "status": "approved",
+      "style_anchor_reference": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets/characters/016/character-turnaround-original-pose.png",
+      "notes": [
+        "2026-08-21 用户确认原画姿态版三个样例；016 仅作为描线、上色、纹理密度、统一光源和版式完成度锚点，不提供当前角色设计。"
+      ]
+    }
   },
   "review": {
     "approved_by": "",
     "approved_at": "",
     "notes": [
-      "2026-08-19 按新版六视图标准重新生成角色、旗枪与坐骑设定表；旧版成果保留为版本备份。"
+      "2026-08-19 按新版六视图标准重新生成角色、旗枪与坐骑设定表；旧版成果保留为版本备份。",
+      "2026-08-21 新增独立原画姿态版六视图 character-turnaround-original-pose.png：冻结骑乘腾跃、角色自身右手旗枪、左手缰绳、马镫夹持和披风旗面动态；默认中立六视图保持不变，等待用户确认样例。",
+      "2026-08-21 用户确认原画姿态版样例标准，变体状态更新为 approved。"
     ]
   }
 }
