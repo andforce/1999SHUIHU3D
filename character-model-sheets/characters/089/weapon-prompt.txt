@@ -1,6 +1,6 @@
 Use case: stylized-concept
 Asset type: professional game/animation standalone weapon or signature-prop design sheet
-Input images: Image 1 is the sole primary visual evidence for character 088's entity. Image 2 is the newly generated character six-view and determines owner identity, scale and style. Image 3 is the legacy entity sheet only as a secondary continuity reference; correct its mistakes and do not copy labels or old layout.
+Input images: Image 1 is the sole primary visual evidence for character 089's entity. Image 2 is the newly generated character six-view and determines owner identity, scale and style. Image 3 is the legacy entity sheet only as a secondary continuity reference; correct its mistakes and do not copy labels or old layout.
 Primary request: Create one clean landscape design sheet for: 铁匠钳、锻锤与正在锻造的长刀胚组合工具. Preserve only the silhouette, colors, materials, patterns, grip and attachment relationships supported by Image 1.
 Required views: complete main face, complete reverse, true thinnest side profile, key construction details, natural grip/use state, storage or body-attachment state when applicable, and a small full-body owner comparison for accurate scale. Every repeated view must depict the same entity and dimensions.
 Entity notes: 按可独立建模、拿取或动画化的武器或标志装备拆分独立设定表。；只保留原图可见轮廓、配色、材质、握持或连接关系；不可见反面作最简补全。.

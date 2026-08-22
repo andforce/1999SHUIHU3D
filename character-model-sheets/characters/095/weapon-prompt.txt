@@ -4,7 +4,7 @@ Input images: Image 1 is the sole primary visual evidence for character 095's en
 Primary request: Create one clean landscape design sheet for: 巨型长柄宽刃鬼头刀／锯齿大刀，银刃带孔纹与短锯齿. Preserve only the silhouette, colors, materials, patterns, grip and attachment relationships supported by Image 1.
 Required views: complete main face, complete reverse, true thinnest side profile, key construction details, natural grip/use state, storage or body-attachment state when applicable, and a small full-body owner comparison for accurate scale. Every repeated view must depict the same entity and dimensions.
 Entity notes: 按可独立建模、拿取或动画化的武器或标志装备拆分独立设定表。；只保留原图可见轮廓、配色、材质、握持或连接关系；不可见反面作最简补全。.
-Confirmed evidence: 身份与外形：面部部分被红头巾遮挡、目光凶狠；黑发藏于红色头巾；黑色短须；极魁梧、裸臂。；服装：全红宽袍与裤装、粗麻腰绳、红头巾和黑鞋。；主配色：红、银、麻色、黑。；武器或标志装备：巨型长柄宽刃鬼头刀／锯齿大刀，银刃带孔纹与短锯齿。.
+Confirmed evidence: 身份与外形：面部部分被红头巾遮挡、目光凶狠；黑发藏于红色头巾；面部干净、无胡须；极魁梧、裸臂。；服装：全红宽袍与裤装、粗麻腰绳、红头巾和黑鞋。；主配色：红、银、麻色、黑。；武器或标志装备：巨型长柄宽刃鬼头刀／锯齿大刀，银刃带孔纹与短锯齿。.
 Unknown/inferred restraint: 刀反面孔纹、柄尾和红袍背面不可见；原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知。; complete unseen reverse, edge and mechanism minimally with no unsupported ornament.
 Style: bold black ink contours, late-1990s hand-painted cel shading and watercolor coloring, warm light-gray neutral production-sheet background, even working light.
-Constraints: all complete views fully visible and uncropped; no title, labels, letters, measurements, watermark, scenery, action effects, unrelated props, duplicate entities, fused hands, extra blades, extra parts or invented decoration.
+Constraints: the owner comparison figures must be clean-shaven with no beard, goatee, mustache, stubble or dark facial-hair patch; all complete views fully visible and uncropped; no title, labels, letters, measurements, watermark, scenery, action effects, unrelated props, duplicate entities, fused hands, extra blades, extra parts or invented decoration.

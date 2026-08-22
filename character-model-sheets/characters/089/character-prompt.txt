@@ -7,15 +7,15 @@ Strict left-to-right order: (1) based on the left profile, rotate the whole char
 
 Relative 45-degree geometry is mandatory. Column 1 derives only from column 2 by rotating the entire body counterclockwise 45 degrees around the vertical axis. Column 6 derives only from column 5 by rotating the entire body clockwise 45 degrees. Head, ribcage, pelvis, knees and both feet rotate together. Columns 1 and 6 must show opposite near cheeks, ears, shoulders, costume/armor perspective and far-limb occlusion. Never copy, reuse, horizontally flip or collapse either column into a front or pure profile.
 
-Identity: gender presentation 男性; apparent age 青年; face 尖脸、眉目夸张、露齿大笑; hair 浅绿色超长直发披肩; facial hair 无胡须; body type 修长; proportions 保持原图人物独有的高矮、胖瘦和头身比例，不为批量整齐而统一体型.
-Costume layers: 深红紫宽袖长袍；白色大型软帽／披巾与黑色内衣.
-Palette: 浅绿；深红紫；白；黑.
+Identity: gender presentation 男性; apparent age 中年; face 方脸、粗眉、神情严厉; hair 短金棕发向上竖立; facial hair 金棕短须; body type 极魁梧、裸臂并有烧灼斑痕; proportions 保持原图人物独有的高矮、胖瘦和头身比例，不为批量整齐而统一体型.
+Costume layers: 绿色工匠围裙；黄色宽裤；绿色厚手套与黑色护腕.
+Palette: 绿；黄；黑；金棕；银.
 Materials: 织物按原图褶皱与厚薄表现；金属、皮革、毛皮或木材仅在原图可见时保留相应质感.
 Patterns and symbols: 只保留原图清楚可见的纹样、甲片分格和装饰位置，不生成文字或新徽记.
-Must preserve: 尖脸、眉目夸张、露齿大笑；浅绿色超长直发披肩；修长；深红紫宽袖长袍、白色大型软帽／披巾与黑色内衣；浅绿、深红紫、白、黑.
-Confirmed visual evidence: 身份与外形：尖脸、眉目夸张、露齿大笑；浅绿色超长直发披肩；无胡须；修长。；服装：深红紫宽袖长袍、白色大型软帽／披巾与黑色内衣。；主配色：浅绿、深红紫、白、黑。.
-Restrained structural inference: 人物背部服装按正侧面同材质、同层级连续闭合，不新增徽章、纹样或第二套配件。；被动作遮挡的左右肢体、鞋履和服装侧缝采用最克制、近似对称且易修改的补全。.
-Unknown and editable: 软帽完整形状、长发背面层次和袍服下装被裁切；原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知。.
+Must preserve: 方脸、粗眉、神情严厉；短金棕发向上竖立；极魁梧、裸臂并有烧灼斑痕；绿色工匠围裙、黄色宽裤、绿色厚手套与黑色护腕；绿、黄、黑、金棕、银；铁匠钳、锻锤与正在锻造的长刀胚组合工具.
+Confirmed visual evidence: 身份与外形：方脸、粗眉、神情严厉；短金棕发向上竖立；金棕短须；极魁梧、裸臂并有烧灼斑痕。；服装：绿色工匠围裙、黄色宽裤、绿色厚手套与黑色护腕。；主配色：绿、黄、黑、金棕、银。；武器或标志装备：铁匠钳、锻锤与正在锻造的长刀胚组合工具。.
+Restrained structural inference: 人物背部服装按正侧面同材质、同层级连续闭合，不新增徽章、纹样或第二套配件。；被动作遮挡的左右肢体、鞋履和服装侧缝采用最克制、近似对称且易修改的补全。；武器或标志装备的反面、薄侧面与被裁切末端采用无额外装饰的结构性补全。.
+Unknown and editable: 工具完整数量、围裙背带和刀胚最终形制不可见；原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知。.
 Asymmetric three-dimensional anchors: No permanent one-sided costume anchor is confirmed in the current evidence record. Held weapons, mounts and action-driven cloth motion are not permanent body asymmetry; do not invent a new one-sided accessory.
 
 Anchor rule: every recorded asymmetric feature stays permanently fixed to its anatomical side and three-dimensional attachment point. Rotate only the observer/body orientation; never swap sides, mirror, duplicate or move a far-side feature toward the camera. Real occlusion has priority over full visibility.

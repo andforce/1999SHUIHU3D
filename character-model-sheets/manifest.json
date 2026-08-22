@@ -2,7 +2,7 @@
   "schema_version": 1,
   "source_dir": "/Users/wdy/github/1999SHUIHU3D/images",
   "project_dir": "/Users/wdy/github/1999SHUIHU3D/character-model-sheets",
-  "updated_at": "2026-08-22T12:04:58.403200+00:00",
+  "updated_at": "2026-08-22T13:25:45.369012+00:00",
   "character_count": 108,
   "characters": [
     {
@@ -1928,7 +1928,7 @@
       "sha256": "4be15178ab7b103e5d18b48c771fe60d2650c9769e350fe88a0951a1f9a21ffe",
       "status": "generated",
       "entities": {
-        "weapon": "present",
+        "weapon": "absent",
         "mount": "absent",
         "pet": "absent"
       },
@@ -1950,7 +1950,7 @@
       "sha256": "5bf4a76779598d1a5f2262ab2e50852e17611e424881472a6bb228f14686d456",
       "status": "generated",
       "entities": {
-        "weapon": "absent",
+        "weapon": "present",
         "mount": "absent",
         "pet": "absent"
       },

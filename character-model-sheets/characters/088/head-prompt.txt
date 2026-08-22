@@ -7,11 +7,11 @@ Input images:
 
 Primary request: Create one clean landscape head model sheet of the exact same character, with exactly four equal-scale head-and-shoulder close-ups ordered left to right: pure front, pure back, pure character-left profile, pure character-right profile.
 
-Identity lock: 男性；中年；face 方脸、粗眉、神情严厉；hair/headwear 短金棕发向上竖立；facial hair 金棕短须.
-Must preserve: 脸型 方脸、粗眉、神情严厉；发型与头戴 短金棕发向上竖立；胡须 金棕短须；不得添加原图与现有六视图中不存在的头部非对称结构。.
-Confirmed visual evidence: 身份与外形：方脸、粗眉、神情严厉；短金棕发向上竖立；金棕短须；极魁梧、裸臂并有烧灼斑痕.
-Restrained structural inference for unseen rear details: 武器或标志装备的反面、薄侧面与被裁切末端采用无额外装饰的结构性补全.
-Unknown details that must remain simple, conservative, and easy to revise: 原图未展示的后脑、发型内层、头戴背面连接与远侧细节仍为未知，保持简单易改。.
+Identity lock: 男性；青年；face 尖脸、眉目夸张、露齿大笑；hair/headwear 浅绿色超长直发披肩；facial hair 无胡须.
+Must preserve: 脸型 尖脸、眉目夸张、露齿大笑；发型与头戴 浅绿色超长直发披肩；胡须 无胡须；白色大型软帽和红袍开口侧保持一致.
+Confirmed visual evidence: 身份与外形：尖脸、眉目夸张、露齿大笑；浅绿色超长直发披肩；无胡须；修长；服装：深红紫宽袖长袍、白色大型软帽／披巾与黑色内衣.
+Restrained structural inference for unseen rear details: 后脑、发型或头戴背面只按现有六视图作最克制的连续闭合，不增加图案或配件。.
+Unknown details that must remain simple, conservative, and easy to revise: 软帽完整形状、长发背面层次和袍服下装被裁切.
 Asymmetric three-dimensional anchors: 没有已确认的单侧头部锚点；不得自行添加单侧头饰、伤痕或配件。. Lock every such feature to the same anatomical side and exact attachment point across all four views. Apply truthful far-side occlusion; never mirror, duplicate, swap sides, or move a feature toward the camera for visibility.
 
 Four-view geometry and consistency requirements:
