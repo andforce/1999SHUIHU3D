@@ -7,20 +7,23 @@ Strict left-to-right order: (1) based on the left profile, rotate the whole char
 
 Relative 45-degree geometry is mandatory. Column 1 derives only from column 2 by rotating the entire body counterclockwise 45 degrees around the vertical axis. Column 6 derives only from column 5 by rotating the entire body clockwise 45 degrees. Head, ribcage, pelvis, knees and both feet rotate together. Columns 1 and 6 must show opposite near cheeks, ears, shoulders, costume/armor perspective and far-limb occlusion. Never copy, reuse, horizontally flip or collapse either column into a front or pure profile.
 
-Identity: gender presentation 男性; apparent age 成年; face 瘦长脸、神情专注; hair 黑发被灰色头巾遮住; facial hair 短黑髭与下巴短须; body type 精瘦敏捷; proportions 保持原图人物独有的高矮、胖瘦和头身比例，不为批量整齐而统一体型.
-Costume layers: 灰色短袍；深色裤；棕色护臂；灰头巾与绑腿.
-Palette: 灰；黑；棕；蓝绿.
-Materials: 织物按原图褶皱与厚薄表现；金属、皮革、毛皮或木材仅在原图可见时保留相应质感.
+Identity: gender presentation 男性; apparent age 成年; face 瘦长有棱角、眼神专注凶悍; hair 黑发大部分被完整灰黑狼首毛皮头套遮住，绝不是普通头巾; facial hair 完全无胡须和胡茬; body type 精瘦敏捷; proportions 保持原图人物独有的高矮、胖瘦和头身比例，不为批量整齐而统一体型.
+Costume layers: 完整灰黑狼首毛皮头套，狼首覆盖头顶、狼耳狼吻黑鼻与上下颌牙齿围住人物面部，毛皮覆盖后脑颈肩和上背；浅灰交领短袍；深灰裤；棕黑护臂；浅灰绑腿和攀爬鞋履.
+Palette: 灰黑；浅灰；深灰；棕黑；蓝；绿；红棕；银白.
+Materials: 灰黑方向性狼毛；浅灰织物；棕黑皮革；银白金属；蓝色刀柄缠带；绿色刀鞘／刀身；红棕匕首柄.
 Patterns and symbols: 只保留原图清楚可见的纹样、甲片分格和装饰位置，不生成文字或新徽记.
-Must preserve: 瘦长脸、神情专注；黑发被灰色头巾遮住；精瘦敏捷；灰色短袍、深色裤、棕色护臂、灰头巾与绑腿；灰、黑、棕、蓝绿；背负与腰挂的双短剑／双刀，蓝绿握柄与银色刃.
-Confirmed visual evidence: 身份与外形：瘦长脸、神情专注；黑发被灰色头巾遮住；短黑髭与下巴短须；精瘦敏捷。；服装：灰色短袍、深色裤、棕色护臂、灰头巾与绑腿。；主配色：灰、黑、棕、蓝绿。；武器或标志装备：背负与腰挂的双短剑／双刀，蓝绿握柄与银色刃。.
+Must preserve: 解宝的瘦长无须脸；完整灰黑狼首毛皮头套而非头巾；狼耳、长吻、黑鼻、张口上下颌和狼牙围住脸；浅灰衣袍；嘴中横叼红棕柄银刃匕首；人物自身左后背只负一把蓝缠柄椭圆环首绿色长刀.
+Confirmed visual evidence: 解宝为精瘦成年男性，完全无胡须；头戴完整灰黑狼首毛皮头套；浅灰交领短袍、深灰裤、棕黑护臂与浅灰绑腿；牙齿横叼红棕柄银刃匕首；人物自身左后背负蓝缠柄椭圆环首绿色单刀；原画正在攀爬悬崖。.
 Restrained structural inference: 人物背部服装按正侧面同材质、同层级连续闭合，不新增徽章、纹样或第二套配件。；被动作遮挡的左右肢体、鞋履和服装侧缝采用最克制、近似对称且易修改的补全。；武器或标志装备的反面、薄侧面与被裁切末端采用无额外装饰的结构性补全。.
-Unknown and editable: 双刀完整刃形、背带连接和鞋履被攀爬动作遮挡；原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知。.
-Asymmetric three-dimensional anchors: No permanent one-sided costume anchor is confirmed in the current evidence record. Held weapons, mounts and action-driven cloth motion are not permanent body asymmetry; do not invent a new one-sided accessory.
+Unknown and editable: 背刀完整刃形、刀鞘背面、背带精确扣合和鞋履部分细节被攀爬动作遮挡；其余隐藏连接方式保持最简易改。.
+Asymmetric three-dimensional anchors: (1) mouth dagger fixed between the teeth at centerline, red-brown handle toward character-right and silver blade toward character-left/down; (2) single ring-pommel saber fixed on character-left rear upper torso, pommel above left shoulder and green long section descending along the left back. Never mirror, duplicate, swap sides or reposition for visibility.
 
 Anchor rule: every recorded asymmetric feature stays permanently fixed to its anatomical side and three-dimensional attachment point. Rotate only the observer/body orientation; never swap sides, mirror, duplicate or move a far-side feature toward the camera. Real occlusion has priority over full visibility.
 
-Composition: exactly six full-body figures and nothing else, fully visible and uncropped, identical height, head-body ratio, head-top line and foot baseline, equal spacing, neutral natural stance, arms slightly away from torso, hands relaxed. Keep permanent worn accessories and scabbards only when visible in Image 1. Every held weapon, signature prop, mount and pet must be completely absent from this character sheet; they will be generated on separate sheets. Do not add a second row or any object study.
+Composition: exactly six full-body figures and nothing else, fully visible and uncropped, identical height, head-body ratio, head-top line and foot baseline, equal spacing, neutral natural stance, arms slightly away from torso, hands relaxed. Keep the signature mouth-held dagger and the single character-left back-mounted saber in every view where real projection permits; keep their fixed anchors and truthful occlusion. Do not add a second row or any object study.
 
-Style/medium: faithful to Image 1's bold black ink contours, late-1990s hand-painted cel shading and watercolor coloring; clean warm-light-gray production-sheet presentation matching Image 3, not photorealistic.
+画风固定为1999–2000年中国水浒英雄收藏卡式二维手绘商业插画。使用深黑或深褐色、粗细有变化且略带手绘起伏的墨线：外轮廓醒目，内部结构线清楚。保留原卡高饱和但非荧光的综合色彩和鲜明冷暖对比，以清晰基色色块塑造造型，每种主要材质使用约2至4档可辨认的结构阴影与高光；硬边色块为主，局部结合马克笔、水彩/水粉、喷笔式柔和过渡、短排线和干笔纹理。人物保持成年英雄漫画感、棱角明确的五官和扎实人体结构；皮肤、布料、金属、皮革、木材和毛发都以简洁的方向性手绘笔触区分。整体必须保持清楚二维轮廓、纸本手绘质感和复古商业卡画气质，但画面本身干净高清，不模拟旧印刷损伤。所有视角使用完全一致的描线、综合色阶、纹理密度和统一光源。
+
+不要纯赛璐璐动画上色，不要只有单层硬阴影的扁平动漫图；不要无描线半厚涂、油画厚涂或现代手游宣传画；不要照片写实、电影概念艺术、3D、CGI、PBR、ZBrush雕塑感、塑料或树脂手办质感、平滑全局光照、景深和镜头炫光；不要现代萌系、幼态脸、统一网红脸、矢量图、等粗线、波普网点。不要纸张泛黄、扫描噪点、印刷网点、折痕、套色偏移、卡框、文字、标题或水印。
+
 Constraints: same identity, face, hair, facial hair, body type, garment layers, palette, patterns, armor and fixed accessories in every view; pure side/front/back views structurally readable; inferred back details minimal and undecorated. No title, labels, letters, watermark, scenery, action effects, extra people, extra animals, duplicate weapons, fused props, extra limbs, accidental mirroring or cropping.
