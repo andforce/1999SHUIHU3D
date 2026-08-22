@@ -7,7 +7,7 @@ import { Artwork } from './Artwork'
 const viewLabels: Record<AssetView, string> = {
   card: '原始卡片',
   head: '头部四视图',
-  turnaround: '人物五视图',
+  turnaround: '人物六视图',
   pose: '原画动作六视图',
   weapon: '武器图',
   mount: '坐骑图',

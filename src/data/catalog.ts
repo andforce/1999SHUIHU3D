@@ -90,7 +90,7 @@ export const characters: CharacterEntry[] = (
   ...(entry.head
     ? { head: requiredAsset(headsById, entry.id, '头部四视图') }
     : {}),
-  turnaround: requiredAsset(turnaroundsById, entry.id, '人物五视图'),
+  turnaround: requiredAsset(turnaroundsById, entry.id, '人物六视图'),
   pose: requiredAsset(posesById, entry.id, '原画动作六视图'),
   ...(entry.weapon
     ? { weapon: requiredAsset(weaponsById, entry.id, '武器图') }
