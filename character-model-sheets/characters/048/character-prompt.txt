@@ -7,13 +7,13 @@ Strict left-to-right order: (1) based on the left profile, rotate the whole char
 
 Relative 45-degree geometry is mandatory. Column 1 derives only from column 2 by rotating the entire body counterclockwise 45 degrees around the vertical axis. Column 6 derives only from column 5 by rotating the entire body clockwise 45 degrees. Head, ribcage, pelvis, knees and both feet rotate together. Columns 1 and 6 must show opposite near cheeks, ears, shoulders, costume/armor perspective and far-limb occlusion. Never copy, reuse, horizontally flip or collapse either column into a front or pure profile.
 
-Identity: gender presentation 男性; apparent age 中年; face 宽脸、浓眉、神情傲然; hair 黑发高束成短髻; facial hair 黑色短髭与下巴短须; body type 极高大魁梧、肩臂肌肉夸张; proportions 保持原图人物独有的高矮、胖瘦和头身比例，不为批量整齐而统一体型.
+Identity: gender presentation 男性; apparent age 中年; face 宽脸、浓眉、神情傲然; hair 黑发高束成短髻; facial hair 无胡须（上唇与下巴均为干净皮肤）; body type 极高大魁梧、肩臂肌肉夸张; proportions 保持原图人物独有的高矮、胖瘦和头身比例，不为批量整齐而统一体型.
 Costume layers: 绿色无袖战袍；银色长甲裙；白色毛边护肩；红黑腰甲与白靴.
 Palette: 绿；银白；红；黑.
 Materials: 织物按原图褶皱与厚薄表现；金属、皮革、毛皮或木材仅在原图可见时保留相应质感.
 Patterns and symbols: 只保留原图清楚可见的纹样、甲片分格和装饰位置，不生成文字或新徽记.
-Must preserve: 宽脸、浓眉、神情傲然；黑发高束成短髻；极高大魁梧、肩臂肌肉夸张；绿色无袖战袍、银色长甲裙、白色毛边护肩、红黑腰甲与白靴；绿、银白、红、黑.
-Confirmed visual evidence: 身份与外形：宽脸、浓眉、神情傲然；黑发高束成短髻；黑色短髭与下巴短须；极高大魁梧、肩臂肌肉夸张。；服装：绿色无袖战袍、银色长甲裙、白色毛边护肩、红黑腰甲与白靴。；主配色：绿、银白、红、黑。.
+Must preserve: 宽脸、浓眉、神情傲然；黑发高束成短髻；上唇与下巴均无胡须、面部干净；极高大魁梧、肩臂肌肉夸张；绿色无袖战袍、银色长甲裙、白色毛边护肩、红黑腰甲与白靴；绿、银白、红、黑.
+Confirmed visual evidence: 身份与外形：宽脸、浓眉、神情傲然；黑发高束成短髻；上唇与下巴均无胡须、面部干净；极高大魁梧、肩臂肌肉夸张。；服装：绿色无袖战袍、银色长甲裙、白色毛边护肩、红黑腰甲与白靴。；主配色：绿、银白、红、黑。.
 Restrained structural inference: 人物背部服装按正侧面同材质、同层级连续闭合，不新增徽章、纹样或第二套配件。；被动作遮挡的左右肢体、鞋履和服装侧缝采用最克制、近似对称且易修改的补全。.
 Unknown and editable: 背甲闭合、远侧肩部和鞋后结构不可见；原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知。.
 Asymmetric three-dimensional anchors: No permanent one-sided costume anchor is confirmed in the current evidence record. Held weapons, mounts and action-driven cloth motion are not permanent body asymmetry; do not invent a new one-sided accessory.
