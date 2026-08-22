@@ -4,7 +4,7 @@ Input images: Image 1 is the sole primary visual evidence for character 073's en
 Primary request: Create one clean landscape design sheet for: 木色短杖／棍与银色链鞭／软索组合装备. Preserve only the silhouette, colors, materials, patterns, grip and attachment relationships supported by Image 1.
 Required views: complete main face, complete reverse, true thinnest side profile, key construction details, natural grip/use state, storage or body-attachment state when applicable, and a small full-body owner comparison for accurate scale. Every repeated view must depict the same entity and dimensions.
 Entity notes: 按可独立建模、拿取或动画化的武器或标志装备拆分独立设定表。；只保留原图可见轮廓、配色、材质、握持或连接关系；不可见反面作最简补全。.
-Confirmed evidence: 身份与外形：宽脸、浓眉、露齿笑；黑发高束短髻；黑色短髭与下巴短须；高大结实。；服装：银灰鳞甲、绿色围巾、白色宽裤、紫腰带与绿色绑腿。；主配色：银灰、绿、白、紫、棕。；武器或标志装备：木色短杖／棍与银色链鞭／软索组合装备。.
+Confirmed evidence: 身份与外形：宽脸、浓眉、露齿笑；黑发高束短髻；上唇与下巴光洁、无胡须；高大结实。；服装：银灰鳞甲、绿色围巾、白色宽裤、紫腰带与绿色绑腿。；主配色：银灰、绿、白、紫、棕。；武器或标志装备：木色短杖／棍与银色链鞭／软索组合装备。.
 Unknown/inferred restraint: 链鞭末端、短杖用途和背甲结构不可见；原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知。; complete unseen reverse, edge and mechanism minimally with no unsupported ornament.
 Style: bold black ink contours, late-1990s hand-painted cel shading and watercolor coloring, warm light-gray neutral production-sheet background, even working light.
 Constraints: all complete views fully visible and uncropped; no title, labels, letters, measurements, watermark, scenery, action effects, unrelated props, duplicate entities, fused hands, extra blades, extra parts or invented decoration.
