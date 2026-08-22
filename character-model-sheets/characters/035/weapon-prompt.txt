@@ -1,10 +1,13 @@
 Use case: stylized-concept
 Asset type: professional game/animation standalone weapon or signature-prop design sheet
 Input images: Image 1 is the sole primary visual evidence for character 035's entity. Image 2 is the newly generated character six-view and determines owner identity, scale and style. Image 3 is the legacy entity sheet only as a secondary continuity reference; correct its mistakes and do not copy labels or old layout.
-Primary request: Create one clean landscape design sheet for: 背负与腰挂的双短剑／双刀，蓝绿握柄与银色刃. Preserve only the silhouette, colors, materials, patterns, grip and attachment relationships supported by Image 1.
+Primary request: Create one clean landscape design sheet with two distinct entities only: (A) one red-brown-handled silver dagger held crosswise in the teeth; (B) one blue-wrapped oval-ring-pommel long saber with a green scabbard/blade carried on the character-left rear back. Never turn them into paired or duplicated sabers. Preserve only the silhouette, colors, materials, grip and attachment relationships supported by Image 1.
 Required views: complete main face, complete reverse, true thinnest side profile, key construction details, natural grip/use state, storage or body-attachment state when applicable, and a small full-body owner comparison for accurate scale. Every repeated view must depict the same entity and dimensions.
 Entity notes: 按可独立建模、拿取或动画化的武器或标志装备拆分独立设定表。；只保留原图可见轮廓、配色、材质、握持或连接关系；不可见反面作最简补全。.
-Confirmed evidence: 身份与外形：瘦长脸、神情专注；黑发被灰色头巾遮住；短黑髭与下巴短须；精瘦敏捷。；服装：灰色短袍、深色裤、棕色护臂、灰头巾与绑腿。；主配色：灰、黑、棕、蓝绿。；武器或标志装备：背负与腰挂的双短剑／双刀，蓝绿握柄与银色刃。.
-Unknown/inferred restraint: 双刀完整刃形、背带连接和鞋履被攀爬动作遮挡；原图未展示的背面精确扣合、内层闭合、远侧细节与所有隐藏连接方式仍为未知。; complete unseen reverse, edge and mechanism minimally with no unsupported ornament.
-Style: bold black ink contours, late-1990s hand-painted cel shading and watercolor coloring, warm light-gray neutral production-sheet background, even working light.
+Confirmed evidence: 解宝完全无胡须，头戴完整灰黑狼首毛皮头套；一把红棕柄银刃匕首横叼于牙齿之间；另有且只有一把蓝缠柄、椭圆环首、绿色长部的刀固定在人物自身左后背。.
+Unknown/inferred restraint: 背刀完整刃形、刀鞘背面、背带精确扣合与匕首不可见反面仍未知；complete unseen reverse, edge and mechanism minimally with no unsupported ornament.
+画风固定为1999–2000年中国水浒英雄收藏卡式二维手绘商业插画。使用深黑或深褐色、粗细有变化且略带手绘起伏的墨线：外轮廓醒目，内部结构线清楚。保留原卡高饱和但非荧光的综合色彩和鲜明冷暖对比，以清晰基色色块塑造造型，每种主要材质使用约2至4档可辨认的结构阴影与高光；硬边色块为主，局部结合马克笔、水彩/水粉、喷笔式柔和过渡、短排线和干笔纹理。人物保持成年英雄漫画感、棱角明确的五官和扎实人体结构；皮肤、布料、金属、皮革、木材和毛发都以简洁的方向性手绘笔触区分。整体必须保持清楚二维轮廓、纸本手绘质感和复古商业卡画气质，但画面本身干净高清，不模拟旧印刷损伤。所有视角使用完全一致的描线、综合色阶、纹理密度和统一光源。
+
+不要纯赛璐璐动画上色，不要只有单层硬阴影的扁平动漫图；不要无描线半厚涂、油画厚涂或现代手游宣传画；不要照片写实、电影概念艺术、3D、CGI、PBR、ZBrush雕塑感、塑料或树脂手办质感、平滑全局光照、景深和镜头炫光；不要现代萌系、幼态脸、统一网红脸、矢量图、等粗线、波普网点。不要纸张泛黄、扫描噪点、印刷网点、折痕、套色偏移、卡框、文字、标题或水印。
+
 Constraints: all complete views fully visible and uncropped; no title, labels, letters, measurements, watermark, scenery, action effects, unrelated props, duplicate entities, fused hands, extra blades, extra parts or invented decoration.

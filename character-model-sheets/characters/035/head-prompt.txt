@@ -7,12 +7,12 @@ Input images:
 
 Primary request: Create one clean landscape head model sheet of the exact same character, with exactly four equal-scale head-and-shoulder close-ups ordered left to right: pure front, pure back, pure character-left profile, pure character-right profile.
 
-Identity lock: 男性；成年；face 瘦长脸、神情专注；hair/headwear 黑发被灰色头巾遮住；facial hair 短黑髭与下巴短须.
-Must preserve: 脸型 瘦长脸、神情专注；发型与头戴 黑发被灰色头巾遮住；胡须 短黑髭与下巴短须；不得添加原图与现有六视图中不存在的头部非对称结构。.
-Confirmed visual evidence: 身份与外形：瘦长脸、神情专注；黑发被灰色头巾遮住；短黑髭与下巴短须；精瘦敏捷；服装：灰色短袍、深色裤、棕色护臂、灰头巾与绑腿.
-Restrained structural inference for unseen rear details: 武器或标志装备的反面、薄侧面与被裁切末端采用无额外装饰的结构性补全.
+Identity lock: 男性；成年；face 瘦长有棱角、眼神专注凶悍；hair/headwear 黑发大部分被完整灰黑狼首毛皮头套遮住，绝不是普通头巾；facial hair 完全无胡须和胡茬.
+Must preserve: 同一个解宝的无须脸；完整狼首覆盖头顶，两只狼耳、长狼吻、黑鼻、张口上下颌与狼牙围住人物面部；狼皮连续覆盖后脑颈肩和上背；嘴中横叼匕首的方向固定。.
+Confirmed visual evidence: 解宝完全无胡须；头戴完整灰黑狼首毛皮头套；牙齿横叼红棕柄银刃匕首；左后背负蓝缠柄椭圆环首绿色单刀.
+Restrained structural inference for unseen rear details: 狼首头套后部采用一张连续狼皮包覆后脑、颈肩并垂到上背，不增加布结、普通头巾尾、徽章或装饰.
 Unknown details that must remain simple, conservative, and easy to revise: 原图未展示的后脑、发型内层、头戴背面连接与远侧细节仍为未知，保持简单易改。.
-Asymmetric three-dimensional anchors: 没有已确认的单侧头部锚点；不得自行添加单侧头饰、伤痕或配件。. Lock every such feature to the same anatomical side and exact attachment point across all four views. Apply truthful far-side occlusion; never mirror, duplicate, swap sides, or move a feature toward the camera for visibility.
+Asymmetric three-dimensional anchors: mouth dagger is fixed between the teeth at the mouth centerline, red-brown handle toward character-right and silver blade toward character-left/down; the single back saber is fixed to character-left rear upper torso. Lock every such feature to the same anatomical side and exact attachment point across all four views. Apply truthful far-side occlusion; never mirror, duplicate, swap sides, or move a feature toward the camera for visibility.
 
 Four-view geometry and consistency requirements:
 1. Pure front: neutral expression, head level, both ears and bilateral structures aligned without changing the original character's natural asymmetry.
@@ -26,4 +26,4 @@ All four views must depict one identical person with the same skull volume, face
 
 不要纯赛璐璐动画上色，不要只有单层硬阴影的扁平动漫图；不要无描线半厚涂、油画厚涂或现代手游宣传画；不要照片写实、电影概念艺术、3D、CGI、PBR、ZBrush雕塑感、塑料或树脂手办质感、平滑全局光照、景深和镜头炫光；不要现代萌系、幼态脸、统一网红脸、矢量图、等粗线、波普网点。不要纸张泛黄、扫描噪点、印刷网点、折痕、套色偏移、卡框、文字、标题或水印。
 
-Composition and hard constraints: wide landscape sheet; exactly four large evenly spaced head-and-shoulder studies and nothing else; warm off-white or very light neutral-gray background; even working light; clean readable silhouettes; no title, labels, numbering, letters, arrows, border, watermark, scenery, weapons, hands, extra heads, duplicate views, expression sheet, three-quarter views, front-facing back view, mirrored profiles, cropping of headwear or hair, or unsupported decoration.
+Composition and hard constraints: wide landscape sheet; exactly four large evenly spaced head-and-shoulder studies and nothing else; warm off-white or very light neutral-gray background; even working light; clean readable silhouettes. Preserve the mouth-held dagger in every visible-face view and the back saber only where real shoulder projection permits. No title, labels, numbering, letters, arrows, border, watermark, scenery, hands, extra heads, duplicate views, expression sheet, three-quarter views, front-facing back view, mirrored profiles, cropping of wolf ears/fur, ordinary headscarf, beard, duplicate weapons, or unsupported decoration.
