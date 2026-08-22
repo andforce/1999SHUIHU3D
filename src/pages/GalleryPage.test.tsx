@@ -57,7 +57,7 @@ describe('GalleryPage', () => {
     const dialog = screen.getByRole('dialog', { name: '人物 · No. 001' })
     expect(
       within(dialog).getAllByRole('heading', { level: 3 }).map((heading) => heading.textContent),
-    ).toEqual(['原始卡片', '头部四视', '人物五视', '兵器设定'])
+    ).toEqual(['原始卡片', '头部四视', '人物五视', '原画动作六视', '兵器设定'])
   })
 
   it('opens a complete character popup in the intended image order', async () => {
@@ -70,7 +70,7 @@ describe('GalleryPage', () => {
     expect(dialog).toBeInTheDocument()
     expect(
       within(dialog).getAllByRole('heading', { level: 3 }).map((heading) => heading.textContent),
-    ).toEqual(['原始卡片', '人物五视', '兵器设定', '坐骑设定'])
+    ).toEqual(['原始卡片', '人物五视', '原画动作六视', '兵器设定', '坐骑设定'])
 
     await user.click(within(dialog).getByRole('button', { name: '下一位 No. 027' }))
     expect(screen.getByRole('dialog', { name: '人物 · No. 027' })).toBeInTheDocument()

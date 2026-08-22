@@ -75,7 +75,7 @@ export function GalleryPage({ entries }: GalleryPageProps) {
               <em>一百单八将</em>
             </h1>
             <p>
-              逐张重访旧日卡面，对照头部四视、人物五视、兵器与坐骑。
+              逐张重访旧日卡面，对照头部四视、人物五视、原画动作六视、兵器与坐骑。
               <br className="hidden sm:block" />
               一套属于收藏者的水浒人物图谱。
             </p>
@@ -239,7 +239,7 @@ export function GalleryPage({ entries }: GalleryPageProps) {
       <footer className="site-footer">
         <span className="site-footer__mark">一百单八</span>
         <p>1999 小浣熊水浒收藏图鉴</p>
-        <span>卡片 · 头部四视 · 人物五视 · 兵器 · 坐骑</span>
+        <span>卡片 · 头部四视 · 人物五视 · 原画动作六视 · 兵器 · 坐骑</span>
       </footer>
 
       {selectedEntry && (

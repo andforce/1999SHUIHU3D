@@ -17,6 +17,11 @@ const turnaroundModules = import.meta.glob(
   { eager: true, query: '?url', import: 'default' },
 ) as Record<string, string>
 
+const poseModules = import.meta.glob(
+  '../../character-model-sheets/characters/*/character-turnaround-original-pose.png',
+  { eager: true, query: '?url', import: 'default' },
+) as Record<string, string>
+
 const weaponModules = import.meta.glob(
   '../../character-model-sheets/characters/*/weapon-sheet.png',
   { eager: true, query: '?url', import: 'default' },
@@ -48,6 +53,10 @@ const headsById = mapAssetsById(
 const turnaroundsById = mapAssetsById(
   turnaroundModules,
   /\/characters\/(\d{3})\/character-turnaround\.png$/,
+)
+const posesById = mapAssetsById(
+  poseModules,
+  /\/characters\/(\d{3})\/character-turnaround-original-pose\.png$/,
 )
 const weaponsById = mapAssetsById(
   weaponModules,
@@ -82,6 +91,7 @@ export const characters: CharacterEntry[] = (
     ? { head: requiredAsset(headsById, entry.id, '头部四视图') }
     : {}),
   turnaround: requiredAsset(turnaroundsById, entry.id, '人物五视图'),
+  pose: requiredAsset(posesById, entry.id, '原画动作六视图'),
   ...(entry.weapon
     ? { weapon: requiredAsset(weaponsById, entry.id, '武器图') }
     : {}),

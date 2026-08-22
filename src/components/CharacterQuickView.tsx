@@ -15,6 +15,7 @@ const viewLabels: Record<AssetView, string> = {
   card: '原始卡片',
   head: '头部四视',
   turnaround: '人物五视',
+  pose: '原画动作六视',
   weapon: '兵器设定',
   mount: '坐骑设定',
 }

@@ -9,6 +9,7 @@ const assetViews = new Set<AssetView>([
   'card',
   'head',
   'turnaround',
+  'pose',
   'weapon',
   'mount',
 ])
@@ -20,7 +21,7 @@ export function parseHash(hash: string): AppRoute {
   }
 
   const match = path.match(
-    /^\/character\/(\d{3})(?:\/(card|head|turnaround|weapon|mount))?\/?$/,
+    /^\/character\/(\d{3})(?:\/(card|head|turnaround|pose|weapon|mount))?\/?$/,
   )
   if (!match) return { page: 'not-found' }
 
@@ -43,6 +44,7 @@ export function availableViews(entry: CharacterEntry): AssetView[] {
     'card',
     ...(entry.head ? (['head'] as const) : []),
     'turnaround',
+    'pose',
     ...(entry.weapon ? (['weapon'] as const) : []),
     ...(entry.mount ? (['mount'] as const) : []),
   ]

@@ -16,7 +16,7 @@ describe('CharacterPage', () => {
     expect(screen.queryByRole('navigation', { name: '人物素材类别' })).not.toBeInTheDocument()
     expect(
       screen.getAllByRole('heading', { level: 2 }).map((heading) => heading.textContent),
-    ).toEqual(['原始卡片', '人物五视', '兵器设定', '坐骑设定'])
+    ).toEqual(['原始卡片', '人物五视', '原画动作六视', '兵器设定', '坐骑设定'])
   })
 
   it('omits weapon and mount panels when those assets do not exist', () => {
@@ -25,6 +25,7 @@ describe('CharacterPage', () => {
     )
 
     expect(screen.getByRole('heading', { name: '人物五视' })).toBeInTheDocument()
+    expect(screen.getByRole('heading', { name: '原画动作六视' })).toBeInTheDocument()
     expect(screen.queryByRole('heading', { name: '兵器设定' })).not.toBeInTheDocument()
     expect(screen.queryByRole('heading', { name: '坐骑设定' })).not.toBeInTheDocument()
   })
@@ -39,7 +40,7 @@ describe('CharacterPage', () => {
 
     expect(
       screen.getAllByRole('heading', { level: 2 }).map((heading) => heading.textContent),
-    ).toEqual(['原始卡片', '头部四视', '人物五视', '兵器设定'])
+    ).toEqual(['原始卡片', '头部四视', '人物五视', '原画动作六视', '兵器设定'])
   })
 
   it('opens the full-screen viewer and closes it with Escape', async () => {

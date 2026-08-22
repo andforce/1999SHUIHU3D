@@ -20,6 +20,11 @@ describe('hash routing', () => {
       id: '001',
       view: 'head',
     })
+    expect(parseHash('#/character/001/pose')).toEqual({
+      page: 'character',
+      id: '001',
+      view: 'pose',
+    })
     expect(parseHash('#/character/001')).toEqual({
       page: 'character',
       id: '001',
@@ -37,6 +42,7 @@ describe('hash routing', () => {
       'card',
       'head',
       'turnaround',
+      'pose',
       'weapon',
     ])
     expect(supportedView(testCharacters[2], 'mount')).toBe('turnaround')

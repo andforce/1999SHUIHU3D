@@ -1,4 +1,10 @@
-export type AssetView = 'card' | 'head' | 'turnaround' | 'weapon' | 'mount'
+export type AssetView =
+  | 'card'
+  | 'head'
+  | 'turnaround'
+  | 'pose'
+  | 'weapon'
+  | 'mount'
 
 export interface CharacterEntry {
   id: string
@@ -6,6 +12,7 @@ export interface CharacterEntry {
   thumbnail: string
   head?: string
   turnaround: string
+  pose: string
   weapon?: string
   mount?: string
 }
@@ -16,6 +23,7 @@ export interface SourceCatalogEntry {
   thumbnail: string
   head?: string
   turnaround: string
+  pose: string
   weapon?: string
   mount?: string
 }

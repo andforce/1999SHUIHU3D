@@ -13,6 +13,7 @@ const checkOnly = process.argv.includes('--check')
 const EXPECTED = {
   card: 108,
   turnaround: 108,
+  pose: 108,
   weapon: 91,
   mount: 14,
 }
@@ -40,6 +41,7 @@ async function collectCatalog() {
     const card = `images/${id}.png`
     const head = `character-model-sheets/characters/${id}/head-sheet.png`
     const turnaround = `character-model-sheets/characters/${id}/character-turnaround.png`
+    const pose = `character-model-sheets/characters/${id}/character-turnaround-original-pose.png`
     const weapon = `character-model-sheets/characters/${id}/weapon-sheet.png`
     const mount = `character-model-sheets/characters/${id}/mount-sheet.png`
 
@@ -51,12 +53,17 @@ async function collectCatalog() {
       throw new Error(`缺少人物五视图：${turnaround}`)
     }
 
+    if (!(await exists(path.join(projectRoot, pose)))) {
+      throw new Error(`缺少原画动作六视图：${pose}`)
+    }
+
     entries.push({
       id,
       card,
       thumbnail: `generated/cards/${id}.webp`,
       ...((await exists(path.join(projectRoot, head))) ? { head } : {}),
       turnaround,
+      pose,
       ...((await exists(path.join(projectRoot, weapon))) ? { weapon } : {}),
       ...((await exists(path.join(projectRoot, mount))) ? { mount } : {}),
     })
@@ -71,6 +78,7 @@ function validateCatalog(entries) {
     card: entries.length,
     head: entries.filter((entry) => entry.head).length,
     turnaround: entries.filter((entry) => entry.turnaround).length,
+    pose: entries.filter((entry) => entry.pose).length,
     weapon: entries.filter((entry) => entry.weapon).length,
     mount: entries.filter((entry) => entry.mount).length,
   }
@@ -148,5 +156,5 @@ if (!checkOnly) {
 }
 
 console.log(
-  `素材校验通过：卡片 ${counts.card}，头部四视 ${counts.head}，人物五视 ${counts.turnaround}，武器 ${counts.weapon}，坐骑 ${counts.mount}。`,
+  `素材校验通过：卡片 ${counts.card}，头部四视 ${counts.head}，人物五视 ${counts.turnaround}，原画动作六视 ${counts.pose}，武器 ${counts.weapon}，坐骑 ${counts.mount}。`,
 )
